@@ -1,0 +1,1425 @@
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 181387
+[00:00:00]: Current time: Tue Jan 03 21:11:57 2017
+
+[00:00:00]: Don't Starve Together: 181387 WIN32_STEAM
+[00:00:00]: Build Date: 733
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Initializing Steam
+[00:00:00]: Steam AppBuildID: 213
+[00:00:00]: Steam BetaName(Branch): [Game_Beta]
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (23908)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:4.94
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application D:\
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: could not load ping_cache
+[00:00:00]: Offline user ID: OU_76561198224511930
+[00:00:00]: THREAD - started 'ConsoleInput' (19156)
+[00:00:00]: SteamID: 76561198224511930
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 1317,736 - 5/6/5 - -1/-1/-1 - 0
+[00:00:00]: CreateEGLContext: 12 configs found
+[00:00:00]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:00]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:00]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:00]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:00]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:00]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:00]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:00]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:00]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:00]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:00]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:00]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:00]: RestoreWindowPosition
+[00:00:00]:    Saved Client Pos (0 x 31)
+[00:00:00]:    Adjusted Window Pos (-8 x 0)
+[00:00:00]: EnsureWindowOnScreen
+[00:00:00]:    All good.
+[00:00:00]: GLInfo
+[00:00:00]: ~~~~~~
+[00:00:00]: THREAD - started 'WindowsInputManager' (20200)
+[00:00:00]: GL_VENDOR: Google Inc.
+[00:00:00]: GL_RENDERER: ANGLE (NVIDIA GeForce 610M)
+[00:00:00]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:00]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:00]: OpenGL extensions (19, 19):
+[00:00:00]: GL_ANGLE_depth_texture
+[00:00:00]: GL_ANGLE_framebuffer_blit
+[00:00:00]: GL_ANGLE_framebuffer_multisample
+[00:00:00]: GL_ANGLE_instanced_arrays
+[00:00:00]: GL_ANGLE_pack_reverse_row_order
+[00:00:00]: GL_ANGLE_texture_compression_dxt3
+[00:00:00]: GL_ANGLE_texture_compression_dxt5
+[00:00:00]: GL_ANGLE_texture_usage
+[00:00:00]: GL_ANGLE_translated_shader_source
+[00:00:00]: GL_EXT_read_format_bgra
+[00:00:00]: GL_EXT_robustness
+[00:00:00]: GL_EXT_texture_compression_dxt1
+[00:00:00]: GL_EXT_texture_format_BGRA8888
+[00:00:00]: GL_EXT_texture_storage
+[00:00:00]: GL_OES_get_program_binary
+[00:00:00]: GL_OES_packed_depth_stencil
+[00:00:00]: GL_OES_rgb8_rgba8
+[00:00:00]: GL_OES_standard_derivatives
+[00:00:00]: GL_OES_texture_npot
+[00:00:00]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:00]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:00]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:00]: GL_MAX_VARYING_VECTORS = 10
+[00:00:00]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:00]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:00]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:00]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:00]: 4 compressed texture formats
+[00:00:00]: texture format 0x83f0
+[00:00:00]: texture format 0x83f1
+[00:00:00]: texture format 0x83f2
+[00:00:00]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:02]: Buffers initialize: Okay
+[00:00:02]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:02]: GameSpecific initialize: Okay
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: WARNING: icon paths for mod d57-409753995 (d57莉莉姆) are not valid. Got icon_atlas="modicon.xml" and icon="modicon.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:02]: Could not load mod_config_data/modconfiguration_k01-367546858	
+[00:00:02]: Loading mod: k01-367546858 (k01中文MOD) Version:2.0 rc4	
+[00:00:02]: Could not load mod_config_data/modconfiguration_k02-376333686	
+[00:00:02]: Loading mod: k02-376333686 (k02季节时钟) Version:1.6.6	
+[00:00:02]: Mod: k02-376333686 (k02季节时钟)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: k02-376333686 (k02季节时钟)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: k02-376333686 (k02季节时钟)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:02]: Mod: k01-367546858 (k01中文MOD)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: k01-367546858 (k01中文MOD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: k01-367546858 (k01中文MOD)	Loading modmain.lua	
+[00:00:02]: Translator:LoadPOFile - loading file: ../mods/k01-367546858/DST_chs.po	
+[00:00:03]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: PlayerDeaths loaded morgue	2479	
+[00:00:05]: PlayerHistory loaded player_history	425	
+[00:00:05]: bloom_enabled	false	
+[00:00:05]: loaded saveindex	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:07]: Mod: k02-376333686 (k02季节时钟)	Registering prefabs	
+[00:00:07]: Mod: k02-376333686 (k02季节时钟)	  Registering default mod prefab	
+[00:00:07]: Mod: k01-367546858 (k01中文MOD)	Registering prefabs	
+[00:00:07]: Mod: k01-367546858 (k01中文MOD)	  Registering default mod prefab	
+[00:00:07]: 	Load FE	
+[00:00:09]: 	Load FE: done	
+[00:00:09]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:09]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:09]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:09]: SimLuaProxy::QueryServer()
+[00:00:09]: ModIndex: Load sequence finished successfully.	
+[00:00:09]: Reset() returning
+[00:00:45]: [Steam] Auth Session Ticket requested...
+[00:00:46]: SimLuaProxy::QueryServer()
+[00:00:49]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"external", "limit": 20}
+[00:00:49]: Frontend-Unloading mod 'all'.	
+[00:00:50]: ../mods/e02-373480109/Coordinate.tex is 120x104 but compressed textures must have power of 2 dimensions.
+[00:00:52]: Network tick rate: U=15(2), D=0
+[00:00:52]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:52]: About to start a server with the following settings:
+[00:00:52]:   Dedicated: false
+[00:00:52]:   Online: false
+[00:00:52]:   Passworded: true
+[00:00:52]:   ServerPort: 10999
+[00:00:52]:   SteamAuthPort: 8766
+[00:00:52]:   SteamMasterServerPort: 27016
+[00:00:52]:   ClanID: false
+[00:00:52]:   ClanOnly: false
+[00:00:52]:   ClanAdmin: false
+[00:00:52]:   LanOnly: true
+[00:00:52]:   FriendsOnly: false
+[00:00:52]:   EnableAutosaver: true
+[00:00:52]:   PVP: false
+[00:00:52]:   MaxPlayers: 6
+[00:00:52]:   GameMode: survival
+[00:00:52]:   OverridenDNS: 
+[00:00:52]:   PauseWhenEmpty: true
+[00:00:52]:   VoteEnabled: false
+[00:00:52]:   InternetBroadcasting: true
+[00:00:52]:   Intent: cooperative
+[00:00:52]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:52]: Lan Server Started on port: 10999
+[00:00:54]: unloading prefabs for mod MOD_k02-376333686	
+[00:00:54]: unloading prefabs for mod MOD_k01-367546858	
+[00:00:54]: Collecting garbage...
+[00:00:54]: lua_gc took 0.03 seconds
+[00:00:54]: ~ShardLuaProxy()
+[00:00:54]: ~ItemServerLuaProxy()
+[00:00:54]: ~InventoryLuaProxy()
+[00:00:54]: ~NetworkLuaProxy()
+[00:00:54]: ~SimLuaProxy()
+[00:00:54]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:54]: lua_close took 0.04 seconds
+[00:00:54]: ReleaseAll
+[00:00:54]: ReleaseAll Finished
+[00:00:54]: cGame::StartPlaying
+[00:00:54]: LOADING LUA
+[00:00:54]: DoLuaFile scripts/main.lua
+[00:00:54]: DoLuaFile loading buffer scripts/main.lua
+[00:00:54]: running main.lua
+	
+[00:00:54]: loaded modindex	
+[00:00:54]: WARNING: icon paths for mod d57-409753995 (d57莉莉姆) are not valid. Got icon_atlas="modicon.xml" and icon="modicon.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[00:00:54]: ModIndex: Beginning normal load sequence.
+	
+[00:00:54]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:54]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:54]: Could not load mod_config_data/modconfiguration_k01-367546858	
+[00:00:54]: Loading mod: k01-367546858 (k01中文MOD) Version:2.0 rc4	
+[00:00:54]: Could not load mod_config_data/modconfiguration_k02-376333686	
+[00:00:54]: Loading mod: k02-376333686 (k02季节时钟) Version:1.6.6	
+[00:00:54]: Mod: k02-376333686 (k02季节时钟)	Loading modworldgenmain.lua	
+[00:00:54]: Mod: k02-376333686 (k02季节时钟)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:54]: Mod: k02-376333686 (k02季节时钟)	Loading modmain.lua	
+[00:00:54]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:54]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:54]: Mod: k01-367546858 (k01中文MOD)	Loading modworldgenmain.lua	
+[00:00:54]: Mod: k01-367546858 (k01中文MOD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:54]: Mod: k01-367546858 (k01中文MOD)	Loading modmain.lua	
+[00:00:54]: Translator:LoadPOFile - loading file: ../mods/k01-367546858/DST_chs.po	
+[00:00:55]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[00:00:55]: LOADING LUA SUCCESS
+[00:00:55]: PlayerDeaths loaded morgue	2479	
+[00:00:55]: PlayerHistory loaded player_history	425	
+[00:00:55]: bloom_enabled	false	
+[00:00:55]: loaded saveindex	
+[00:00:55]: OnFilesLoaded()	
+[00:00:55]: OnUpdatePurchaseStateComplete	
+[00:00:55]: 	Unload FE	
+[00:00:55]: 	Unload FE done	
+[00:00:56]: Mod: k02-376333686 (k02季节时钟)	Registering prefabs	
+[00:00:56]: Mod: k02-376333686 (k02季节时钟)	  Registering default mod prefab	
+[00:00:56]: Mod: k01-367546858 (k01中文MOD)	Registering prefabs	
+[00:00:56]: Mod: k01-367546858 (k01中文MOD)	  Registering default mod prefab	
+[00:00:56]: 	LOAD BE	
+[00:00:58]: 	LOAD BE: done	
+[00:00:58]: Loading world: session/64685B2C07C03805/0000000138	
+[00:00:59]: Save file is at version 3	
+[00:00:59]: Begin Session: 64685B2C07C03805
+[00:00:59]: saving to server_temp/server_save	
+[00:00:59]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:01:00]: Loading Nav Grid	
+[00:01:00]: setting 	summerlength	15	
+[00:01:00]: setting 	isnightmaredawn	false	
+[00:01:00]: setting 	elapseddaysinseason	1	
+[00:01:00]: setting 	isfullmoon	false	
+[00:01:00]: setting 	moisture	7865.0541992188	
+[00:01:00]: setting 	cavephase	day	
+[00:01:00]: setting 	isnightmarewild	false	
+[00:01:00]: setting 	moonphase	full	
+[00:01:00]: setting 	precipitationrate	0	
+[00:01:00]: setting 	iswet	false	
+[00:01:00]: setting 	winterlength	15	
+[00:01:00]: setting 	temperature	1.1707597145204	
+[00:01:00]: setting 	isnightmarewarn	false	
+[00:01:00]: setting 	iswinter	true	
+[00:01:00]: setting 	moistureceil	10367.499023438	
+[00:01:00]: setting 	isday	true	
+[00:01:00]: setting 	israining	false	
+[00:01:00]: setting 	remainingdaysinseason	14	
+[00:01:00]: setting 	precipitation	none	
+[00:01:00]: setting 	wetness	0	
+[00:01:00]: setting 	isnightmarecalm	false	
+[00:01:00]: setting 	timeinphase	0.21300633748372	
+[00:01:00]: setting 	isdusk	false	
+[00:01:00]: setting 	iscavedusk	false	
+[00:01:00]: setting 	isautumn	false	
+[00:01:00]: setting 	issnowing	false	
+[00:01:00]: setting 	iscaveday	true	
+[00:01:00]: setting 	phase	day	
+[00:01:00]: setting 	snowlevel	0	
+[00:01:00]: setting 	issnowcovered	false	
+[00:01:00]: setting 	autumnlength	20	
+[00:01:00]: setting 	pop	0.73715457406159	
+[00:01:00]: setting 	nightmaretime	0	
+[00:01:00]: setting 	springlength	20	
+[00:01:00]: setting 	isspring	false	
+[00:01:00]: setting 	nightmarephase	none	
+[00:01:00]: setting 	season	winter	
+[00:01:00]: setting 	time	0.079877376556396	
+[00:01:00]: setting 	iscavenight	false	
+[00:01:00]: setting 	cycles	91	
+[00:01:00]: setting 	isnight	false	
+[00:01:00]: setting 	nightmaretimeinphase	0	
+[00:01:00]: setting 	issummer	false	
+[00:01:07]: Reconstructing topology	
+[00:01:07]: 	...Sorting points	
+[00:01:07]: 	...Sorting edges	
+[00:01:07]: 	...Connecting nodes	
+[00:01:07]: 	...Validating connections	
+[00:01:07]: 	...Housekeeping	
+[00:01:07]: 	...Done!	
+[00:01:07]: 1 uploads added to server. From server_temp
+[00:01:07]: Telling Client our new session identifier: 64685B2C07C03805
+[00:01:07]: ModIndex: Load sequence finished successfully.	
+[00:01:07]: Reset() returning
+[00:01:08]: Unconnected ping from 192.168.2.140|61286
+[00:01:08]: Unconnected ping from 192.168.2.234|49316
+[00:01:09]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:01:09]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:01:09]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:01:09]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:01:09]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:01:09]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:01:09]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:01:09]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:01:09]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:01:09]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:01:09]: Attempting to send resume request
+[00:01:09]: Resuming user: session/64685B2C07C03805/OU_76561198224511930_/0000000138
+[00:01:09]: Spawning player at: [Load] (224.57, -0.00, 52.72)	
+[00:01:09]: ReceiveResumeNotification
+[00:01:09]: Loading minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:01:09]: Deserializing cached icon data: 2873
+[00:01:09]: Deserializing tile data (425 x 425)
+[00:01:11]: Unconnected ping from 192.168.2.132|51289
+[00:01:32]: Unconnected ping from 192.168.2.140|61289
+[00:01:40]: Unconnected ping from 192.168.2.148|63249
+[00:01:45]: Unconnected ping from 192.168.2.191|59526
+[00:01:51]: Unconnected ping from 192.168.2.207|64153
+[00:01:54]: Unconnected ping from 192.168.2.207|64153
+[00:02:10]: Unconnected ping from 192.168.2.242|65407
+[00:02:12]: Unconnected ping from 192.168.2.208|52068
+[00:02:16]: Unconnected ping from 192.168.2.208|52068
+[00:02:17]: Unconnected ping from 192.168.2.208|52068
+[00:02:19]: Unconnected ping from 192.168.2.21|57159
+[00:02:37]: Unconnected ping from 192.168.2.197|53592
+[00:02:38]: Unconnected ping from 192.168.2.197|53592
+[00:02:39]: Unconnected ping from 192.168.2.197|53592
+[00:02:40]: Unconnected ping from 192.168.2.197|53592
+[00:02:48]: Unconnected ping from 192.168.2.197|53592
+[00:02:49]: Unconnected ping from 192.168.2.197|53592
+[00:02:50]: Unconnected ping from 192.168.2.197|53592
+[00:02:51]: Unconnected ping from 192.168.2.197|53592
+[00:02:51]: Unconnected ping from 192.168.2.195|53756
+[00:02:52]: Unconnected ping from 192.168.2.197|53592
+[00:02:53]: Unconnected ping from 192.168.2.195|53756
+[00:02:53]: [string "TheInput:GetWorldEntityUnderMouse():Remove(..."]:1: attempt to index a nil value
+[00:02:53]: Unconnected ping from 192.168.2.197|53592
+[00:02:54]: Unconnected ping from 192.168.2.197|53592
+[00:02:57]: Unconnected ping from 192.168.2.80|49631
+[00:03:04]: Unconnected ping from 192.168.2.148|49928
+[00:03:06]: Unconnected ping from 192.168.2.148|49928
+[00:03:26]: Unconnected ping from 192.168.2.25|56614
+[00:03:30]: Unconnected ping from 192.168.2.21|59200
+[00:03:33]: Unconnected ping from 192.168.2.83|49792
+[00:03:43]: Unconnected ping from 192.168.2.43|58096
+[00:03:58]: Unconnected ping from 192.168.2.55|54499
+[00:04:02]: Unconnected ping from 192.168.2.242|64306
+[00:04:36]: Unconnected ping from 192.168.2.175|60635
+[00:04:39]: Unconnected ping from 192.168.2.92|55876
+[00:04:40]: Unconnected ping from 192.168.2.25|52269
+[00:04:47]: Unconnected ping from 192.168.2.251|51441
+[00:04:51]: Could not preload undefined prefab 0x6d40248 (FROMNUM)
+[00:04:51]: Can't find prefab minehat	
+[00:04:52]: Unconnected ping from 192.168.2.92|55876
+[00:04:54]: Unconnected ping from 192.168.2.43|64528
+[00:05:00]: Unconnected ping from 192.168.2.92|55876
+[00:05:04]: Unconnected ping from 192.168.2.92|55876
+[00:05:07]: Unconnected ping from 192.168.2.92|55876
+[00:05:10]: Unconnected ping from 192.168.2.92|55876
+[00:05:10]: giving 	120726 - minerhat	
+[00:05:12]: Unconnected ping from 192.168.2.251|51443
+[00:05:12]: Unconnected ping from 192.168.2.92|55876
+[00:05:13]: Unconnected ping from 192.168.2.242|64306
+[00:05:21]: Unconnected ping from 192.168.2.92|55876
+[00:05:27]: Unconnected ping from 192.168.2.73|55388
+[00:05:43]: Unconnected ping from 192.168.2.11|55171
+[00:05:53]: Unconnected ping from 192.168.2.189|63590
+[00:05:53]: Unconnected ping from 192.168.2.92|55876
+[00:05:58]: Unconnected ping from 192.168.2.5|63360
+[00:05:59]: Unconnected ping from 192.168.2.189|63590
+[00:06:00]: Unconnected ping from 192.168.2.251|63205
+[00:06:03]: Unconnected ping from 192.168.2.150|64717
+[00:06:21]: giving 	122739 - gears	
+[00:06:21]: giving 	122747 - gears	
+[00:06:21]: giving 	122749 - gears	
+[00:06:21]: giving 	122751 - gears	
+[00:06:21]: giving 	122753 - gears	
+[00:06:21]: giving 	122755 - gears	
+[00:06:21]: giving 	122757 - gears	
+[00:06:21]: giving 	122759 - gears	
+[00:06:21]: giving 	122761 - gears	
+[00:06:21]: giving 	122763 - gears	
+[00:06:21]: giving 	122765 - gears	
+[00:06:21]: giving 	122767 - gears	
+[00:06:21]: giving 	122769 - gears	
+[00:06:21]: giving 	122771 - gears	
+[00:06:21]: giving 	122773 - gears	
+[00:06:21]: giving 	122775 - gears	
+[00:06:21]: giving 	122777 - gears	
+[00:06:21]: giving 	122779 - gears	
+[00:06:21]: giving 	122781 - gears	
+[00:06:21]: giving 	122783 - gears	
+[00:06:23]: Unconnected ping from 192.168.2.59|3504
+[00:06:31]: PREFAB SWAP TRIGGER:	threequarter	
+[00:06:34]: Unconnected ping from 192.168.2.228|61100
+[00:06:39]: Unconnected ping from 192.168.2.144|4601
+[00:06:49]: Unconnected ping from 192.168.2.144|4601
+[00:06:49]: Unconnected ping from 192.168.2.144|4601
+[00:06:53]: Unconnected ping from 192.168.2.144|4601
+[00:07:05]: Unconnected ping from 192.168.2.73|55388
+[00:07:25]: Unconnected ping from 192.168.2.140|57236
+[00:07:29]: Unconnected ping from 192.168.2.92|59451
+[00:07:38]: Unconnected ping from 192.168.2.253|56024
+[00:07:40]: Unconnected ping from 192.168.2.147|53636
+[00:07:42]: Unconnected ping from 192.168.2.208|52068
+[00:07:42]: Unconnected ping from 192.168.2.147|53636
+[00:07:46]: Unconnected ping from 192.168.2.140|57236
+[00:07:54]: giving 	126210 - fireflies	
+[00:07:54]: giving 	126218 - fireflies	
+[00:07:54]: giving 	126220 - fireflies	
+[00:07:54]: giving 	126222 - fireflies	
+[00:07:54]: giving 	126224 - fireflies	
+[00:07:54]: giving 	126226 - fireflies	
+[00:07:54]: giving 	126228 - fireflies	
+[00:07:54]: giving 	126230 - fireflies	
+[00:07:54]: giving 	126232 - fireflies	
+[00:07:54]: giving 	126234 - fireflies	
+[00:07:54]: giving 	126236 - fireflies	
+[00:07:54]: giving 	126238 - fireflies	
+[00:07:54]: giving 	126240 - fireflies	
+[00:07:54]: giving 	126242 - fireflies	
+[00:07:54]: giving 	126244 - fireflies	
+[00:07:54]: giving 	126246 - fireflies	
+[00:07:54]: giving 	126248 - fireflies	
+[00:07:54]: giving 	126250 - fireflies	
+[00:07:54]: giving 	126252 - fireflies	
+[00:07:54]: giving 	126254 - fireflies	
+[00:08:01]: Unconnected ping from 192.168.2.140|57236
+[00:08:13]: Unconnected ping from 192.168.2.140|57236
+[00:08:24]: Unconnected ping from 192.168.2.166|59276
+[00:08:24]: Unconnected ping from 192.168.2.140|57236
+[00:08:25]: Unconnected ping from 192.168.2.25|52269
+[00:08:28]: giving 	128367 - cane	
+[00:08:32]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:08:32]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000139
+[00:08:32]: Serializing world: session/64685B2C07C03805/0000000139
+[00:08:46]: Unconnected ping from 192.168.2.144|1037
+[00:08:46]: giving 	129080 - multitool_axe_pickaxe	
+[00:08:49]: Unconnected ping from 192.168.2.208|52068
+[00:09:14]: PREFAB SWAP TRIGGER:	snow	
+[00:09:15]: Unconnected ping from 192.168.2.50|52340
+[00:09:20]: Unconnected ping from 192.168.2.83|49967
+[00:09:22]: Unconnected ping from 192.168.2.50|52340
+[00:09:27]: Unconnected ping from 192.168.2.190|59322
+[00:09:28]: Unconnected ping from 192.168.2.18|49911
+[00:09:29]: Unconnected ping from 192.168.2.2|57539
+[00:09:30]: Unconnected ping from 192.168.2.18|49911
+[00:09:33]: Unconnected ping from 192.168.2.29|54558
+[00:09:34]: Unconnected ping from 192.168.2.222|53992
+[00:09:35]: Unconnected ping from 192.168.2.63|52388
+[00:09:35]: Unconnected ping from 192.168.2.29|54558
+[00:09:36]: Unconnected ping from 192.168.2.206|63495
+[00:09:42]: Unconnected ping from 192.168.2.29|54558
+[00:09:47]: Unconnected ping from 192.168.2.29|54558
+[00:09:50]: Unconnected ping from 192.168.2.145|51432
+[00:09:54]: Unconnected ping from 192.168.2.1|61983
+[00:09:54]: Unconnected ping from 192.168.2.25|52269
+[00:09:57]: Unconnected ping from 192.168.2.145|51432
+[00:09:57]: Unconnected ping from 192.168.2.1|61983
+[00:10:00]: Unconnected ping from 192.168.2.29|54558
+[00:10:02]: Unconnected ping from 192.168.2.1|61983
+[00:10:02]: Unconnected ping from 192.168.2.29|54558
+[00:10:05]: Unconnected ping from 192.168.2.29|54558
+[00:10:10]: Unconnected ping from 192.168.2.1|61983
+[00:10:12]: Unconnected ping from 192.168.2.29|54558
+[00:10:15]: Unconnected ping from 192.168.2.25|52269
+[00:10:16]: Unconnected ping from 192.168.2.1|61983
+[00:10:20]: Unconnected ping from 192.168.2.164|3596
+[00:10:21]: Unconnected ping from 192.168.2.29|54558
+[00:10:26]: Unconnected ping from 192.168.2.29|54558
+[00:10:28]: Unconnected ping from 192.168.2.1|61983
+[00:10:28]: Unconnected ping from 192.168.2.190|59322
+[00:10:28]: Unconnected ping from 192.168.2.2|57539
+[00:10:29]: Unconnected ping from 192.168.2.29|54558
+[00:10:33]: Unconnected ping from 192.168.2.29|54558
+[00:10:36]: Unconnected ping from 192.168.2.29|54558
+[00:10:36]: Unconnected ping from 192.168.2.190|59322
+[00:10:38]: Unconnected ping from 192.168.2.29|54558
+[00:10:40]: Unconnected ping from 192.168.2.144|54913
+[00:10:40]: Unconnected ping from 192.168.2.29|54558
+[00:10:43]: Unconnected ping from 192.168.2.29|54558
+[00:10:44]: Unconnected ping from 192.168.2.29|54558
+[00:10:45]: Unconnected ping from 192.168.2.247|53967
+[00:10:46]: Unconnected ping from 192.168.2.248|61789
+[00:10:47]: Unconnected ping from 192.168.2.132|50952
+[00:10:48]: Unconnected ping from 192.168.2.63|60307
+[00:10:48]: Unconnected ping from 192.168.2.1|52318
+[00:10:49]: Unconnected ping from 192.168.2.248|61789
+[00:10:49]: Unconnected ping from 192.168.2.115|3731
+[00:10:49]: Unconnected ping from 192.168.2.231|62674
+[00:10:51]: Unconnected ping from 192.168.2.231|62674
+[00:10:53]: Unconnected ping from 192.168.2.50|55075
+[00:10:54]: Unconnected ping from 192.168.2.247|53967
+[00:10:56]: Unconnected ping from 192.168.2.121|62831
+[00:10:57]: Unconnected ping from 192.168.2.229|52392
+[00:10:57]: Unconnected ping from 192.168.2.1|52318
+[00:10:59]: Unconnected ping from 192.168.2.116|55704
+[00:11:00]: Unconnected ping from 192.168.2.112|59183
+[00:11:00]: Unconnected ping from 192.168.2.43|53837
+[00:11:02]: Unconnected ping from 192.168.2.254|50345
+[00:11:03]: Unconnected ping from 192.168.2.98|59776
+[00:11:03]: Unconnected ping from 192.168.2.247|53967
+[00:11:04]: Unconnected ping from 192.168.2.98|59776
+[00:11:06]: Unconnected ping from 192.168.2.229|52392
+[00:11:08]: Unconnected ping from 192.168.2.4|63101
+[00:11:08]: Unconnected ping from 192.168.2.105|54209
+[00:11:11]: Unconnected ping from 192.168.2.98|59776
+[00:11:11]: Unconnected ping from 192.168.2.45|60015
+[00:11:12]: Unconnected ping from 192.168.2.109|60361
+[00:11:15]: Unconnected ping from 192.168.2.229|52392
+[00:11:15]: Unconnected ping from 192.168.2.229|52392
+[00:11:18]: Unconnected ping from 192.168.2.247|53967
+[00:11:18]: Unconnected ping from 192.168.2.32|55376
+[00:11:19]: Unconnected ping from 192.168.2.188|2868
+[00:11:20]: Unconnected ping from 192.168.2.147|55714
+[00:11:26]: Unconnected ping from 192.168.2.247|53967
+[00:11:29]: Unconnected ping from 192.168.2.229|52392
+[00:11:30]: Unconnected ping from 192.168.2.229|52392
+[00:11:37]: Unconnected ping from 192.168.2.112|51070
+[00:11:40]: Unconnected ping from 192.168.2.242|60396
+[00:11:45]: Unconnected ping from 192.168.2.32|53110
+[00:11:46]: Unconnected ping from 192.168.2.248|61789
+[00:11:51]: Unconnected ping from 192.168.2.112|51072
+[00:11:57]: Unconnected ping from 192.168.2.44|54137
+[00:11:59]: Unconnected ping from 192.168.2.147|55420
+[00:12:05]: Unconnected ping from 192.168.2.45|60015
+[00:12:09]: Unconnected ping from 192.168.2.105|50027
+[00:12:14]: Unconnected ping from 192.168.2.197|59321
+[00:12:18]: Unconnected ping from 192.168.2.132|49206
+[00:12:22]: Unconnected ping from 192.168.2.1|49431
+[00:12:23]: Unconnected ping from 192.168.2.1|49431
+[00:12:26]: giving 	141710 - firepit	
+[00:12:26]: Warning: Can't give item because it's not an inventory item.	
+[00:12:27]: Unconnected ping from 192.168.2.25|52576
+[00:12:31]: Unconnected ping from 192.168.2.194|63249
+[00:12:37]: Unconnected ping from 192.168.2.74|54696
+[00:12:40]: Unconnected ping from 192.168.2.254|50345
+[00:12:40]: Unconnected ping from 192.168.2.121|52597
+[00:12:55]: Unconnected ping from 192.168.2.188|2909
+[00:12:55]: Unconnected ping from 192.168.2.187|62485
+[00:12:55]: FMOD Error: Can't play event dontstarve/creatures/pengull/splash: An Event failed to be retrieved, most likely due to 'just fail' being specified as the max playbacks behavior. 
+[00:12:55]: FMOD Error: Can't play event dontstarve/creatures/pengull/splash: An Event failed to be retrieved, most likely due to 'just fail' being specified as the max playbacks behavior. 
+[00:12:59]: Unconnected ping from 192.168.2.231|59388
+[00:12:59]: Unconnected ping from 192.168.2.52|65035
+[00:12:59]: Unconnected ping from 192.168.2.231|59388
+[00:13:03]: Unconnected ping from 192.168.2.89|51566
+[00:13:03]: Unconnected ping from 192.168.2.145|60724
+[00:13:17]: Unconnected ping from 192.168.2.4|60712
+[00:13:22]: Unconnected ping from 192.168.2.247|53002
+[00:13:23]: Unconnected ping from 192.168.2.166|63582
+[00:13:25]: Unconnected ping from 192.168.2.4|60714
+[00:13:27]: Unconnected ping from 192.168.2.166|63582
+[00:13:28]: Unconnected ping from 192.168.2.112|51072
+[00:13:31]: Unconnected ping from 192.168.2.114|50059
+[00:13:33]: Unconnected ping from 192.168.2.1|59164
+[00:13:34]: Unconnected ping from 192.168.2.4|51600
+[00:13:35]: Unconnected ping from 192.168.2.1|59164
+[00:13:46]: Unconnected ping from 192.168.2.4|51600
+[00:13:48]: Unconnected ping from 192.168.2.166|63582
+[00:13:49]: Unconnected ping from 192.168.2.166|63582
+[00:13:49]: Unconnected ping from 192.168.2.147|55420
+[00:13:57]: Unconnected ping from 192.168.2.166|63582
+[00:14:04]: Unconnected ping from 192.168.2.177|61470
+[00:14:07]: Unconnected ping from 192.168.2.99|60380
+[00:14:08]: Unconnected ping from 192.168.2.1|59164
+[00:14:14]: Unconnected ping from 192.168.2.148|3964
+[00:14:20]: Unconnected ping from 192.168.2.43|53960
+[00:14:23]: Unconnected ping from 192.168.2.52|55774
+[00:14:32]: Unconnected ping from 192.168.2.247|53002
+[00:14:33]: Unconnected ping from 192.168.2.121|52597
+[00:14:43]: Unconnected ping from 192.168.2.89|59139
+[00:15:11]: Unconnected ping from 192.168.2.194|56429
+[00:15:15]: Unconnected ping from 192.168.2.100|58486
+[00:15:19]: Unconnected ping from 192.168.2.147|57262
+[00:15:20]: Unconnected ping from 192.168.2.100|58486
+[00:15:20]: Unconnected ping from 192.168.2.100|58486
+[00:15:21]: Unconnected ping from 192.168.2.147|57262
+[00:15:49]: Unconnected ping from 192.168.2.105|50027
+[00:15:57]: Unconnected ping from 192.168.2.148|4266
+[00:16:05]: Unconnected ping from 192.168.2.222|64797
+[00:16:06]: Unconnected ping from 192.168.2.44|64153
+[00:16:09]: Unconnected ping from 192.168.2.245|56901
+[00:16:12]: Unconnected ping from 192.168.2.253|51853
+[00:16:32]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:16:32]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000140
+[00:16:33]: Serializing world: session/64685B2C07C03805/0000000140
+[00:16:39]: Unconnected ping from 192.168.2.55|55891
+[00:16:51]: Unconnected ping from 192.168.2.132|51837
+[00:17:07]: Unconnected ping from 192.168.2.194|56711
+[00:17:10]: Unconnected ping from 192.168.2.242|55948
+[00:17:19]: Unconnected ping from 192.168.2.254|62492
+[00:17:20]: Unconnected ping from 192.168.2.166|49309
+[00:17:23]: Unconnected ping from 192.168.2.194|56711
+[00:17:23]: Unconnected ping from 192.168.2.204|54162
+[00:17:31]: Unconnected ping from 192.168.2.44|63366
+[00:17:36]: Unconnected ping from 192.168.2.246|57457
+[00:17:37]: Unconnected ping from 192.168.2.32|61086
+[00:17:38]: Unconnected ping from 192.168.2.27|62060
+[00:17:48]: Unconnected ping from 192.168.2.105|50027
+[00:18:01]: Unconnected ping from 192.168.2.28|55979
+[00:18:13]: giving 	164246 - fireflies	
+[00:18:13]: giving 	164248 - fireflies	
+[00:18:13]: giving 	164250 - fireflies	
+[00:18:13]: giving 	164252 - fireflies	
+[00:18:13]: giving 	164254 - fireflies	
+[00:18:13]: giving 	164256 - fireflies	
+[00:18:13]: giving 	164258 - fireflies	
+[00:18:13]: giving 	164260 - fireflies	
+[00:18:13]: giving 	164262 - fireflies	
+[00:18:13]: giving 	164264 - fireflies	
+[00:18:13]: giving 	164266 - fireflies	
+[00:18:13]: giving 	164268 - fireflies	
+[00:18:13]: giving 	164270 - fireflies	
+[00:18:13]: giving 	164272 - fireflies	
+[00:18:13]: giving 	164274 - fireflies	
+[00:18:13]: giving 	164276 - fireflies	
+[00:18:13]: giving 	164278 - fireflies	
+[00:18:13]: giving 	164280 - fireflies	
+[00:18:13]: giving 	164282 - fireflies	
+[00:18:13]: giving 	164284 - fireflies	
+[00:18:24]: Unconnected ping from 192.168.2.66|55962
+[00:18:26]: Unconnected ping from 192.168.2.116|56412
+[00:18:29]: giving 	164924 - firepit	
+[00:18:29]: Warning: Can't give item because it's not an inventory item.	
+[00:18:38]: Unconnected ping from 192.168.2.132|51837
+[00:18:48]: Unconnected ping from 192.168.2.132|51837
+[00:18:59]: Unconnected ping from 192.168.2.253|51547
+[00:19:16]: Unconnected ping from 192.168.2.58|59263
+[00:19:18]: Unconnected ping from 192.168.2.222|50644
+[00:19:20]: Unconnected ping from 192.168.2.89|64229
+[00:19:21]: Unconnected ping from 192.168.2.187|62554
+[00:19:27]: Unconnected ping from 192.168.2.74|64755
+[00:19:37]: Unconnected ping from 192.168.2.61|63968
+[00:19:38]: Unconnected ping from 192.168.2.55|55545
+[00:19:38]: Unconnected ping from 192.168.2.89|64232
+[00:19:42]: Unconnected ping from 192.168.2.61|63968
+[00:19:45]: Unconnected ping from 192.168.2.221|50756
+[00:19:49]: Unconnected ping from 192.168.2.29|52178
+[00:19:50]: Unconnected ping from 192.168.2.29|52178
+[00:19:51]: Unconnected ping from 192.168.2.221|50756
+[00:19:55]: Unconnected ping from 192.168.2.29|52178
+[00:19:57]: Unconnected ping from 192.168.2.29|52178
+[00:20:02]: Unconnected ping from 192.168.2.29|52178
+[00:20:05]: Unconnected ping from 192.168.2.29|52178
+[00:20:07]: Unconnected ping from 192.168.2.171|50130
+[00:20:14]: Unconnected ping from 192.168.2.194|57169
+[00:20:18]: Unconnected ping from 192.168.2.63|52986
+[00:20:20]: Unconnected ping from 192.168.2.168|55899
+[00:20:21]: Unconnected ping from 192.168.2.50|55309
+[00:20:24]: Unconnected ping from 192.168.2.2|64523
+[00:20:25]: Unconnected ping from 192.168.2.50|55309
+[00:20:33]: Unconnected ping from 192.168.2.153|50077
+[00:20:35]: Unconnected ping from 192.168.2.228|1177
+[00:20:38]: Unconnected ping from 192.168.2.208|49762
+[00:20:39]: Unconnected ping from 192.168.2.208|49762
+[00:20:40]: Unconnected ping from 192.168.2.21|57462
+[00:20:41]: Unconnected ping from 192.168.2.206|63983
+[00:20:42]: Unconnected ping from 192.168.2.148|61130
+[00:20:43]: Unconnected ping from 192.168.2.236|57559
+[00:20:51]: Unconnected ping from 192.168.2.190|56463
+[00:20:53]: Unconnected ping from 192.168.2.206|63983
+[00:21:44]: Unconnected ping from 192.168.2.253|49708
+[00:21:44]: Unconnected ping from 192.168.2.50|64238
+[00:21:49]: giving 	172664 - firepit	
+[00:21:49]: Warning: Can't give item because it's not an inventory item.	
+[00:21:54]: Unconnected ping from 192.168.2.50|64238
+[00:21:55]: giving 	172906 - firepit	
+[00:21:55]: Warning: Can't give item because it's not an inventory item.	
+[00:22:01]: Unconnected ping from 192.168.2.19|65186
+[00:22:14]: Unconnected ping from 192.168.2.63|61548
+[00:22:14]: Unconnected ping from 192.168.2.224|60268
+[00:22:22]: Unconnected ping from 192.168.2.105|50027
+[00:22:25]: Unconnected ping from 192.168.2.153|60137
+[00:22:27]: Unconnected ping from 192.168.2.50|64400
+[00:22:38]: Unconnected ping from 192.168.2.132|51837
+[00:22:42]: giving 	175353 - heatrock	
+[00:22:44]: Unconnected ping from 192.168.2.231|53103
+[00:22:50]: Unconnected ping from 192.168.2.58|59263
+[00:22:50]: Unconnected ping from 192.168.2.105|50027
+[00:22:53]: Unconnected ping from 192.168.2.105|50027
+[00:22:53]: Unconnected ping from 192.168.2.166|1950
+[00:22:55]: Unconnected ping from 192.168.2.175|63350
+[00:23:09]: Unconnected ping from 192.168.2.105|50027
+[00:23:11]: Unconnected ping from 192.168.2.145|64996
+[00:23:15]: Unconnected ping from 192.168.2.27|53772
+[00:23:21]: Unconnected ping from 192.168.2.44|65114
+[00:23:29]: Unconnected ping from 192.168.2.63|61550
+[00:23:38]: Unconnected ping from 192.168.2.6|1710
+[00:23:46]: Unconnected ping from 192.168.2.166|1958
+[00:23:53]: Unconnected ping from 192.168.2.231|53103
+[00:23:56]: Unconnected ping from 192.168.2.224|59291
+[00:23:56]: Unconnected ping from 192.168.2.238|59054
+[00:23:57]: Unconnected ping from 192.168.2.154|3152
+[00:24:01]: Unconnected ping from 192.168.2.235|56236
+[00:24:13]: Unconnected ping from 192.168.2.154|3152
+[00:24:14]: Unconnected ping from 192.168.2.50|58209
+[00:24:18]: Unconnected ping from 192.168.2.221|50756
+[00:24:21]: Unconnected ping from 192.168.2.242|1162
+[00:24:24]: Unconnected ping from 192.168.2.50|50726
+[00:24:24]: giving 	179969 - spear_wathgrithr	
+[00:24:33]: Unconnected ping from 192.168.2.205|64291
+[00:24:33]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:24:33]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000141
+[00:24:33]: Serializing world: session/64685B2C07C03805/0000000141
+[00:24:34]: Unconnected ping from 192.168.2.231|62587
+[00:24:37]: Unconnected ping from 192.168.2.132|51837
+[00:24:37]: PREFAB SWAP TRIGGER:	none	
+[00:24:37]: PREFAB SWAP TRIGGER:	snow	
+[00:24:46]: Unconnected ping from 192.168.2.74|61909
+[00:24:48]: Unconnected ping from 192.168.2.27|51262
+[00:24:53]: Unconnected ping from 192.168.2.50|50726
+[00:25:27]: Unconnected ping from 192.168.2.132|51837
+[00:25:28]: Unconnected ping from 192.168.2.190|57549
+[00:25:28]: Unconnected ping from 192.168.2.6|1720
+[00:25:32]: Unconnected ping from 192.168.2.63|61553
+[00:25:35]: Unconnected ping from 192.168.2.197|65161
+[00:25:49]: Unconnected ping from 192.168.2.231|58811
+[00:25:49]: Unconnected ping from 192.168.2.158|62860
+[00:25:49]: Unconnected ping from 192.168.2.221|58289
+[00:25:59]: Unconnected ping from 192.168.2.145|54482
+[00:26:16]: Unconnected ping from 192.168.2.206|49934
+[00:27:06]: Unconnected ping from 192.168.2.147|55872
+[00:27:14]: Unconnected ping from 192.168.2.132|51837
+[00:27:15]: Unconnected ping from 192.168.2.246|51389
+[00:27:19]: Unconnected ping from 192.168.2.80|50012
+[00:27:39]: Unconnected ping from 192.168.2.253|60539
+[00:27:51]: Unconnected ping from 192.168.2.147|63470
+[00:27:52]: Unconnected ping from 192.168.2.61|59722
+[00:27:53]: Unconnected ping from 192.168.2.55|54416
+[00:27:54]: Unconnected ping from 192.168.2.61|59722
+[00:28:16]: Unconnected ping from 192.168.2.171|56313
+[00:28:17]: Unconnected ping from 192.168.2.154|65189
+[00:28:37]: Unconnected ping from 192.168.2.51|53149
+[00:28:43]: Unconnected ping from 192.168.2.39|64335
+[00:28:44]: Unconnected ping from 192.168.2.154|65189
+[00:28:49]: Unconnected ping from 192.168.2.164|3635
+[00:28:52]: Unconnected ping from 192.168.2.36|63695
+[00:28:54]: Unconnected ping from 192.168.2.6|1738
+[00:28:57]: Unconnected ping from 192.168.2.51|53149
+[00:29:01]: Unconnected ping from 192.168.2.132|51837
+[00:29:03]: Unconnected ping from 192.168.2.89|56692
+[00:29:17]: Unconnected ping from 192.168.2.164|3635
+[00:29:20]: Unconnected ping from 192.168.2.82|58121
+[00:29:21]: Unconnected ping from 192.168.2.82|58121
+[00:29:21]: Unconnected ping from 192.168.2.164|3635
+[00:29:22]: Unconnected ping from 192.168.2.82|58121
+[00:29:22]: Unconnected ping from 192.168.2.164|3635
+[00:29:23]: Unconnected ping from 192.168.2.82|58121
+[00:29:23]: Unconnected ping from 192.168.2.164|3635
+[00:29:24]: Unconnected ping from 192.168.2.164|3635
+[00:29:29]: Unconnected ping from 192.168.2.164|3635
+[00:29:29]: Unconnected ping from 192.168.2.164|3635
+[00:29:34]: Unconnected ping from 192.168.2.164|3635
+[00:29:35]: Unconnected ping from 192.168.2.164|3635
+[00:29:35]: Unconnected ping from 192.168.2.164|3635
+[00:29:36]: Unconnected ping from 192.168.2.164|3635
+[00:29:37]: Unconnected ping from 192.168.2.164|3635
+[00:29:42]: Unconnected ping from 192.168.2.82|58121
+[00:29:43]: Unconnected ping from 192.168.2.82|58121
+[00:29:44]: Unconnected ping from 192.168.2.246|51389
+[00:29:47]: Unconnected ping from 192.168.2.164|3635
+[00:29:48]: Unconnected ping from 192.168.2.164|3635
+[00:29:52]: Unconnected ping from 192.168.2.154|65189
+[00:29:54]: Unconnected ping from 192.168.2.51|53149
+[00:29:55]: Unconnected ping from 192.168.2.51|53149
+[00:30:02]: PREFAB SWAP TRIGGER:	half	
+[00:30:04]: Unconnected ping from 192.168.2.164|3635
+[00:30:04]: Unconnected ping from 192.168.2.164|3635
+[00:30:05]: Unconnected ping from 192.168.2.246|51389
+[00:30:14]: Unconnected ping from 192.168.2.132|51837
+[00:30:18]: Unconnected ping from 192.168.2.82|58121
+[00:30:19]: Unconnected ping from 192.168.2.82|58121
+[00:30:22]: Unconnected ping from 192.168.2.82|58121
+[00:30:23]: Unconnected ping from 192.168.2.82|58121
+[00:30:26]: Unconnected ping from 192.168.2.82|58121
+[00:30:27]: Unconnected ping from 192.168.2.82|58121
+[00:30:28]: Unconnected ping from 192.168.2.82|58121
+[00:30:29]: Unconnected ping from 192.168.2.63|53095
+[00:30:35]: Unconnected ping from 192.168.2.82|58121
+[00:30:35]: Unconnected ping from 192.168.2.154|65189
+[00:30:36]: Unconnected ping from 192.168.2.82|58121
+[00:30:41]: Unconnected ping from 192.168.2.82|58121
+[00:30:41]: Unconnected ping from 192.168.2.82|58121
+[00:30:42]: Unconnected ping from 192.168.2.82|58121
+[00:30:43]: Unconnected ping from 192.168.2.164|3642
+[00:30:47]: Unconnected ping from 192.168.2.164|3642
+[00:30:47]: Unconnected ping from 192.168.2.82|58121
+[00:30:48]: Unconnected ping from 192.168.2.82|58121
+[00:30:49]: Unconnected ping from 192.168.2.82|58121
+[00:30:49]: Unconnected ping from 192.168.2.82|58121
+[00:30:50]: Unconnected ping from 192.168.2.82|58121
+[00:30:51]: Unconnected ping from 192.168.2.82|58121
+[00:30:53]: Unconnected ping from 192.168.2.23|54709
+[00:30:53]: Unconnected ping from 192.168.2.82|58121
+[00:30:55]: Unconnected ping from 192.168.2.82|58121
+[00:30:55]: giving 	202271 - spiderhat	
+[00:30:58]: Unconnected ping from 192.168.2.82|58121
+[00:30:59]: Unconnected ping from 192.168.2.82|58121
+[00:31:00]: Unconnected ping from 192.168.2.82|58121
+[00:31:00]: Unconnected ping from 192.168.2.82|58121
+[00:31:02]: Unconnected ping from 192.168.2.82|58121
+[00:31:03]: Unconnected ping from 192.168.2.82|58121
+[00:31:06]: Unconnected ping from 192.168.2.164|3642
+[00:31:06]: Unconnected ping from 192.168.2.82|58121
+[00:31:07]: Unconnected ping from 192.168.2.164|3642
+[00:31:08]: Unconnected ping from 192.168.2.164|3642
+[00:31:08]: Unconnected ping from 192.168.2.82|58121
+[00:31:09]: Unconnected ping from 192.168.2.164|3642
+[00:31:09]: Unconnected ping from 192.168.2.82|58121
+[00:31:09]: Unconnected ping from 192.168.2.164|3642
+[00:31:10]: Unconnected ping from 192.168.2.82|58121
+[00:31:10]: Unconnected ping from 192.168.2.164|3642
+[00:31:11]: Unconnected ping from 192.168.2.82|58121
+[00:31:12]: Unconnected ping from 192.168.2.82|58121
+[00:31:13]: Unconnected ping from 192.168.2.82|58121
+[00:31:13]: Unconnected ping from 192.168.2.82|58121
+[00:31:14]: Unconnected ping from 192.168.2.82|58121
+[00:31:15]: Unconnected ping from 192.168.2.82|58121
+[00:31:21]: Unconnected ping from 192.168.2.82|58121
+[00:31:23]: Unconnected ping from 192.168.2.82|58121
+[00:31:24]: Unconnected ping from 192.168.2.82|58121
+[00:31:28]: Unconnected ping from 192.168.2.164|3642
+[00:31:40]: Unconnected ping from 192.168.2.216|60049
+[00:31:55]: Unconnected ping from 192.168.2.171|56313
+[00:31:57]: Unconnected ping from 192.168.2.171|56313
+[00:31:58]: PREFAB SWAP TRIGGER:	none	
+[00:31:59]: Unconnected ping from 192.168.2.171|56313
+[00:32:01]: Unconnected ping from 192.168.2.51|51270
+[00:32:04]: Unconnected ping from 192.168.2.22|55178
+[00:32:08]: Unconnected ping from 192.168.2.44|3170
+[00:32:10]: Unconnected ping from 192.168.2.82|49528
+[00:32:10]: Unconnected ping from 192.168.2.44|3170
+[00:32:11]: Unconnected ping from 192.168.2.82|49528
+[00:32:11]: Unconnected ping from 192.168.2.44|3170
+[00:32:12]: Unconnected ping from 192.168.2.82|49528
+[00:32:14]: Unconnected ping from 192.168.2.104|52437
+[00:32:19]: Unconnected ping from 192.168.2.10|65246
+[00:32:21]: Unconnected ping from 192.168.2.82|49528
+[00:32:22]: Unconnected ping from 192.168.2.82|49528
+[00:32:23]: Unconnected ping from 192.168.2.82|49528
+[00:32:33]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:32:33]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000142
+[00:32:34]: Serializing world: session/64685B2C07C03805/0000000142
+[00:32:46]: Unconnected ping from 192.168.2.154|56221
+[00:32:58]: Unconnected ping from 192.168.2.40|60022
+[00:33:14]: Unconnected ping from 192.168.2.6|61467
+[00:33:15]: Unconnected ping from 192.168.2.3|57034
+[00:33:17]: Unconnected ping from 192.168.2.154|56221
+[00:33:36]: Unconnected ping from 192.168.2.109|58018
+[00:33:40]: Unconnected ping from 192.168.2.22|58772
+[00:33:40]: Unconnected ping from 192.168.2.164|3663
+[00:33:54]: Unconnected ping from 192.168.2.164|3663
+[00:34:01]: Unconnected ping from 192.168.2.29|57861
+[00:34:08]: Unconnected ping from 192.168.2.37|55145
+[00:34:09]: Unconnected ping from 192.168.2.37|55145
+[00:34:11]: Unconnected ping from 192.168.2.4|55911
+[00:34:24]: Unconnected ping from 192.168.2.59|59358
+[00:34:30]: Unconnected ping from 192.168.2.40|58463
+[00:34:31]: Unconnected ping from 192.168.2.64|64502
+[00:34:36]: Unconnected ping from 192.168.2.51|61589
+[00:35:02]: Unconnected ping from 192.168.2.80|55643
+[00:35:06]: Unconnected ping from 192.168.2.37|55145
+[00:35:08]: Unconnected ping from 192.168.2.37|55145
+[00:35:12]: Unconnected ping from 192.168.2.29|57861
+[00:35:24]: Unconnected ping from 192.168.2.3|55509
+[00:35:28]: Unconnected ping from 192.168.2.115|3731
+[00:35:30]: Unconnected ping from 192.168.2.115|3731
+[00:35:31]: Unconnected ping from 192.168.2.147|51255
+[00:35:35]: Unconnected ping from 192.168.2.80|55643
+[00:35:37]: Unconnected ping from 192.168.2.80|55643
+[00:35:47]: Unconnected ping from 192.168.2.45|61234
+[00:35:59]: Unconnected ping from 192.168.2.48|56711
+[00:36:01]: Unconnected ping from 192.168.2.48|56711
+[00:36:09]: Unconnected ping from 192.168.2.115|3731
+[00:36:19]: Unconnected ping from 192.168.2.164|3663
+[00:36:23]: Unconnected ping from 192.168.2.209|1425
+[00:36:32]: Unconnected ping from 192.168.2.154|59219
+[00:36:33]: Unconnected ping from 192.168.2.80|64287
+[00:36:47]: Unconnected ping from 192.168.2.115|3731
+[00:37:13]: Unconnected ping from 192.168.2.154|59219
+[00:37:17]: Unconnected ping from 192.168.2.82|59069
+[00:37:29]: Unconnected ping from 192.168.2.82|62353
+[00:37:34]: Unconnected ping from 192.168.2.164|3663
+[00:37:34]: Unconnected ping from 192.168.2.82|62353
+[00:37:38]: Unconnected ping from 192.168.2.82|62353
+[00:37:42]: giving 	225048 - blowdart_pipe	
+[00:37:42]: giving 	225056 - blowdart_pipe	
+[00:37:42]: giving 	225058 - blowdart_pipe	
+[00:37:42]: giving 	225060 - blowdart_pipe	
+[00:37:42]: giving 	225062 - blowdart_pipe	
+[00:37:42]: giving 	225064 - blowdart_pipe	
+[00:37:42]: giving 	225066 - blowdart_pipe	
+[00:37:42]: giving 	225068 - blowdart_pipe	
+[00:37:42]: giving 	225070 - blowdart_pipe	
+[00:37:42]: giving 	225072 - blowdart_pipe	
+[00:37:47]: Unconnected ping from 192.168.2.25|51861
+[00:37:55]: Unconnected ping from 192.168.2.86|56123
+[00:38:15]: Unconnected ping from 192.168.2.22|54622
+[00:38:20]: Unconnected ping from 192.168.2.31|51165
+[00:38:21]: Unconnected ping from 192.168.2.82|62353
+[00:38:21]: Unconnected ping from 192.168.2.31|51165
+[00:38:23]: Unconnected ping from 192.168.2.31|51165
+[00:38:27]: Unconnected ping from 192.168.2.31|51165
+[00:38:29]: Unconnected ping from 192.168.2.31|51165
+[00:38:29]: Unconnected ping from 192.168.2.31|51165
+[00:38:30]: Unconnected ping from 192.168.2.31|51165
+[00:38:30]: Unconnected ping from 192.168.2.31|51165
+[00:38:31]: Unconnected ping from 192.168.2.31|51165
+[00:38:32]: Unconnected ping from 192.168.2.31|51165
+[00:38:33]: giving 	228110 - blowdart_pipe	
+[00:38:33]: giving 	228112 - blowdart_pipe	
+[00:38:33]: giving 	228114 - blowdart_pipe	
+[00:38:33]: giving 	228116 - blowdart_pipe	
+[00:38:33]: giving 	228118 - blowdart_pipe	
+[00:38:33]: giving 	228120 - blowdart_pipe	
+[00:38:33]: giving 	228122 - blowdart_pipe	
+[00:38:33]: giving 	228124 - blowdart_pipe	
+[00:38:33]: giving 	228126 - blowdart_pipe	
+[00:38:33]: giving 	228128 - blowdart_pipe	
+[00:38:33]: giving 	228130 - blowdart_pipe	
+[00:38:33]: giving 	228132 - blowdart_pipe	
+[00:38:33]: giving 	228134 - blowdart_pipe	
+[00:38:33]: giving 	228136 - blowdart_pipe	
+[00:38:33]: giving 	228138 - blowdart_pipe	
+[00:38:33]: giving 	228140 - blowdart_pipe	
+[00:38:33]: giving 	228142 - blowdart_pipe	
+[00:38:33]: giving 	228150 - blowdart_pipe	
+[00:38:33]: giving 	228152 - blowdart_pipe	
+[00:38:33]: giving 	228154 - blowdart_pipe	
+[00:38:33]: giving 	228156 - blowdart_pipe	
+[00:38:33]: giving 	228158 - blowdart_pipe	
+[00:38:33]: giving 	228160 - blowdart_pipe	
+[00:38:33]: giving 	228162 - blowdart_pipe	
+[00:38:33]: giving 	228164 - blowdart_pipe	
+[00:38:33]: giving 	228166 - blowdart_pipe	
+[00:38:33]: giving 	228168 - blowdart_pipe	
+[00:38:33]: giving 	228170 - blowdart_pipe	
+[00:38:33]: giving 	228172 - blowdart_pipe	
+[00:38:33]: giving 	228174 - blowdart_pipe	
+[00:38:33]: Unconnected ping from 192.168.2.31|51165
+[00:38:36]: Unconnected ping from 192.168.2.82|61916
+[00:38:36]: Unconnected ping from 192.168.2.31|51165
+[00:38:39]: Unconnected ping from 192.168.2.31|51165
+[00:38:40]: Unconnected ping from 192.168.2.31|51165
+[00:38:41]: Unconnected ping from 192.168.2.31|51165
+[00:38:41]: Unconnected ping from 192.168.2.82|61916
+[00:38:42]: Unconnected ping from 192.168.2.171|53345
+[00:38:43]: Unconnected ping from 192.168.2.82|61916
+[00:38:44]: Unconnected ping from 192.168.2.82|61916
+[00:38:46]: Unconnected ping from 192.168.2.82|61916
+[00:38:47]: Unconnected ping from 192.168.2.82|61916
+[00:38:48]: Unconnected ping from 192.168.2.82|61916
+[00:38:57]: Unconnected ping from 192.168.2.82|61916
+[00:39:02]: Unconnected ping from 192.168.2.149|51189
+[00:39:04]: Unconnected ping from 192.168.2.82|61916
+[00:39:12]: Unconnected ping from 192.168.2.82|61916
+[00:39:14]: Unconnected ping from 192.168.2.82|61916
+[00:39:16]: Unconnected ping from 192.168.2.82|61916
+[00:39:17]: Unconnected ping from 192.168.2.82|61916
+[00:39:19]: Unconnected ping from 192.168.2.82|61916
+[00:39:21]: Unconnected ping from 192.168.2.125|50783
+[00:39:21]: Unconnected ping from 192.168.2.132|54232
+[00:39:29]: Unconnected ping from 192.168.2.174|4248
+[00:39:46]: Unconnected ping from 192.168.2.82|61916
+[00:39:59]: Unconnected ping from 192.168.2.80|51195
+[00:40:04]: Unconnected ping from 192.168.2.104|58602
+[00:40:15]: Unconnected ping from 192.168.2.82|61916
+[00:40:15]: Unconnected ping from 192.168.2.42|49222
+[00:40:17]: Unconnected ping from 192.168.2.82|61916
+[00:40:19]: Unconnected ping from 192.168.2.125|59110
+[00:40:19]: Unconnected ping from 192.168.2.104|58602
+[00:40:23]: Unconnected ping from 192.168.2.178|50120
+[00:40:25]: Unconnected ping from 192.168.2.154|59219
+[00:40:29]: Unconnected ping from 192.168.2.31|64961
+[00:40:31]: Unconnected ping from 192.168.2.31|64961
+[00:40:31]: Unconnected ping from 192.168.2.24|51573
+[00:40:34]: Unconnected ping from 192.168.2.82|61916
+[00:40:34]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:40:34]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000143
+[00:40:34]: Serializing world: session/64685B2C07C03805/0000000143
+[00:40:36]: Unconnected ping from 192.168.2.24|51573
+[00:40:39]: Unconnected ping from 192.168.2.24|51573
+[00:40:40]: Unconnected ping from 192.168.2.24|51573
+[00:40:41]: Unconnected ping from 192.168.2.24|51573
+[00:40:42]: Unconnected ping from 192.168.2.24|51573
+[00:40:43]: Unconnected ping from 192.168.2.24|51573
+[00:40:50]: Unconnected ping from 192.168.2.93|63353
+[00:40:50]: Unconnected ping from 192.168.2.149|60395
+[00:40:54]: Unconnected ping from 192.168.2.179|56550
+[00:40:55]: Unconnected ping from 192.168.2.179|56550
+[00:40:55]: Unconnected ping from 192.168.2.44|3195
+[00:40:58]: Unconnected ping from 192.168.2.44|3195
+[00:40:58]: giving 	237779 - blowdart_pipe	
+[00:40:58]: giving 	237781 - blowdart_pipe	
+[00:40:58]: giving 	237783 - blowdart_pipe	
+[00:40:58]: giving 	237785 - blowdart_pipe	
+[00:40:58]: giving 	237787 - blowdart_pipe	
+[00:40:58]: giving 	237789 - blowdart_pipe	
+[00:40:58]: giving 	237791 - blowdart_pipe	
+[00:40:58]: giving 	237793 - blowdart_pipe	
+[00:40:58]: giving 	237795 - blowdart_pipe	
+[00:40:58]: giving 	237797 - blowdart_pipe	
+[00:40:58]: giving 	237799 - blowdart_pipe	
+[00:40:58]: giving 	237801 - blowdart_pipe	
+[00:40:58]: giving 	237803 - blowdart_pipe	
+[00:40:58]: giving 	237805 - blowdart_pipe	
+[00:40:58]: giving 	237807 - blowdart_pipe	
+[00:40:58]: giving 	237809 - blowdart_pipe	
+[00:40:58]: giving 	237811 - blowdart_pipe	
+[00:40:58]: giving 	237813 - blowdart_pipe	
+[00:40:58]: giving 	237815 - blowdart_pipe	
+[00:40:58]: giving 	237823 - blowdart_pipe	
+[00:40:58]: giving 	237825 - blowdart_pipe	
+[00:40:58]: giving 	237827 - blowdart_pipe	
+[00:40:58]: giving 	237829 - blowdart_pipe	
+[00:40:58]: giving 	237831 - blowdart_pipe	
+[00:40:58]: giving 	237833 - blowdart_pipe	
+[00:40:58]: giving 	237835 - blowdart_pipe	
+[00:40:58]: giving 	237837 - blowdart_pipe	
+[00:40:58]: giving 	237839 - blowdart_pipe	
+[00:40:58]: giving 	237841 - blowdart_pipe	
+[00:40:58]: giving 	237843 - blowdart_pipe	
+[00:41:00]: Unconnected ping from 192.168.2.179|56550
+[00:41:02]: Unconnected ping from 192.168.2.179|56550
+[00:41:04]: Unconnected ping from 192.168.2.179|56550
+[00:41:05]: Unconnected ping from 192.168.2.179|56550
+[00:41:07]: Unconnected ping from 192.168.2.179|56550
+[00:41:12]: Unconnected ping from 192.168.2.82|61916
+[00:41:13]: Unconnected ping from 192.168.2.82|61916
+[00:41:35]: Unconnected ping from 192.168.2.14|60787
+[00:41:35]: Unconnected ping from 192.168.2.125|62341
+[00:41:45]: Unconnected ping from 192.168.2.86|60756
+[00:41:49]: Unconnected ping from 192.168.2.109|61133
+[00:42:01]: Unconnected ping from 192.168.2.82|61916
+[00:42:12]: Unconnected ping from 192.168.2.164|3690
+[00:42:49]: Unconnected ping from 192.168.2.116|50752
+[00:43:00]: Unconnected ping from 192.168.2.225|53931
+[00:43:03]: Unconnected ping from 192.168.2.172|64477
+[00:43:16]: Unconnected ping from 192.168.2.179|59170
+[00:43:17]: Unconnected ping from 192.168.2.179|59170
+[00:43:19]: Unconnected ping from 192.168.2.179|59170
+[00:43:20]: Unconnected ping from 192.168.2.179|59170
+[00:43:21]: Unconnected ping from 192.168.2.82|61916
+[00:43:21]: Unconnected ping from 192.168.2.179|59170
+[00:43:22]: Unconnected ping from 192.168.2.179|59170
+[00:43:23]: Unconnected ping from 192.168.2.179|59170
+[00:43:24]: Unconnected ping from 192.168.2.179|59170
+[00:43:25]: Unconnected ping from 192.168.2.179|59170
+[00:43:25]: Unconnected ping from 192.168.2.179|59170
+[00:43:26]: Unconnected ping from 192.168.2.179|59170
+[00:43:26]: Unconnected ping from 192.168.2.179|59170
+[00:43:27]: giving 	246619 - firepit	
+[00:43:27]: Warning: Can't give item because it's not an inventory item.	
+[00:43:27]: Unconnected ping from 192.168.2.179|59170
+[00:43:28]: Unconnected ping from 192.168.2.179|59170
+[00:43:28]: Unconnected ping from 192.168.2.179|59170
+[00:43:29]: Unconnected ping from 192.168.2.179|59170
+[00:43:29]: Unconnected ping from 192.168.2.179|59170
+[00:43:29]: Unconnected ping from 192.168.2.125|49579
+[00:44:05]: Unconnected ping from 192.168.2.109|51440
+[00:44:11]: Unconnected ping from 192.168.2.125|49662
+[00:44:14]: Unconnected ping from 192.168.2.141|56594
+[00:44:16]: Unconnected ping from 192.168.2.104|55215
+[00:44:26]: Unconnected ping from 192.168.2.187|63043
+[00:44:51]: Unconnected ping from 192.168.2.11|61666
+[00:44:55]: Unconnected ping from 192.168.2.172|64477
+[00:44:55]: Unconnected ping from 192.168.2.185|60967
+[00:44:57]: Unconnected ping from 192.168.2.77|64447
+[00:44:58]: Unconnected ping from 192.168.2.14|49211
+[00:45:09]: giving 	252454 - blowdart_pipe	
+[00:45:09]: giving 	252462 - blowdart_pipe	
+[00:45:09]: giving 	252464 - blowdart_pipe	
+[00:45:09]: giving 	252466 - blowdart_pipe	
+[00:45:09]: giving 	252468 - blowdart_pipe	
+[00:45:09]: giving 	252470 - blowdart_pipe	
+[00:45:09]: giving 	252472 - blowdart_pipe	
+[00:45:09]: giving 	252474 - blowdart_pipe	
+[00:45:09]: giving 	252476 - blowdart_pipe	
+[00:45:09]: giving 	252478 - blowdart_pipe	
+[00:45:09]: giving 	252480 - blowdart_pipe	
+[00:45:09]: giving 	252482 - blowdart_pipe	
+[00:45:09]: giving 	252484 - blowdart_pipe	
+[00:45:09]: giving 	252486 - blowdart_pipe	
+[00:45:09]: giving 	252488 - blowdart_pipe	
+[00:45:09]: giving 	252490 - blowdart_pipe	
+[00:45:09]: giving 	252492 - blowdart_pipe	
+[00:45:09]: giving 	252494 - blowdart_pipe	
+[00:45:09]: giving 	252496 - blowdart_pipe	
+[00:45:09]: giving 	252498 - blowdart_pipe	
+[00:45:09]: giving 	252500 - blowdart_pipe	
+[00:45:09]: giving 	252508 - blowdart_pipe	
+[00:45:09]: giving 	252510 - blowdart_pipe	
+[00:45:09]: giving 	252512 - blowdart_pipe	
+[00:45:09]: giving 	252514 - blowdart_pipe	
+[00:45:09]: giving 	252516 - blowdart_pipe	
+[00:45:09]: giving 	252518 - blowdart_pipe	
+[00:45:09]: giving 	252520 - blowdart_pipe	
+[00:45:09]: giving 	252522 - blowdart_pipe	
+[00:45:09]: giving 	252524 - blowdart_pipe	
+[00:45:09]: giving 	252526 - blowdart_pipe	
+[00:45:09]: giving 	252528 - blowdart_pipe	
+[00:45:09]: giving 	252530 - blowdart_pipe	
+[00:45:09]: giving 	252532 - blowdart_pipe	
+[00:45:09]: giving 	252534 - blowdart_pipe	
+[00:45:09]: giving 	252536 - blowdart_pipe	
+[00:45:09]: giving 	252538 - blowdart_pipe	
+[00:45:09]: giving 	252540 - blowdart_pipe	
+[00:45:09]: giving 	252542 - blowdart_pipe	
+[00:45:09]: giving 	252544 - blowdart_pipe	
+[00:45:11]: Unconnected ping from 192.168.2.125|49664
+[00:45:14]: Unconnected ping from 192.168.2.14|49211
+[00:45:19]: Unconnected ping from 192.168.2.82|61916
+[00:45:34]: Unconnected ping from 192.168.2.104|53346
+[00:45:38]: Unconnected ping from 192.168.2.178|50195
+[00:45:42]: Unconnected ping from 192.168.2.104|53346
+[00:45:43]: Unconnected ping from 192.168.2.123|55244
+[00:45:55]: Unconnected ping from 192.168.2.179|54533
+[00:45:58]: Unconnected ping from 192.168.2.179|54533
+[00:46:01]: Unconnected ping from 192.168.2.179|54533
+[00:46:04]: Unconnected ping from 192.168.2.179|54533
+[00:46:05]: Unconnected ping from 192.168.2.179|54533
+[00:46:07]: Unconnected ping from 192.168.2.179|54533
+[00:46:11]: Unconnected ping from 192.168.2.185|57120
+[00:46:20]: Unconnected ping from 192.168.2.141|56594
+[00:46:24]: Unconnected ping from 192.168.2.201|61699
+[00:46:31]: Unconnected ping from 192.168.2.149|54598
+[00:46:37]: Unconnected ping from 192.168.2.214|61763
+[00:46:39]: Unconnected ping from 192.168.2.209|1461
+[00:46:40]: giving 	255423 - beemine	
+[00:46:40]: giving 	255430 - beemine	
+[00:46:40]: giving 	255437 - beemine	
+[00:46:40]: giving 	255444 - beemine	
+[00:46:40]: giving 	255446 - beemine	
+[00:46:40]: giving 	255448 - beemine	
+[00:46:40]: giving 	255450 - beemine	
+[00:46:40]: giving 	255452 - beemine	
+[00:46:40]: giving 	255454 - beemine	
+[00:46:40]: giving 	255456 - beemine	
+[00:46:41]: Unconnected ping from 192.168.2.214|61763
+[00:46:43]: Unconnected ping from 192.168.2.149|54598
+[00:46:48]: Unconnected ping from 192.168.2.214|61763
+[00:46:52]: Unconnected ping from 192.168.2.49|51117
+[00:46:53]: Unconnected ping from 192.168.2.209|1461
+[00:46:55]: Unconnected ping from 192.168.2.204|53032
+[00:46:57]: Unconnected ping from 192.168.2.204|53032
+[00:46:59]: Unconnected ping from 192.168.2.214|61763
+[00:47:01]: Unconnected ping from 192.168.2.49|51117
+[00:47:02]: Unconnected ping from 192.168.2.14|58408
+[00:47:04]: Unconnected ping from 192.168.2.109|2772
+[00:47:04]: Unconnected ping from 192.168.2.204|53032
+[00:47:06]: Unconnected ping from 192.168.2.204|53032
+[00:47:07]: Unconnected ping from 192.168.2.204|53032
+[00:47:09]: Unconnected ping from 192.168.2.181|50497
+[00:47:23]: Unconnected ping from 192.168.2.98|59776
+[00:47:31]: giving 	257906 - gears	
+[00:47:31]: giving 	257908 - gears	
+[00:47:31]: giving 	257910 - gears	
+[00:47:31]: giving 	257912 - gears	
+[00:47:31]: giving 	257914 - gears	
+[00:47:31]: giving 	257916 - gears	
+[00:47:31]: giving 	257918 - gears	
+[00:47:31]: giving 	257920 - gears	
+[00:47:31]: giving 	257922 - gears	
+[00:47:31]: giving 	257924 - gears	
+[00:47:31]: giving 	257926 - gears	
+[00:47:31]: giving 	257928 - gears	
+[00:47:31]: giving 	257930 - gears	
+[00:47:31]: giving 	257932 - gears	
+[00:47:31]: giving 	257934 - gears	
+[00:47:31]: giving 	257936 - gears	
+[00:47:31]: giving 	257938 - gears	
+[00:47:31]: giving 	257940 - gears	
+[00:47:31]: giving 	257942 - gears	
+[00:47:31]: giving 	257944 - gears	
+[00:47:42]: Unconnected ping from 192.168.2.184|64811
+[00:47:44]: Unconnected ping from 192.168.2.184|64811
+[00:47:45]: Unconnected ping from 192.168.2.187|55072
+[00:47:45]: Unconnected ping from 192.168.2.184|64811
+[00:47:46]: Unconnected ping from 192.168.2.209|1470
+[00:47:56]: Unconnected ping from 192.168.2.35|57087
+[00:48:09]: Unconnected ping from 192.168.2.79|59773
+[00:48:10]: Unconnected ping from 192.168.2.79|59773
+[00:48:15]: Unconnected ping from 192.168.2.173|57523
+[00:48:28]: Unconnected ping from 192.168.2.181|62119
+[00:48:32]: Unconnected ping from 192.168.2.13|59079
+[00:48:33]: Unconnected ping from 192.168.2.181|62119
+[00:48:35]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:48:35]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000144
+[00:48:35]: Serializing world: session/64685B2C07C03805/0000000144
+[00:48:37]: Unconnected ping from 192.168.2.68|1446
+[00:48:41]: DoRestart:	true	
+[00:48:42]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:48:42]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000145
+[00:48:42]: Serializing world: session/64685B2C07C03805/0000000145
+[00:48:42]: Truncating to snapshot #145...
+[00:48:42]:  - session/64685B2C07C03805/0000000133
+[00:48:42]:  - session/64685B2C07C03805/0000000134
+[00:48:42]:  - session/64685B2C07C03805/0000000135
+[00:48:42]:  - session/64685B2C07C03805/0000000136
+[00:48:42]:  - session/64685B2C07C03805/0000000137
+[00:48:42]:  - session/64685B2C07C03805/0000000138
+[00:48:42]:  - session/64685B2C07C03805/0000000139
+[00:48:42]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000139
+[00:48:42]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000138
+[00:48:42]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000137
+[00:48:42]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000136
+[00:48:42]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000135
+[00:48:42]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000134
+[00:48:42]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000133
+[00:48:42]:    14 file(s) removed
+[00:48:42]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:48:42]: unloading prefabs for mod MOD_k02-376333686	
+[00:48:42]: unloading prefabs for mod MOD_k01-367546858	
+[00:48:42]: Collecting garbage...
+[00:48:43]: lua_gc took 0.19 seconds
+[00:48:43]: ~ShardLuaProxy()
+[00:48:43]: ~ItemServerLuaProxy()
+[00:48:43]: ~InventoryLuaProxy()
+[00:48:43]: ~NetworkLuaProxy()
+[00:48:43]: ~SimLuaProxy()
+[00:48:43]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:48:43]: lua_close took 0.29 seconds
+[00:48:43]: ReleaseAll
+[00:48:43]: ReleaseAll Finished
+[00:48:43]: cGame::StartPlaying
+[00:48:43]: LOADING LUA
+[00:48:43]: DoLuaFile scripts/main.lua
+[00:48:43]: DoLuaFile loading buffer scripts/main.lua
+[00:48:43]: running main.lua
+	
+[00:48:43]: loaded modindex	
+[00:48:43]: WARNING: icon paths for mod d57-409753995 (d57莉莉姆) are not valid. Got icon_atlas="modicon.xml" and icon="modicon.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[00:48:43]: ModIndex: Beginning normal load sequence.
+	
+[00:48:43]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:48:43]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:48:43]: Could not load mod_config_data/modconfiguration_k01-367546858	
+[00:48:43]: Loading mod: k01-367546858 (k01中文MOD) Version:2.0 rc4	
+[00:48:43]: Could not load mod_config_data/modconfiguration_k02-376333686	
+[00:48:43]: Loading mod: k02-376333686 (k02季节时钟) Version:1.6.6	
+[00:48:43]: Mod: k02-376333686 (k02季节时钟)	Loading modworldgenmain.lua	
+[00:48:43]: Mod: k02-376333686 (k02季节时钟)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:48:43]: Mod: k02-376333686 (k02季节时钟)	Loading modmain.lua	
+[00:48:43]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:48:43]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:48:43]: Mod: k01-367546858 (k01中文MOD)	Loading modworldgenmain.lua	
+[00:48:43]: Mod: k01-367546858 (k01中文MOD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:48:43]: Mod: k01-367546858 (k01中文MOD)	Loading modmain.lua	
+[00:48:43]: Translator:LoadPOFile - loading file: ../mods/k01-367546858/DST_chs.po	
+[00:48:44]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[00:48:44]: LOADING LUA SUCCESS
+[00:48:44]: PlayerDeaths loaded morgue	2479	
+[00:48:44]: PlayerHistory loaded player_history	425	
+[00:48:44]: bloom_enabled	false	
+[00:48:44]: loaded saveindex	
+[00:48:44]: OnFilesLoaded()	
+[00:48:44]: OnUpdatePurchaseStateComplete	
+[00:48:44]: 	Unload BE	
+[00:48:44]: 	Unload BE done	
+[00:48:44]: Could not unload undefined prefab 0xb0a79a1 (twiggy_nut)
+[00:48:44]: Could not unload undefined prefab 0xdaf8d5d (disease_fx_small)
+[00:48:44]: Could not unload undefined prefab 0xfb37cd5 (disease_fx)
+[00:48:44]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[00:48:44]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[00:48:44]: Could not unload undefined prefab 0xdaf8d5d (disease_fx_small)
+[00:48:44]: Could not unload undefined prefab 0x359da624 (log)
+[00:48:44]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[00:48:44]: Could not unload undefined prefab 0x29d8efdb (red_leaves_chop)
+[00:48:44]: Could not unload undefined prefab 0x39590c78 (orange_leaves_chop)
+[00:48:44]: Could not unload undefined prefab 0x2d1c40c (deciduous_root)
+[00:48:44]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[00:48:44]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[00:48:44]: Could not unload undefined prefab 0x235a9a90 (birchnutdrake)
+[00:48:44]: Could not unload undefined prefab 0x184178b (meat)
+[00:48:44]: Could not unload undefined prefab 0x359da624 (log)
+[00:48:44]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[00:48:44]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[00:48:44]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[00:48:44]: Could not unload undefined prefab 0x3036fc96 (ash)
+[00:48:44]: Could not unload undefined prefab 0x1a35332f (spore_medium)
+[00:48:44]: Could not unload undefined prefab 0x8119781a (cookedmandrake)
+[00:48:44]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[00:48:44]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[00:48:44]: Could not unload undefined prefab 0xa694a25e (mandrake_planted)
+[00:48:44]: Could not unload undefined prefab 0x359da624 (log)
+[00:48:44]: Could not unload undefined prefab 0x112002ba (twiggy_nut_sapling)
+[00:48:44]: Could not unload undefined prefab 0x184178b (meat)
+[00:48:44]: Could not unload undefined prefab 0x359da624 (log)
+[00:48:44]: Could not unload undefined prefab 0x1078732c (character_fire)
+[00:48:44]: Could not unload undefined prefab 0x184178b (meat)
+[00:48:44]: Could not unload undefined prefab 0x359da624 (log)
+[00:48:44]: Could not unload undefined prefab 0x1078732c (character_fire)
+[00:48:44]: Could not unload undefined prefab 0x78d69cdc (rock_petrified_tree_short)
+[00:48:44]: Could not unload undefined prefab 0x4f122f8c (rock_petrified_tree_med)
+[00:48:44]: Could not unload undefined prefab 0x9ce1eaee (rocks)
+[00:48:44]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[00:48:44]: Could not unload undefined prefab 0x50155047 (rock_petrified_tree_old)
+[00:48:44]: Could not unload undefined prefab 0xaec874c8 (disease_puff)
+[00:48:44]: Could not unload undefined prefab 0xdaf8d5d (disease_fx_small)
+[00:48:44]: Could not unload undefined prefab 0xfb37cd5 (disease_fx)
+[00:48:44]: Could not unload undefined prefab 0x1c124037 (disease_fx_tall)
+[00:48:44]: Could not unload undefined prefab 0x359da624 (log)
+[00:48:44]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[00:48:44]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[00:48:44]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[00:48:44]: Could not unload undefined prefab 0x3036fc96 (ash)
+[00:48:44]: Could not unload undefined prefab 0xed18eed (spore_small)
+[00:48:44]: Could not unload undefined prefab 0x8539b55b (mushtree_small_burntfx)
+[00:48:44]: Could not unload undefined prefab 0x994e32df (mushtree_small_bloom_burntfx)
+[00:48:44]: Could not unload undefined prefab 0x359da624 (log)
+[00:48:44]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[00:48:44]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[00:48:44]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[00:48:44]: Could not unload undefined prefab 0x3036fc96 (ash)
+[00:48:44]: Could not unload undefined prefab 0x5286daa7 (spore_tall)
+[00:48:44]: Could not unload undefined prefab 0x9db421e9 (mushtree_tall_burntfx)
+[00:48:44]: Could not unload undefined prefab 0x4336ea6d (mushtree_tall_bloom_burntfx)
+[00:48:45]: Mod: k02-376333686 (k02季节时钟)	Registering prefabs	
+[00:48:45]: Mod: k02-376333686 (k02季节时钟)	  Registering default mod prefab	
+[00:48:45]: Mod: k01-367546858 (k01中文MOD)	Registering prefabs	
+[00:48:45]: Mod: k01-367546858 (k01中文MOD)	  Registering default mod prefab	
+[00:48:45]: 	Load FE	
+[00:48:46]: 	Load FE: done	
+[00:48:46]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:48:46]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:48:46]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:48:46]: SimLuaProxy::QueryServer()
+[00:48:46]: ModIndex: Load sequence finished successfully.	
+[00:48:46]: Reset() returning
+[00:48:49]: unloading prefabs for mod MOD_k02-376333686	
+[00:48:49]: unloading prefabs for mod MOD_k01-367546858	
+[00:48:49]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:48:49]: Collecting garbage...
+[00:48:49]: lua_gc took 0.02 seconds
+[00:48:49]: ~ShardLuaProxy()
+[00:48:49]: ~ItemServerLuaProxy()
+[00:48:49]: ~InventoryLuaProxy()
+[00:48:49]: ~NetworkLuaProxy()
+[00:48:49]: ~SimLuaProxy()
+[00:48:49]: Cancelling LuaQueryCallback handle [26]
+[00:48:49]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:48:49]: lua_close took 0.03 seconds
+[00:48:50]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:48:50]: [Steam] Auth ticket cancelled
+[00:48:50]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:48:50]: anim/disease_fx.zip - 2
+[00:48:50]: anim/batwing.zip - 1
+[00:48:50]: anim/meat.zip - 1
+[00:48:50]: anim/gears.zip - 1
+[00:48:50]: anim/meat_human.zip - 1
+[00:48:50]: anim/bee_mine.zip - 1
+[00:48:50]: anim/bee_mine_maxwell.zip - 1
+[00:48:50]: anim/spoiled_food.zip - 1
+[00:48:50]: anim/log.zip - 1
+[00:48:50]: anim/smoke_puff_small.zip - 1
+[00:48:50]: anim/swap_blowdart.zip - 1
+[00:48:50]: anim/fire_large_character.zip - 1
+[00:48:50]: anim/swap_blowdart_pipe.zip - 1
+[00:48:50]: anim/fireflies.zip - 1
+[00:48:50]: anim/meat_small.zip - 1
+[00:48:50]: anim/blow_dart.zip - 1
+[00:48:50]: anim/meat_rack_food.zip - 1
+[00:48:50]: anim/plant_meat.zip - 1
+[00:48:50]: anim/drumstick.zip - 1
+[00:48:50]: anim/mushrooms.zip - 3
+[00:48:50]: anim/mandrake.zip - 1
+[00:48:50]: anim/ash.zip - 1
+[00:48:50]: anim/firepit.zip - 1
+[00:48:50]: anim/meat_monster.zip - 1
+[00:48:50]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:48:50]: shaders/ui_yuv.ksh - 1
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:48:50]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:48:50]: anim/fire_large_character.zip:fire_large_character--atlas-0.tex - 1
+[00:48:50]: anim/fireflies.zip:fireflies--atlas-0.tex - 1
+[00:48:50]: anim/firepit.zip:firepit--atlas-0.tex - 1
+[00:48:50]: anim/meat_rack_food.zip:meat_rack_food--atlas-0.tex - 1
+[00:48:50]: anim/bee_mine_maxwell.zip:bee_mine_maxwell--atlas-0.tex - 1
+[00:48:50]: anim/ash.zip:ash--atlas-0.tex - 1
+[00:48:50]: anim/fire_large_character.zip:fire_large_character--atlas-1.tex - 1
+[00:48:50]: anim/disease_fx.zip:disease_fx--atlas-0.tex - 1
+[00:48:50]: anim/meat_human.zip:meat_human--atlas-0.tex - 1
+[00:48:50]: anim/meat_small.zip:meat_small--atlas-0.tex - 1
+[00:48:50]: anim/blow_dart.zip:blow_dart--atlas-0.tex - 1
+[00:48:50]: anim/drumstick.zip:drumstick--atlas-0.tex - 1
+[00:48:50]: anim/meat.zip:meat--atlas-0.tex - 1
+[00:48:50]: anim/swap_blowdart_pipe.zip:swap_blowdart_pipe--atlas-0.tex - 1
+[00:48:50]: anim/batwing.zip:batwing--atlas-0.tex - 1
+[00:48:50]: anim/bee_mine.zip:bee_mine--atlas-0.tex - 1
+[00:48:50]: anim/mushrooms.zip:mushrooms--atlas-0.tex - 1
+[00:48:50]: anim/log.zip:log--atlas-0.tex - 1
+[00:48:50]: anim/smoke_puff_small.zip:smoke_puff_small--atlas-0.tex - 1
+[00:48:50]: anim/plant_meat.zip:plant_meat--atlas-0.tex - 1
+[00:48:50]: anim/spoiled_food.zip:spoiled_food--atlas-0.tex - 1
+[00:48:50]: anim/mandrake.zip:mandrake--atlas-0.tex - 1
+[00:48:50]: anim/swap_blowdart.zip:swap_blowdart--atlas-0.tex - 1
+[00:48:50]: anim/gears.zip:gears--atlas-0.tex - 1
+[00:48:50]: anim/batwing.zip:batwing--atlas-1.tex - 1
+[00:48:50]: anim/meat_monster.zip:meat_monster--atlas-0.tex - 1
+[00:48:50]: CurlRequestManager::ClientThread::Main() complete
+[00:48:50]: HttpClient2 discarded 0 callbacks.
+[00:48:50]: Shutting down

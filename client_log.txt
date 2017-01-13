@@ -1,0 +1,585 @@
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 181387
+[00:00:00]: Current time: Wed Jan 04 23:00:19 2017
+
+[00:00:00]: Don't Starve Together: 181387 WIN32_STEAM
+[00:00:00]: Build Date: 733
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Initializing Steam
+[00:00:00]: Steam AppBuildID: 213
+[00:00:00]: Steam BetaName(Branch): [Game_Beta]
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (41136)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:5.30
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application D:\
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: could not load ping_cache
+[00:00:00]: Offline user ID: OU_76561198224511930
+[00:00:00]: THREAD - started 'ConsoleInput' (7200)
+[00:00:00]: SteamID: 76561198224511930
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 1317,736 - 5/6/5 - -1/-1/-1 - 0
+[00:00:00]: CreateEGLContext: 12 configs found
+[00:00:00]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:00]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:00]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:00]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:00]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:00]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:00]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:00]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:00]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:00]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:00]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:00]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:00]: RestoreWindowPosition
+[00:00:00]:    Saved Client Pos (0 x 31)
+[00:00:00]:    Adjusted Window Pos (-8 x 0)
+[00:00:00]: EnsureWindowOnScreen
+[00:00:00]:    All good.
+[00:00:00]: GLInfo
+[00:00:00]: ~~~~~~
+[00:00:00]: GL_VENDOR: Google Inc.
+[00:00:00]: GL_RENDERER: ANGLE (NVIDIA GeForce 610M)
+[00:00:00]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:00]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:00]: THREAD - started 'WindowsInputManager' (18660)
+[00:00:00]: OpenGL extensions (19, 19):
+[00:00:00]: GL_ANGLE_depth_texture
+[00:00:00]: GL_ANGLE_framebuffer_blit
+[00:00:00]: GL_ANGLE_framebuffer_multisample
+[00:00:00]: GL_ANGLE_instanced_arrays
+[00:00:00]: GL_ANGLE_pack_reverse_row_order
+[00:00:00]: GL_ANGLE_texture_compression_dxt3
+[00:00:00]: GL_ANGLE_texture_compression_dxt5
+[00:00:00]: GL_ANGLE_texture_usage
+[00:00:00]: GL_ANGLE_translated_shader_source
+[00:00:00]: GL_EXT_read_format_bgra
+[00:00:00]: GL_EXT_robustness
+[00:00:00]: GL_EXT_texture_compression_dxt1
+[00:00:00]: GL_EXT_texture_format_BGRA8888
+[00:00:00]: GL_EXT_texture_storage
+[00:00:00]: GL_OES_get_program_binary
+[00:00:00]: GL_OES_packed_depth_stencil
+[00:00:00]: GL_OES_rgb8_rgba8
+[00:00:00]: GL_OES_standard_derivatives
+[00:00:00]: GL_OES_texture_npot
+[00:00:00]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:00]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:00]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:00]: GL_MAX_VARYING_VECTORS = 10
+[00:00:00]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:00]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:00]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:00]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:00]: 4 compressed texture formats
+[00:00:00]: texture format 0x83f0
+[00:00:00]: texture format 0x83f1
+[00:00:00]: texture format 0x83f2
+[00:00:00]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:02]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:02]: GameSpecific initialize: Okay
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: WARNING: icon paths for mod d57-409753995 (d57莉莉姆) are not valid. Got icon_atlas="modicon.xml" and icon="modicon.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:02]: Could not load mod_config_data/modconfiguration_k01-367546858	
+[00:00:02]: Loading mod: k01-367546858 (k01中文MOD) Version:2.0 rc4	
+[00:00:02]: Could not load mod_config_data/modconfiguration_k02-376333686	
+[00:00:02]: Loading mod: k02-376333686 (k02季节时钟) Version:1.6.6	
+[00:00:02]: Mod: k02-376333686 (k02季节时钟)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: k02-376333686 (k02季节时钟)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: k02-376333686 (k02季节时钟)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:02]: Mod: k01-367546858 (k01中文MOD)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: k01-367546858 (k01中文MOD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: k01-367546858 (k01中文MOD)	Loading modmain.lua	
+[00:00:02]: Translator:LoadPOFile - loading file: ../mods/k01-367546858/DST_chs.po	
+[00:00:03]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: PlayerDeaths loaded morgue	2479	
+[00:00:04]: PlayerHistory loaded player_history	425	
+[00:00:04]: bloom_enabled	false	
+[00:00:04]: loaded saveindex	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:06]: Mod: k02-376333686 (k02季节时钟)	Registering prefabs	
+[00:00:06]: Mod: k02-376333686 (k02季节时钟)	  Registering default mod prefab	
+[00:00:06]: Mod: k01-367546858 (k01中文MOD)	Registering prefabs	
+[00:00:06]: Mod: k01-367546858 (k01中文MOD)	  Registering default mod prefab	
+[00:00:06]: 	Load FE	
+[00:00:07]: 	Load FE: done	
+[00:00:07]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:07]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:07]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:07]: SimLuaProxy::QueryServer()
+[00:00:07]: ModIndex: Load sequence finished successfully.	
+[00:00:07]: Reset() returning
+[00:00:09]: [Steam] Auth Session Ticket requested...
+[00:00:10]: SimLuaProxy::QueryServer()
+[00:00:24]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"external", "limit": 20}
+[00:00:24]: Frontend-Unloading mod 'all'.	
+[00:00:25]: ../mods/e02-373480109/Coordinate.tex is 120x104 but compressed textures must have power of 2 dimensions.
+[00:00:36]: Network tick rate: U=15(2), D=0
+[00:00:36]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:36]: About to start a server with the following settings:
+[00:00:36]:   Dedicated: false
+[00:00:36]:   Online: false
+[00:00:36]:   Passworded: true
+[00:00:36]:   ServerPort: 10999
+[00:00:36]:   SteamAuthPort: 8766
+[00:00:36]:   SteamMasterServerPort: 27016
+[00:00:36]:   ClanID: false
+[00:00:36]:   ClanOnly: false
+[00:00:36]:   ClanAdmin: false
+[00:00:36]:   LanOnly: true
+[00:00:36]:   FriendsOnly: false
+[00:00:36]:   EnableAutosaver: true
+[00:00:36]:   PVP: false
+[00:00:36]:   MaxPlayers: 6
+[00:00:36]:   GameMode: survival
+[00:00:36]:   OverridenDNS: 
+[00:00:36]:   PauseWhenEmpty: true
+[00:00:36]:   VoteEnabled: false
+[00:00:36]:   InternetBroadcasting: true
+[00:00:36]:   Intent: cooperative
+[00:00:36]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:36]: Lan Server Started on port: 10999
+[00:00:38]: unloading prefabs for mod MOD_k02-376333686	
+[00:00:38]: unloading prefabs for mod MOD_k01-367546858	
+[00:00:38]: Collecting garbage...
+[00:00:38]: lua_gc took 0.03 seconds
+[00:00:38]: ~ShardLuaProxy()
+[00:00:38]: ~ItemServerLuaProxy()
+[00:00:38]: ~InventoryLuaProxy()
+[00:00:38]: ~NetworkLuaProxy()
+[00:00:38]: ~SimLuaProxy()
+[00:00:38]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:38]: lua_close took 0.04 seconds
+[00:00:38]: ReleaseAll
+[00:00:38]: ReleaseAll Finished
+[00:00:38]: cGame::StartPlaying
+[00:00:38]: LOADING LUA
+[00:00:38]: DoLuaFile scripts/main.lua
+[00:00:38]: DoLuaFile loading buffer scripts/main.lua
+[00:00:38]: running main.lua
+	
+[00:00:38]: loaded modindex	
+[00:00:38]: WARNING: icon paths for mod d57-409753995 (d57莉莉姆) are not valid. Got icon_atlas="modicon.xml" and icon="modicon.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[00:00:38]: ModIndex: Beginning normal load sequence.
+	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:38]: Could not load mod_config_data/modconfiguration_k01-367546858	
+[00:00:38]: Loading mod: k01-367546858 (k01中文MOD) Version:2.0 rc4	
+[00:00:38]: Could not load mod_config_data/modconfiguration_k02-376333686	
+[00:00:38]: Loading mod: k02-376333686 (k02季节时钟) Version:1.6.6	
+[00:00:38]: Mod: k02-376333686 (k02季节时钟)	Loading modworldgenmain.lua	
+[00:00:38]: Mod: k02-376333686 (k02季节时钟)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:38]: Mod: k02-376333686 (k02季节时钟)	Loading modmain.lua	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:38]: Mod: k01-367546858 (k01中文MOD)	Loading modworldgenmain.lua	
+[00:00:38]: Mod: k01-367546858 (k01中文MOD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:38]: Mod: k01-367546858 (k01中文MOD)	Loading modmain.lua	
+[00:00:38]: Translator:LoadPOFile - loading file: ../mods/k01-367546858/DST_chs.po	
+[00:00:39]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[00:00:39]: LOADING LUA SUCCESS
+[00:00:39]: PlayerDeaths loaded morgue	2479	
+[00:00:39]: PlayerHistory loaded player_history	425	
+[00:00:39]: bloom_enabled	false	
+[00:00:39]: loaded saveindex	
+[00:00:39]: OnFilesLoaded()	
+[00:00:39]: OnUpdatePurchaseStateComplete	
+[00:00:39]: 	Unload FE	
+[00:00:39]: 	Unload FE done	
+[00:00:39]: Mod: k02-376333686 (k02季节时钟)	Registering prefabs	
+[00:00:39]: Mod: k02-376333686 (k02季节时钟)	  Registering default mod prefab	
+[00:00:39]: Mod: k01-367546858 (k01中文MOD)	Registering prefabs	
+[00:00:39]: Mod: k01-367546858 (k01中文MOD)	  Registering default mod prefab	
+[00:00:39]: 	LOAD BE	
+[00:00:41]: 	LOAD BE: done	
+[00:00:41]: Loading world: session/64685B2C07C03805/0000000168	
+[00:00:41]: Save file is at version 3	
+[00:00:42]: Begin Session: 64685B2C07C03805
+[00:00:42]: saving to server_temp/server_save	
+[00:00:42]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:43]: Loading Nav Grid	
+[00:00:43]: setting 	summerlength	15	
+[00:00:43]: setting 	isnightmaredawn	false	
+[00:00:43]: setting 	elapseddaysinseason	6	
+[00:00:43]: setting 	isfullmoon	false	
+[00:00:43]: setting 	moisture	2448.4343261719	
+[00:00:43]: setting 	cavephase	dusk	
+[00:00:43]: setting 	isnightmarewild	false	
+[00:00:43]: setting 	moonphase	full	
+[00:00:43]: setting 	precipitationrate	0	
+[00:00:43]: setting 	iswet	true	
+[00:00:43]: setting 	winterlength	15	
+[00:00:43]: setting 	temperature	20	
+[00:00:43]: setting 	isnightmarewarn	false	
+[00:00:43]: setting 	iswinter	false	
+[00:00:43]: setting 	moistureceil	3556.9543457031	
+[00:00:43]: setting 	isday	false	
+[00:00:43]: setting 	israining	false	
+[00:00:43]: setting 	remainingdaysinseason	14	
+[00:00:43]: setting 	precipitation	none	
+[00:00:43]: setting 	wetness	22.382850646973	
+[00:00:43]: setting 	isnightmarecalm	false	
+[00:00:43]: setting 	timeinphase	0.19420960744222	
+[00:00:43]: setting 	isdusk	true	
+[00:00:43]: setting 	iscavedusk	true	
+[00:00:43]: setting 	isautumn	false	
+[00:00:43]: setting 	issnowing	false	
+[00:00:43]: setting 	iscaveday	false	
+[00:00:43]: setting 	phase	dusk	
+[00:00:43]: setting 	snowlevel	0	
+[00:00:43]: setting 	issnowcovered	false	
+[00:00:43]: setting 	autumnlength	20	
+[00:00:43]: setting 	pop	0.5920799142797	
+[00:00:43]: setting 	nightmaretime	0	
+[00:00:43]: setting 	springlength	20	
+[00:00:43]: setting 	isspring	true	
+[00:00:43]: setting 	nightmarephase	none	
+[00:00:43]: setting 	season	spring	
+[00:00:43]: setting 	time	0.40960480372111	
+[00:00:43]: setting 	iscavenight	false	
+[00:00:43]: setting 	cycles	111	
+[00:00:43]: setting 	isnight	false	
+[00:00:43]: setting 	nightmaretimeinphase	0	
+[00:00:43]: setting 	issummer	false	
+[00:00:50]: Reconstructing topology	
+[00:00:50]: 	...Sorting points	
+[00:00:50]: 	...Sorting edges	
+[00:00:50]: 	...Connecting nodes	
+[00:00:50]: 	...Validating connections	
+[00:00:50]: 	...Housekeeping	
+[00:00:50]: 	...Done!	
+[00:00:50]: 1 uploads added to server. From server_temp
+[00:00:50]: Telling Client our new session identifier: 64685B2C07C03805
+[00:00:50]: ModIndex: Load sequence finished successfully.	
+[00:00:51]: Reset() returning
+[00:00:52]: Unconnected ping from 192.168.2.125|54734
+[00:00:52]: Unconnected ping from 192.168.2.125|54734
+[00:00:52]: Unconnected ping from 192.168.2.125|54734
+[00:00:52]: Unconnected ping from 192.168.2.125|54734
+[00:00:52]: Unconnected ping from 192.168.2.178|50428
+[00:00:52]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:00:52]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:00:52]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:00:52]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:00:52]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:00:52]: Attempting to send resume request
+[00:00:52]: Resuming user: session/64685B2C07C03805/OU_76561198224511930_/0000000168
+[00:00:52]: Spawning player at: [Load] (-142.94, -0.00, -360.91)	
+[00:00:52]: ReceiveResumeNotification
+[00:00:52]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:00:52]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:00:52]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:00:52]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:00:52]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:00:52]: Loading minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:00:52]: Deserializing cached icon data: 6512
+[00:00:52]: Deserializing tile data (425 x 425)
+[00:01:14]: Unconnected ping from 192.168.2.90|61837
+[00:01:41]: Unconnected ping from 192.168.2.133|50337
+[00:01:45]: Unconnected ping from 192.168.2.23|57530
+[00:01:55]: Unconnected ping from 192.168.2.156|64781
+[00:01:55]: Unconnected ping from 192.168.2.175|62591
+[00:01:56]: Unconnected ping from 192.168.2.90|61837
+[00:02:01]: Unconnected ping from 192.168.2.131|50372
+[00:02:04]: Unconnected ping from 192.168.2.50|55725
+[00:02:13]: Unconnected ping from 192.168.2.131|50372
+[00:02:24]: Unconnected ping from 192.168.2.156|64781
+[00:02:28]: Unconnected ping from 192.168.2.143|56731
+[00:02:44]: Unconnected ping from 192.168.2.156|64781
+[00:02:49]: Unconnected ping from 192.168.2.16|49882
+[00:03:04]: Unconnected ping from 192.168.2.125|58653
+[00:03:05]: Unconnected ping from 192.168.2.125|58653
+[00:03:53]: Unconnected ping from 192.168.2.156|64781
+[00:04:06]: PREFAB SWAP TRIGGER:	threequarter	
+[00:04:59]: Unconnected ping from 192.168.2.3|50303
+[00:05:16]: Unconnected ping from 192.168.2.133|64857
+[00:05:16]: Unconnected ping from 192.168.2.83|4608
+[00:05:23]: Unconnected ping from 192.168.2.61|53945
+[00:05:25]: Unconnected ping from 192.168.2.135|56104
+[00:05:37]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:05:37]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000169
+[00:05:37]: Serializing world: session/64685B2C07C03805/0000000169
+[00:06:03]: Unconnected ping from 192.168.2.234|2843
+[00:06:21]: Unconnected ping from 192.168.2.4|64780
+[00:06:28]: Unconnected ping from 192.168.2.80|55879
+[00:06:30]: Unconnected ping from 192.168.2.54|64251
+[00:06:32]: Unconnected ping from 192.168.2.54|64251
+[00:06:33]: Unconnected ping from 192.168.2.54|64251
+[00:06:34]: Unconnected ping from 192.168.2.54|64251
+[00:06:35]: Unconnected ping from 192.168.2.54|64251
+[00:06:36]: Unconnected ping from 192.168.2.54|64251
+[00:06:44]: Unconnected ping from 192.168.2.93|61391
+[00:06:45]: Unconnected ping from 192.168.2.61|53758
+[00:06:46]: Unconnected ping from 192.168.2.74|64948
+[00:06:47]: PREFAB SWAP TRIGGER:	rain	
+[00:06:59]: Unconnected ping from 192.168.2.94|51544
+[00:07:08]: giving 	139278 - gears	
+[00:07:08]: giving 	139286 - gears	
+[00:07:08]: giving 	139288 - gears	
+[00:07:08]: giving 	139290 - gears	
+[00:07:08]: giving 	139292 - gears	
+[00:07:08]: giving 	139294 - gears	
+[00:07:08]: giving 	139296 - gears	
+[00:07:08]: giving 	139298 - gears	
+[00:07:08]: giving 	139300 - gears	
+[00:07:08]: giving 	139302 - gears	
+[00:07:08]: giving 	139304 - gears	
+[00:07:08]: giving 	139306 - gears	
+[00:07:08]: giving 	139308 - gears	
+[00:07:08]: giving 	139310 - gears	
+[00:07:08]: giving 	139312 - gears	
+[00:07:08]: giving 	139314 - gears	
+[00:07:08]: giving 	139316 - gears	
+[00:07:08]: giving 	139318 - gears	
+[00:07:08]: giving 	139320 - gears	
+[00:07:08]: giving 	139322 - gears	
+[00:07:22]: Unconnected ping from 192.168.2.13|52395
+[00:07:23]: Unconnected ping from 192.168.2.4|64780
+[00:07:24]: Unconnected ping from 192.168.2.13|52395
+[00:07:47]: Unconnected ping from 192.168.2.92|53077
+[00:08:10]: Unconnected ping from 192.168.2.74|64948
+[00:08:20]: Unconnected ping from 192.168.2.74|64948
+[00:08:21]: Unconnected ping from 192.168.2.74|64948
+[00:08:23]: giving 	144610 - eyeturret	
+[00:08:23]: Warning: Can't give item because it's not an inventory item.	
+[00:08:30]: giving 	145121 - eyeturret	
+[00:08:30]: Warning: Can't give item because it's not an inventory item.	
+[00:08:37]: giving 	145744 - eyeturret	
+[00:08:37]: Warning: Can't give item because it's not an inventory item.	
+[00:08:40]: giving 	145900 - eyeturret	
+[00:08:40]: Warning: Can't give item because it's not an inventory item.	
+[00:08:45]: giving 	146354 - eyeturret	
+[00:08:45]: Warning: Can't give item because it's not an inventory item.	
+[00:08:51]: Unconnected ping from 192.168.2.151|56375
+[00:08:52]: Unconnected ping from 192.168.2.110|60937
+[00:08:52]: Unconnected ping from 192.168.2.62|61080
+[00:08:54]: Unconnected ping from 192.168.2.62|61080
+[00:08:54]: Unconnected ping from 192.168.2.13|49277
+[00:08:55]: Unconnected ping from 192.168.2.13|49277
+[00:08:57]: Unconnected ping from 192.168.2.62|61080
+[00:08:58]: giving 	147658 - eyeturret	
+[00:08:58]: Warning: Can't give item because it's not an inventory item.	
+[00:08:59]: Unconnected ping from 192.168.2.62|61080
+[00:09:00]: Unconnected ping from 192.168.2.62|61080
+[00:09:01]: giving 	147871 - eyeturret	
+[00:09:01]: Warning: Can't give item because it's not an inventory item.	
+[00:09:01]: Unconnected ping from 192.168.2.62|61080
+[00:09:03]: giving 	148043 - eyeturret	
+[00:09:03]: Warning: Can't give item because it's not an inventory item.	
+[00:09:03]: Unconnected ping from 192.168.2.62|61080
+[00:09:06]: giving 	148339 - eyeturret	
+[00:09:06]: Warning: Can't give item because it's not an inventory item.	
+[00:09:07]: Unconnected ping from 192.168.2.177|61933
+[00:09:09]: Unconnected ping from 192.168.2.62|61080
+[00:09:35]: Unconnected ping from 192.168.2.98|58930
+[00:09:38]: Unconnected ping from 192.168.2.98|58930
+[00:09:40]: Unconnected ping from 192.168.2.98|58930
+[00:09:45]: Unconnected ping from 192.168.2.151|54164
+[00:09:50]: Unconnected ping from 192.168.2.98|58930
+[00:09:52]: giving 	153051 - blowdart_pipe	
+[00:09:52]: giving 	153059 - blowdart_pipe	
+[00:09:52]: giving 	153061 - blowdart_pipe	
+[00:09:52]: giving 	153063 - blowdart_pipe	
+[00:09:52]: giving 	153065 - blowdart_pipe	
+[00:09:52]: giving 	153067 - blowdart_pipe	
+[00:09:52]: giving 	153069 - blowdart_pipe	
+[00:09:52]: giving 	153071 - blowdart_pipe	
+[00:09:52]: giving 	153073 - blowdart_pipe	
+[00:09:52]: giving 	153075 - blowdart_pipe	
+[00:09:52]: giving 	153077 - blowdart_pipe	
+[00:09:52]: giving 	153079 - blowdart_pipe	
+[00:09:52]: giving 	153081 - blowdart_pipe	
+[00:09:52]: giving 	153083 - blowdart_pipe	
+[00:09:52]: giving 	153085 - blowdart_pipe	
+[00:09:52]: giving 	153087 - blowdart_pipe	
+[00:09:52]: giving 	153089 - blowdart_pipe	
+[00:09:52]: giving 	153091 - blowdart_pipe	
+[00:09:52]: giving 	153093 - blowdart_pipe	
+[00:09:52]: giving 	153095 - blowdart_pipe	
+[00:09:52]: giving 	153097 - blowdart_pipe	
+[00:09:52]: giving 	153105 - blowdart_pipe	
+[00:09:52]: giving 	153107 - blowdart_pipe	
+[00:09:52]: giving 	153109 - blowdart_pipe	
+[00:09:52]: giving 	153111 - blowdart_pipe	
+[00:09:52]: giving 	153113 - blowdart_pipe	
+[00:09:52]: giving 	153115 - blowdart_pipe	
+[00:09:52]: giving 	153117 - blowdart_pipe	
+[00:09:52]: giving 	153119 - blowdart_pipe	
+[00:09:52]: giving 	153121 - blowdart_pipe	
+[00:09:52]: giving 	153123 - blowdart_pipe	
+[00:09:52]: giving 	153125 - blowdart_pipe	
+[00:09:52]: giving 	153127 - blowdart_pipe	
+[00:09:52]: giving 	153129 - blowdart_pipe	
+[00:09:52]: giving 	153131 - blowdart_pipe	
+[00:09:52]: giving 	153133 - blowdart_pipe	
+[00:09:52]: giving 	153135 - blowdart_pipe	
+[00:09:52]: giving 	153137 - blowdart_pipe	
+[00:09:52]: giving 	153139 - blowdart_pipe	
+[00:09:52]: giving 	153141 - blowdart_pipe	
+[00:09:52]: giving 	153143 - blowdart_pipe	
+[00:09:52]: giving 	153151 - blowdart_pipe	
+[00:09:52]: giving 	153153 - blowdart_pipe	
+[00:09:52]: giving 	153155 - blowdart_pipe	
+[00:09:52]: giving 	153157 - blowdart_pipe	
+[00:09:52]: giving 	153159 - blowdart_pipe	
+[00:09:52]: giving 	153161 - blowdart_pipe	
+[00:09:52]: giving 	153163 - blowdart_pipe	
+[00:09:52]: giving 	153165 - blowdart_pipe	
+[00:09:52]: giving 	153167 - blowdart_pipe	
+[00:09:52]: giving 	153169 - blowdart_pipe	
+[00:09:52]: giving 	153171 - blowdart_pipe	
+[00:09:52]: giving 	153173 - blowdart_pipe	
+[00:09:52]: giving 	153175 - blowdart_pipe	
+[00:09:52]: giving 	153177 - blowdart_pipe	
+[00:09:52]: giving 	153179 - blowdart_pipe	
+[00:09:52]: giving 	153181 - blowdart_pipe	
+[00:09:52]: giving 	153183 - blowdart_pipe	
+[00:09:52]: giving 	153185 - blowdart_pipe	
+[00:09:52]: giving 	153187 - blowdart_pipe	
+[00:09:54]: Unconnected ping from 192.168.2.62|61080
+[00:09:56]: Unconnected ping from 192.168.2.62|61080
+[00:09:57]: Unconnected ping from 192.168.2.110|60937
+[00:09:57]: Unconnected ping from 192.168.2.13|52975
+[00:10:01]: Unconnected ping from 192.168.2.13|52975
+[00:10:09]: Unconnected ping from 192.168.2.126|51376
+[00:10:12]: Unconnected ping from 192.168.2.106|63627
+[00:10:16]: Unconnected ping from 192.168.2.106|63627
+[00:10:27]: Unconnected ping from 192.168.2.151|54164
+[00:10:53]: Unconnected ping from 192.168.2.62|61080
+[00:11:04]: Unconnected ping from 192.168.2.110|60937
+[00:11:07]: Unconnected ping from 192.168.2.69|65066
+[00:11:22]: Unconnected ping from 192.168.2.151|61473
+[00:11:28]: Unconnected ping from 192.168.2.62|61080
+[00:11:32]: Unconnected ping from 192.168.2.62|61080
+[00:11:36]: Unconnected ping from 192.168.2.62|61080
+[00:11:38]: Unconnected ping from 192.168.2.62|61080
+[00:11:43]: Unconnected ping from 192.168.2.110|60937
+[00:11:46]: Unconnected ping from 192.168.2.3|54784
+[00:12:32]: Unconnected ping from 192.168.2.107|63786
+[00:12:33]: Unconnected ping from 192.168.2.13|56084
+[00:12:36]: Unconnected ping from 192.168.2.13|56084
+[00:12:45]: Unconnected ping from 192.168.2.58|60973
+[00:12:50]: Unconnected ping from 192.168.2.13|56084
+[00:12:51]: Unconnected ping from 192.168.2.13|56084
+[00:12:51]: Unconnected ping from 192.168.2.13|56084
+[00:12:53]: Unconnected ping from 192.168.2.13|56084
+[00:13:04]: Unconnected ping from 192.168.2.13|56913
+[00:13:38]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:13:38]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000170
+[00:13:38]: Serializing world: session/64685B2C07C03805/0000000170
+[00:13:48]: Unconnected ping from 192.168.2.31|64518
+[00:13:52]: Unconnected ping from 192.168.2.31|64518
+[00:13:56]: Unconnected ping from 192.168.2.31|64518
+[00:13:58]: Unconnected ping from 192.168.2.31|64518
+[00:14:10]: Unconnected ping from 192.168.2.13|65491
+[00:14:12]: Unconnected ping from 192.168.2.98|55440
+[00:14:14]: At ONSPAWNED	100286 - beefaloherd	
+[00:14:21]: At ONSPAWNED	100286 - beefaloherd	
+[00:14:36]: Unconnected ping from 192.168.2.15|56899
+[00:14:39]: Unconnected ping from 192.168.2.31|49989
+[00:14:44]: Unconnected ping from 192.168.2.31|49989
+[00:14:45]: Unconnected ping from 192.168.2.56|64763
+[00:14:55]: Unconnected ping from 192.168.2.122|57361
+[00:15:00]: Unconnected ping from 192.168.2.173|60552
+[00:15:23]: Unconnected ping from 192.168.2.122|57629
+[00:15:24]: Unconnected ping from 192.168.2.122|57629
+[00:15:25]: Unconnected ping from 192.168.2.122|57629
+[00:15:26]: Unconnected ping from 192.168.2.31|49989
+[00:15:38]: Unconnected ping from 192.168.2.3|52971
+[00:15:54]: Unconnected ping from 192.168.2.98|55440
+[00:16:24]: Unconnected ping from 192.168.2.122|60499
+[00:16:26]: Unconnected ping from 192.168.2.122|60499
+[00:16:28]: Unconnected ping from 192.168.2.122|60499
+[00:16:43]: Unconnected ping from 192.168.2.74|61949
+[00:17:10]: Unconnected ping from 192.168.2.90|53424
+[00:17:40]: PREFAB SWAP TRIGGER:	none	
+[00:17:43]: Unconnected ping from 192.168.2.74|61949
+[00:17:49]: Unconnected ping from 192.168.2.23|53288
+[00:18:05]: Unconnected ping from 192.168.2.127|53533
+[00:18:08]: Unconnected ping from 192.168.2.127|53533
+[00:18:17]: Unconnected ping from 192.168.2.31|55839
+[00:18:25]: Unconnected ping from 192.168.2.13|50317
+[00:18:38]: Unconnected ping from 192.168.2.74|53317
+[00:18:46]: Unconnected ping from 192.168.2.13|50317
+[00:18:55]: Unconnected ping from 192.168.2.24|54944
+[00:19:15]: Unconnected ping from 192.168.2.147|60780
+[00:19:17]: Unconnected ping from 192.168.2.19|58099
+[00:20:00]: Getting display mode: Querying display 1 [of 1]
+[00:20:00]: 	\: 1366, 768, 60
+[00:20:03]: Unconnected ping from 192.168.2.13|63387
+[00:20:04]: Unconnected ping from 192.168.2.13|63387
+[00:20:10]: Unconnected ping from 192.168.2.56|52178
+[00:20:40]: Getting display mode: Querying display 1 [of 1]
+[00:20:40]: 	\: 1366, 768, 60
+[00:20:46]: Could not find anim [death] in bank [ghost]
+[00:20:46]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:20:46]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000171
+[00:20:46]: SAVING Morgue	20	
+[00:20:46]: Start world reset countdown... 120 seconds...	
+[00:20:53]: Shutdown: shutting up talker	
+[00:20:53]: unloading prefabs for mod MOD_k02-376333686	
+[00:20:53]: unloading prefabs for mod MOD_k01-367546858	
+[00:20:53]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:20:54]: Collecting garbage...
+[00:20:54]: lua_gc took 0.16 seconds
+[00:20:54]: ~ShardLuaProxy()
+[00:20:54]: ~ItemServerLuaProxy()
+[00:20:54]: ~InventoryLuaProxy()
+[00:20:54]: ~NetworkLuaProxy()
+[00:20:54]: ~SimLuaProxy()
+[00:20:54]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:20:54]: lua_close took 0.35 seconds
+[00:20:55]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:20:55]: [Steam] Auth ticket cancelled
+[00:20:55]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:20:55]: shaders/ui_yuv.ksh - 1
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:55]: CurlRequestManager::ClientThread::Main() complete
+[00:20:55]: HttpClient2 discarded 0 callbacks.
+[00:20:55]: Shutting down

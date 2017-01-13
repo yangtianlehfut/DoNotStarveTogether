@@ -1,0 +1,1323 @@
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 181387
+[00:00:00]: Current time: Mon Jan 02 22:41:30 2017
+
+[00:00:00]: Don't Starve Together: 181387 WIN32_STEAM
+[00:00:00]: Build Date: 733
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Initializing Steam
+[00:00:00]: Steam AppBuildID: 213
+[00:00:00]: Steam BetaName(Branch): [Game_Beta]
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (46084)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:4.86
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application D:\
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: could not load ping_cache
+[00:00:00]: Offline user ID: OU_76561198224511930
+[00:00:00]: THREAD - started 'ConsoleInput' (39720)
+[00:00:00]: SteamID: 76561198224511930
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 1304,741 - 5/6/5 - -1/-1/-1 - 0
+[00:00:00]: CreateEGLContext: 12 configs found
+[00:00:00]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:00]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:00]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:00]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:00]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:00]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:00]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:00]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:00]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:00]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:00]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:00]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:00]: RestoreWindowPosition
+[00:00:00]:    Saved Client Pos (0 x 23)
+[00:00:00]:    Adjusted Window Pos (-8 x -8)
+[00:00:00]: EnsureWindowOnScreen
+[00:00:00]:    All good.
+[00:00:00]: GLInfo
+[00:00:00]: ~~~~~~
+[00:00:00]: GL_VENDOR: Google Inc.
+[00:00:00]: GL_RENDERER: ANGLE (NVIDIA GeForce 610M)
+[00:00:00]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:00]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:00]: THREAD - started 'WindowsInputManager' (34616)
+[00:00:00]: OpenGL extensions (19, 19):
+[00:00:00]: GL_ANGLE_depth_texture
+[00:00:00]: GL_ANGLE_framebuffer_blit
+[00:00:00]: GL_ANGLE_framebuffer_multisample
+[00:00:00]: GL_ANGLE_instanced_arrays
+[00:00:00]: GL_ANGLE_pack_reverse_row_order
+[00:00:00]: GL_ANGLE_texture_compression_dxt3
+[00:00:00]: GL_ANGLE_texture_compression_dxt5
+[00:00:00]: GL_ANGLE_texture_usage
+[00:00:00]: GL_ANGLE_translated_shader_source
+[00:00:00]: GL_EXT_read_format_bgra
+[00:00:00]: GL_EXT_robustness
+[00:00:00]: GL_EXT_texture_compression_dxt1
+[00:00:00]: GL_EXT_texture_format_BGRA8888
+[00:00:00]: GL_EXT_texture_storage
+[00:00:00]: GL_OES_get_program_binary
+[00:00:00]: GL_OES_packed_depth_stencil
+[00:00:00]: GL_OES_rgb8_rgba8
+[00:00:00]: GL_OES_standard_derivatives
+[00:00:00]: GL_OES_texture_npot
+[00:00:00]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:00]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:00]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:00]: GL_MAX_VARYING_VECTORS = 10
+[00:00:00]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:00]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:00]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:00]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:00]: 4 compressed texture formats
+[00:00:00]: texture format 0x83f0
+[00:00:00]: texture format 0x83f1
+[00:00:00]: texture format 0x83f2
+[00:00:00]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: WARNING: icon paths for mod d57-409753995 (d57莉莉姆) are not valid. Got icon_atlas="modicon.xml" and icon="modicon.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:02]: Could not load mod_config_data/modconfiguration_k01-367546858	
+[00:00:02]: Loading mod: k01-367546858 (k01中文MOD) Version:2.0 rc4	
+[00:00:02]: Could not load mod_config_data/modconfiguration_k02-376333686	
+[00:00:02]: Loading mod: k02-376333686 (k02季节时钟) Version:1.6.6	
+[00:00:02]: Mod: k02-376333686 (k02季节时钟)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: k02-376333686 (k02季节时钟)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: k02-376333686 (k02季节时钟)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:02]: Mod: k01-367546858 (k01中文MOD)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: k01-367546858 (k01中文MOD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: k01-367546858 (k01中文MOD)	Loading modmain.lua	
+[00:00:02]: Translator:LoadPOFile - loading file: ../mods/k01-367546858/DST_chs.po	
+[00:00:02]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: PlayerDeaths loaded morgue	2479	
+[00:00:04]: PlayerHistory loaded player_history	425	
+[00:00:04]: bloom_enabled	false	
+[00:00:04]: loaded saveindex	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:06]: Mod: k02-376333686 (k02季节时钟)	Registering prefabs	
+[00:00:06]: Mod: k02-376333686 (k02季节时钟)	  Registering default mod prefab	
+[00:00:06]: Mod: k01-367546858 (k01中文MOD)	Registering prefabs	
+[00:00:06]: Mod: k01-367546858 (k01中文MOD)	  Registering default mod prefab	
+[00:00:06]: 	Load FE	
+[00:00:07]: 	Load FE: done	
+[00:00:07]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:07]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:07]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:07]: SimLuaProxy::QueryServer()
+[00:00:07]: ModIndex: Load sequence finished successfully.	
+[00:00:07]: Reset() returning
+[00:00:11]: [Steam] Auth Session Ticket requested...
+[00:00:12]: SimLuaProxy::QueryServer()
+[00:00:14]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"external", "limit": 20}
+[00:00:14]: Frontend-Unloading mod 'all'.	
+[00:00:16]: ../mods/e02-373480109/Coordinate.tex is 120x104 but compressed textures must have power of 2 dimensions.
+[00:00:19]: Network tick rate: U=15(2), D=0
+[00:00:19]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:19]: About to start a server with the following settings:
+[00:00:19]:   Dedicated: false
+[00:00:19]:   Online: false
+[00:00:19]:   Passworded: true
+[00:00:19]:   ServerPort: 10999
+[00:00:19]:   SteamAuthPort: 8766
+[00:00:19]:   SteamMasterServerPort: 27016
+[00:00:19]:   ClanID: false
+[00:00:19]:   ClanOnly: false
+[00:00:19]:   ClanAdmin: false
+[00:00:19]:   LanOnly: true
+[00:00:19]:   FriendsOnly: false
+[00:00:19]:   EnableAutosaver: true
+[00:00:19]:   PVP: false
+[00:00:19]:   MaxPlayers: 6
+[00:00:19]:   GameMode: survival
+[00:00:19]:   OverridenDNS: 
+[00:00:19]:   PauseWhenEmpty: true
+[00:00:19]:   VoteEnabled: false
+[00:00:19]:   InternetBroadcasting: true
+[00:00:19]:   Intent: cooperative
+[00:00:19]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:19]: Lan Server Started on port: 10999
+[00:00:21]: unloading prefabs for mod MOD_k02-376333686	
+[00:00:21]: unloading prefabs for mod MOD_k01-367546858	
+[00:00:21]: Collecting garbage...
+[00:00:21]: lua_gc took 0.02 seconds
+[00:00:21]: ~ShardLuaProxy()
+[00:00:21]: ~ItemServerLuaProxy()
+[00:00:21]: ~InventoryLuaProxy()
+[00:00:21]: ~NetworkLuaProxy()
+[00:00:21]: ~SimLuaProxy()
+[00:00:21]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:21]: lua_close took 0.05 seconds
+[00:00:21]: ReleaseAll
+[00:00:21]: ReleaseAll Finished
+[00:00:21]: cGame::StartPlaying
+[00:00:21]: LOADING LUA
+[00:00:21]: DoLuaFile scripts/main.lua
+[00:00:21]: DoLuaFile loading buffer scripts/main.lua
+[00:00:21]: running main.lua
+	
+[00:00:22]: loaded modindex	
+[00:00:22]: WARNING: icon paths for mod d57-409753995 (d57莉莉姆) are not valid. Got icon_atlas="modicon.xml" and icon="modicon.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[00:00:22]: ModIndex: Beginning normal load sequence.
+	
+[00:00:22]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:22]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:22]: Could not load mod_config_data/modconfiguration_k01-367546858	
+[00:00:22]: Loading mod: k01-367546858 (k01中文MOD) Version:2.0 rc4	
+[00:00:22]: Could not load mod_config_data/modconfiguration_k02-376333686	
+[00:00:22]: Loading mod: k02-376333686 (k02季节时钟) Version:1.6.6	
+[00:00:22]: Mod: k02-376333686 (k02季节时钟)	Loading modworldgenmain.lua	
+[00:00:22]: Mod: k02-376333686 (k02季节时钟)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:22]: Mod: k02-376333686 (k02季节时钟)	Loading modmain.lua	
+[00:00:22]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:22]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:22]: Mod: k01-367546858 (k01中文MOD)	Loading modworldgenmain.lua	
+[00:00:22]: Mod: k01-367546858 (k01中文MOD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:22]: Mod: k01-367546858 (k01中文MOD)	Loading modmain.lua	
+[00:00:22]: Translator:LoadPOFile - loading file: ../mods/k01-367546858/DST_chs.po	
+[00:00:22]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[00:00:22]: LOADING LUA SUCCESS
+[00:00:22]: PlayerDeaths loaded morgue	2479	
+[00:00:22]: PlayerHistory loaded player_history	425	
+[00:00:22]: bloom_enabled	false	
+[00:00:22]: loaded saveindex	
+[00:00:22]: OnFilesLoaded()	
+[00:00:22]: OnUpdatePurchaseStateComplete	
+[00:00:22]: 	Unload FE	
+[00:00:22]: 	Unload FE done	
+[00:00:23]: Mod: k02-376333686 (k02季节时钟)	Registering prefabs	
+[00:00:23]: Mod: k02-376333686 (k02季节时钟)	  Registering default mod prefab	
+[00:00:23]: Mod: k01-367546858 (k01中文MOD)	Registering prefabs	
+[00:00:23]: Mod: k01-367546858 (k01中文MOD)	  Registering default mod prefab	
+[00:00:23]: 	LOAD BE	
+[00:00:25]: 	LOAD BE: done	
+[00:00:25]: Loading world: session/64685B2C07C03805/0000000126	
+[00:00:25]: Save file is at version 3	
+[00:00:25]: Begin Session: 64685B2C07C03805
+[00:00:25]: saving to server_temp/server_save	
+[00:00:26]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:27]: Loading Nav Grid	
+[00:00:27]: setting 	summerlength	15	
+[00:00:27]: setting 	isnightmaredawn	false	
+[00:00:27]: setting 	elapseddaysinseason	10	
+[00:00:27]: setting 	isfullmoon	false	
+[00:00:27]: setting 	moisture	5020.3759765625	
+[00:00:27]: setting 	cavephase	day	
+[00:00:27]: setting 	isnightmarewild	false	
+[00:00:27]: setting 	moonphase	quarter	
+[00:00:27]: setting 	precipitationrate	0	
+[00:00:27]: setting 	iswet	false	
+[00:00:27]: setting 	winterlength	15	
+[00:00:27]: setting 	temperature	30.925672508599	
+[00:00:27]: setting 	isnightmarewarn	false	
+[00:00:27]: setting 	iswinter	false	
+[00:00:27]: setting 	moistureceil	10367.499023438	
+[00:00:27]: setting 	isday	true	
+[00:00:27]: setting 	israining	false	
+[00:00:27]: setting 	remainingdaysinseason	10	
+[00:00:27]: setting 	precipitation	none	
+[00:00:27]: setting 	wetness	0	
+[00:00:27]: setting 	isnightmarecalm	false	
+[00:00:27]: setting 	timeinphase	0.0040747324625651	
+[00:00:27]: setting 	isdusk	false	
+[00:00:27]: setting 	iscavedusk	false	
+[00:00:27]: setting 	isautumn	true	
+[00:00:27]: setting 	issnowing	false	
+[00:00:27]: setting 	iscaveday	true	
+[00:00:27]: setting 	phase	day	
+[00:00:27]: setting 	snowlevel	0	
+[00:00:27]: setting 	issnowcovered	false	
+[00:00:27]: setting 	autumnlength	20	
+[00:00:27]: setting 	pop	0.4383625080566	
+[00:00:27]: setting 	nightmaretime	0	
+[00:00:27]: setting 	springlength	20	
+[00:00:27]: setting 	isspring	false	
+[00:00:27]: setting 	nightmarephase	none	
+[00:00:27]: setting 	season	autumn	
+[00:00:27]: setting 	time	0.0020373662312825	
+[00:00:27]: setting 	iscavenight	false	
+[00:00:27]: setting 	cycles	80	
+[00:00:27]: setting 	isnight	false	
+[00:00:27]: setting 	nightmaretimeinphase	0	
+[00:00:27]: setting 	issummer	false	
+[00:00:33]: Reconstructing topology	
+[00:00:33]: 	...Sorting points	
+[00:00:33]: 	...Sorting edges	
+[00:00:33]: 	...Connecting nodes	
+[00:00:33]: 	...Validating connections	
+[00:00:33]: 	...Housekeeping	
+[00:00:33]: 	...Done!	
+[00:00:34]: Truncating to snapshot #126...
+[00:00:34]:  - session/64685B2C07C03805/0000000115
+[00:00:34]:  - session/64685B2C07C03805/0000000116
+[00:00:34]:  - session/64685B2C07C03805/0000000117
+[00:00:34]:  - session/64685B2C07C03805/0000000118
+[00:00:34]:  - session/64685B2C07C03805/0000000119
+[00:00:34]:  - session/64685B2C07C03805/0000000120
+[00:00:34]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000120
+[00:00:34]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000119
+[00:00:34]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000118
+[00:00:34]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000117
+[00:00:34]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000116
+[00:00:34]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000115
+[00:00:34]:    12 file(s) removed
+[00:00:34]: Restoring user: session/64685B2C07C03805/OU_76561198224511930_/0000000126	
+[00:00:34]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000127
+[00:00:34]: 1 uploads added to server. From server_temp
+[00:00:34]: Telling Client our new session identifier: 64685B2C07C03805
+[00:00:34]: ModIndex: Load sequence finished successfully.	
+[00:00:34]: Reset() returning
+[00:00:35]: Unconnected ping from 192.168.2.42|52567
+[00:00:35]: Unconnected ping from 192.168.2.15|50906
+[00:00:35]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:00:35]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:00:35]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:00:35]: Attempting to send resume request
+[00:00:35]: Resuming user: session/64685B2C07C03805/OU_76561198224511930_/0000000127
+[00:00:35]: Spawning player at: [Load] (318.40, -0.00, 75.46)	
+[00:00:35]: ReceiveResumeNotification
+[00:00:35]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:00:35]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:00:35]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:00:35]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:00:35]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:00:35]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:00:35]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:00:35]: Loading minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:00:35]: Deserializing cached icon data: 2828
+[00:00:35]: Deserializing tile data (425 x 425)
+[00:01:16]: Unconnected ping from 192.168.2.32|61338
+[00:01:25]: Unconnected ping from 192.168.2.112|51794
+[00:01:45]: Unconnected ping from 192.168.2.65|60528
+[00:01:46]: Unconnected ping from 192.168.2.45|52814
+[00:01:59]: Unconnected ping from 192.168.2.112|51794
+[00:02:49]: Unconnected ping from 192.168.2.163|50023
+[00:02:51]: Unconnected ping from 192.168.2.32|61338
+[00:03:06]: Unconnected ping from 192.168.2.163|50023
+[00:03:08]: Unconnected ping from 192.168.2.163|50023
+[00:03:09]: Unconnected ping from 192.168.2.163|50023
+[00:03:11]: Unconnected ping from 192.168.2.163|50023
+[00:03:12]: Unconnected ping from 192.168.2.163|50023
+[00:03:53]: giving 	114590 - wall_stone_item	
+[00:03:53]: giving 	114598 - wall_stone_item	
+[00:03:53]: giving 	114600 - wall_stone_item	
+[00:03:53]: giving 	114602 - wall_stone_item	
+[00:03:53]: giving 	114604 - wall_stone_item	
+[00:03:53]: giving 	114606 - wall_stone_item	
+[00:03:53]: giving 	114608 - wall_stone_item	
+[00:03:53]: giving 	114610 - wall_stone_item	
+[00:03:53]: giving 	114612 - wall_stone_item	
+[00:03:53]: giving 	114614 - wall_stone_item	
+[00:03:53]: giving 	114616 - wall_stone_item	
+[00:03:53]: giving 	114618 - wall_stone_item	
+[00:03:53]: giving 	114620 - wall_stone_item	
+[00:03:53]: giving 	114622 - wall_stone_item	
+[00:03:53]: giving 	114624 - wall_stone_item	
+[00:03:53]: giving 	114626 - wall_stone_item	
+[00:03:53]: giving 	114628 - wall_stone_item	
+[00:03:53]: giving 	114630 - wall_stone_item	
+[00:03:53]: giving 	114632 - wall_stone_item	
+[00:03:53]: giving 	114634 - wall_stone_item	
+[00:03:55]: Unconnected ping from 192.168.2.3|54122
+[00:04:01]: Unconnected ping from 192.168.2.65|60963
+[00:04:12]: Unconnected ping from 192.168.2.163|57189
+[00:04:30]: Unconnected ping from 192.168.2.65|60963
+[00:04:36]: Unconnected ping from 192.168.2.65|60963
+[00:04:44]: Unconnected ping from 192.168.2.65|60963
+[00:04:49]: Unconnected ping from 192.168.2.65|60963
+[00:04:58]: Unconnected ping from 192.168.2.65|60963
+[00:05:06]: Unconnected ping from 192.168.2.65|60963
+[00:05:13]: Unconnected ping from 192.168.2.65|60963
+[00:05:21]: Unconnected ping from 192.168.2.65|60963
+[00:05:27]: Unconnected ping from 192.168.2.65|60963
+[00:05:29]: giving 	114960 - wall_stone_item	
+[00:05:29]: giving 	114968 - wall_stone_item	
+[00:05:29]: giving 	114970 - wall_stone_item	
+[00:05:29]: giving 	114972 - wall_stone_item	
+[00:05:39]: Unconnected ping from 192.168.2.65|60963
+[00:05:42]: Unconnected ping from 192.168.2.65|60963
+[00:05:45]: Unconnected ping from 192.168.2.65|60963
+[00:05:49]: Unconnected ping from 192.168.2.65|60963
+[00:05:52]: Unconnected ping from 192.168.2.65|60963
+[00:05:58]: Unconnected ping from 192.168.2.65|60963
+[00:05:59]: Unconnected ping from 192.168.2.45|53603
+[00:06:03]: Unconnected ping from 192.168.2.65|60963
+[00:06:05]: Unconnected ping from 192.168.2.65|60963
+[00:06:08]: Unconnected ping from 192.168.2.65|60963
+[00:06:13]: Unconnected ping from 192.168.2.65|60963
+[00:06:15]: Unconnected ping from 192.168.2.65|60963
+[00:06:19]: Unconnected ping from 192.168.2.65|60963
+[00:06:19]: giving 	115118 - wall_stone_item	
+[00:06:19]: giving 	115126 - wall_stone_item	
+[00:06:19]: giving 	115128 - wall_stone_item	
+[00:06:19]: giving 	115130 - wall_stone_item	
+[00:06:19]: giving 	115132 - wall_stone_item	
+[00:06:19]: giving 	115134 - wall_stone_item	
+[00:06:19]: giving 	115136 - wall_stone_item	
+[00:06:19]: giving 	115138 - wall_stone_item	
+[00:06:19]: giving 	115140 - wall_stone_item	
+[00:06:19]: giving 	115142 - wall_stone_item	
+[00:06:22]: Unconnected ping from 192.168.2.65|60963
+[00:06:26]: Unconnected ping from 192.168.2.65|60963
+[00:06:31]: Unconnected ping from 192.168.2.65|60963
+[00:06:35]: Unconnected ping from 192.168.2.65|60963
+[00:06:39]: Unconnected ping from 192.168.2.65|60963
+[00:06:41]: Unconnected ping from 192.168.2.65|60963
+[00:06:45]: Unconnected ping from 192.168.2.65|60963
+[00:06:48]: Unconnected ping from 192.168.2.65|60963
+[00:06:51]: Unconnected ping from 192.168.2.65|60963
+[00:06:55]: Unconnected ping from 192.168.2.65|60963
+[00:07:01]: Unconnected ping from 192.168.2.65|60963
+[00:07:06]: Unconnected ping from 192.168.2.65|60963
+[00:07:09]: Unconnected ping from 192.168.2.65|60963
+[00:07:12]: Unconnected ping from 192.168.2.65|60963
+[00:07:17]: Unconnected ping from 192.168.2.65|60963
+[00:07:20]: Unconnected ping from 192.168.2.65|60963
+[00:07:22]: Unconnected ping from 192.168.2.65|60963
+[00:07:24]: Unconnected ping from 192.168.2.65|60963
+[00:07:28]: Unconnected ping from 192.168.2.65|60963
+[00:07:30]: Unconnected ping from 192.168.2.16|64861
+[00:07:31]: Unconnected ping from 192.168.2.65|60963
+[00:07:33]: Unconnected ping from 192.168.2.65|60963
+[00:07:34]: PREFAB SWAP TRIGGER:	new	
+[00:07:37]: Unconnected ping from 192.168.2.65|60963
+[00:07:39]: Unconnected ping from 192.168.2.65|60963
+[00:07:42]: Unconnected ping from 192.168.2.65|60963
+[00:07:43]: Unconnected ping from 192.168.2.3|50615
+[00:08:02]: Unconnected ping from 192.168.2.112|51660
+[00:08:08]: Unconnected ping from 192.168.2.65|60963
+[00:08:10]: Unconnected ping from 192.168.2.65|60963
+[00:08:12]: Unconnected ping from 192.168.2.65|60963
+[00:08:18]: Unconnected ping from 192.168.2.112|51660
+[00:08:18]: Unconnected ping from 192.168.2.65|60963
+[00:08:21]: Unconnected ping from 192.168.2.65|60963
+[00:08:23]: Unconnected ping from 192.168.2.65|60963
+[00:08:26]: Unconnected ping from 192.168.2.65|60963
+[00:08:30]: Unconnected ping from 192.168.2.65|60963
+[00:08:32]: Unconnected ping from 192.168.2.65|60963
+[00:08:35]: Unconnected ping from 192.168.2.65|60963
+[00:08:36]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:08:36]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000127
+[00:08:36]: Serializing world: session/64685B2C07C03805/0000000127
+[00:08:38]: Unconnected ping from 192.168.2.65|60963
+[00:08:39]: Unconnected ping from 192.168.2.112|51660
+[00:08:41]: Unconnected ping from 192.168.2.65|60963
+[00:08:45]: Unconnected ping from 192.168.2.65|60963
+[00:08:47]: Unconnected ping from 192.168.2.65|60963
+[00:08:48]: Unconnected ping from 192.168.2.112|51660
+[00:08:51]: Unconnected ping from 192.168.2.65|60963
+[00:08:51]: Unconnected ping from 192.168.2.39|65357
+[00:08:54]: Unconnected ping from 192.168.2.65|60963
+[00:08:57]: Unconnected ping from 192.168.2.65|60963
+[00:08:59]: Unconnected ping from 192.168.2.65|60963
+[00:09:02]: Unconnected ping from 192.168.2.65|60963
+[00:09:04]: Unconnected ping from 192.168.2.65|60963
+[00:09:09]: Unconnected ping from 192.168.2.112|51660
+[00:09:14]: Unconnected ping from 192.168.2.39|65357
+[00:10:11]: Unconnected ping from 192.168.2.3|65476
+[00:11:23]: Unconnected ping from 192.168.2.56|54426
+[00:11:45]: Unconnected ping from 192.168.2.17|60775
+[00:11:58]: Unconnected ping from 192.168.2.17|60775
+[00:12:39]: Unconnected ping from 192.168.2.65|60963
+[00:12:47]: Unconnected ping from 192.168.2.65|60963
+[00:12:54]: Unconnected ping from 192.168.2.132|1536
+[00:13:13]: Unconnected ping from 192.168.2.56|55818
+[00:13:15]: Unconnected ping from 192.168.2.65|60963
+[00:13:28]: Unconnected ping from 192.168.2.65|60963
+[00:13:57]: Unconnected ping from 192.168.2.65|60963
+[00:14:00]: Unconnected ping from 192.168.2.65|60963
+[00:14:03]: Unconnected ping from 192.168.2.65|60963
+[00:14:06]: Unconnected ping from 192.168.2.65|60963
+[00:14:08]: Unconnected ping from 192.168.2.65|60963
+[00:14:09]: Unconnected ping from 192.168.2.65|60963
+[00:14:32]: Unconnected ping from 192.168.2.65|60963
+[00:14:40]: Unconnected ping from 192.168.2.65|60963
+[00:15:16]: Unconnected ping from 192.168.2.65|60963
+[00:15:32]: Unconnected ping from 192.168.2.39|64734
+[00:15:35]: PREFAB SWAP TRIGGER:	quarter	
+[00:15:55]: Unconnected ping from 192.168.2.2|50941
+[00:16:05]: Unconnected ping from 192.168.2.15|55765
+[00:16:06]: Unconnected ping from 192.168.2.65|60963
+[00:16:18]: Unconnected ping from 192.168.2.65|60963
+[00:16:21]: Unconnected ping from 192.168.2.65|60963
+[00:16:28]: Unconnected ping from 192.168.2.65|60963
+[00:16:34]: Unconnected ping from 192.168.2.65|60963
+[00:16:36]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:16:36]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000128
+[00:16:37]: Serializing world: session/64685B2C07C03805/0000000128
+[00:16:37]: Unconnected ping from 192.168.2.45|57082
+[00:16:39]: Unconnected ping from 192.168.2.65|60963
+[00:16:42]: Unconnected ping from 192.168.2.65|60963
+[00:17:05]: giving 	116718 - rabbithouse	
+[00:17:05]: Warning: Can't give item because it's not an inventory item.	
+[00:17:13]: giving 	116736 - rabbithouse	
+[00:17:13]: Warning: Can't give item because it's not an inventory item.	
+[00:17:21]: giving 	116752 - rabbithouse	
+[00:17:21]: Warning: Can't give item because it's not an inventory item.	
+[00:17:31]: giving 	116768 - rabbithouse	
+[00:17:31]: Warning: Can't give item because it's not an inventory item.	
+[00:17:38]: Unconnected ping from 192.168.2.8|62610
+[00:17:44]: giving 	116787 - rabbithouse	
+[00:17:44]: Warning: Can't give item because it's not an inventory item.	
+[00:17:55]: giving 	116804 - rabbithouse	
+[00:17:55]: Warning: Can't give item because it's not an inventory item.	
+[00:17:55]: Unconnected ping from 192.168.2.65|60963
+[00:18:02]: giving 	116818 - rabbithouse	
+[00:18:02]: Warning: Can't give item because it's not an inventory item.	
+[00:18:03]: Unconnected ping from 192.168.2.65|60963
+[00:18:06]: Unconnected ping from 192.168.2.65|60963
+[00:18:09]: giving 	116831 - rabbithouse	
+[00:18:09]: Warning: Can't give item because it's not an inventory item.	
+[00:18:13]: Unconnected ping from 192.168.2.65|60963
+[00:18:18]: Unconnected ping from 192.168.2.65|60963
+[00:18:45]: Unconnected ping from 192.168.2.65|60963
+[00:18:53]: Unconnected ping from 192.168.2.145|54977
+[00:18:54]: Unconnected ping from 192.168.2.41|50291
+[00:18:56]: Unconnected ping from 192.168.2.41|50291
+[00:18:57]: Unconnected ping from 192.168.2.145|54977
+[00:18:57]: Unconnected ping from 192.168.2.41|50291
+[00:18:58]: Unconnected ping from 192.168.2.65|60963
+[00:18:59]: Unconnected ping from 192.168.2.145|54977
+[00:19:00]: Unconnected ping from 192.168.2.41|50291
+[00:19:01]: Unconnected ping from 192.168.2.41|50291
+[00:19:02]: Unconnected ping from 192.168.2.65|60963
+[00:19:02]: Unconnected ping from 192.168.2.41|50291
+[00:19:03]: Unconnected ping from 192.168.2.41|50291
+[00:19:13]: Unconnected ping from 192.168.2.65|60963
+[00:19:24]: Unconnected ping from 192.168.2.145|54977
+[00:19:27]: Unconnected ping from 192.168.2.145|54977
+[00:19:31]: Unconnected ping from 192.168.2.2|53418
+[00:19:51]: Unconnected ping from 192.168.2.39|64344
+[00:20:13]: Unconnected ping from 192.168.2.45|54088
+[00:20:16]: Unconnected ping from 192.168.2.65|60963
+[00:20:19]: Unconnected ping from 192.168.2.65|60963
+[00:20:27]: Unconnected ping from 192.168.2.145|54977
+[00:20:27]: Unconnected ping from 192.168.2.59|52661
+[00:20:29]: Unconnected ping from 192.168.2.145|54977
+[00:20:33]: Unconnected ping from 192.168.2.65|60963
+[00:21:04]: Unconnected ping from 192.168.2.145|54977
+[00:21:06]: Unconnected ping from 192.168.2.65|60963
+[00:21:12]: Unconnected ping from 192.168.2.65|60963
+[00:21:40]: Unconnected ping from 192.168.2.65|60963
+[00:21:42]: Unconnected ping from 192.168.2.65|60963
+[00:21:47]: Unconnected ping from 192.168.2.39|56056
+[00:21:54]: Unconnected ping from 192.168.2.65|60963
+[00:22:02]: Unconnected ping from 192.168.2.65|60963
+[00:22:13]: Unconnected ping from 192.168.2.65|60963
+[00:22:18]: Unconnected ping from 192.168.2.65|60963
+[00:22:33]: Unconnected ping from 192.168.2.2|54036
+[00:22:44]: Unconnected ping from 192.168.2.65|60963
+[00:22:52]: Unconnected ping from 192.168.2.81|56168
+[00:22:57]: giving 	117303 - spidereggsack	
+[00:22:57]: giving 	117311 - spidereggsack	
+[00:22:57]: giving 	117313 - spidereggsack	
+[00:22:57]: giving 	117315 - spidereggsack	
+[00:22:57]: giving 	117317 - spidereggsack	
+[00:22:57]: giving 	117319 - spidereggsack	
+[00:22:57]: giving 	117321 - spidereggsack	
+[00:22:57]: giving 	117323 - spidereggsack	
+[00:23:29]: Unconnected ping from 192.168.2.145|53590
+[00:23:31]: Unconnected ping from 192.168.2.65|60963
+[00:23:35]: Unconnected ping from 192.168.2.145|53590
+[00:23:41]: Unconnected ping from 192.168.2.65|60963
+[00:23:45]: Unconnected ping from 192.168.2.65|60963
+[00:24:02]: Unconnected ping from 192.168.2.41|61716
+[00:24:26]: Unconnected ping from 192.168.2.2|51747
+[00:24:30]: Unconnected ping from 192.168.2.65|60963
+[00:24:37]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:24:37]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000129
+[00:24:37]: Serializing world: session/64685B2C07C03805/0000000129
+[00:24:43]: Unconnected ping from 192.168.2.39|55662
+[00:24:59]: Unconnected ping from 192.168.2.41|50291
+[00:25:21]: Unconnected ping from 192.168.2.65|60963
+[00:25:23]: Unconnected ping from 192.168.2.65|60963
+[00:25:28]: Unconnected ping from 192.168.2.65|60963
+[00:25:33]: Unconnected ping from 192.168.2.145|53074
+[00:25:40]: Unconnected ping from 192.168.2.65|60963
+[00:25:42]: Unconnected ping from 192.168.2.65|60963
+[00:25:58]: giving 	118102 - krampus_sack	
+[00:25:58]: Unconnected ping from 192.168.2.65|60963
+[00:27:29]: Unconnected ping from 192.168.2.8|57716
+[00:28:16]: Unconnected ping from 192.168.2.112|57478
+[00:28:19]: Unconnected ping from 192.168.2.65|60963
+[00:28:27]: Unconnected ping from 192.168.2.112|57478
+[00:29:27]: Unconnected ping from 192.168.2.39|61374
+[00:30:04]: Unconnected ping from 192.168.2.39|61374
+[00:30:10]: Unconnected ping from 192.168.2.39|61374
+[00:30:51]: giving 	119095 - rabbithouse	
+[00:30:51]: Warning: Can't give item because it's not an inventory item.	
+[00:31:03]: giving 	119123 - rabbithouse	
+[00:31:03]: Warning: Can't give item because it's not an inventory item.	
+[00:31:07]: Unconnected ping from 192.168.2.112|54035
+[00:31:13]: giving 	119156 - rabbithouse	
+[00:31:13]: Warning: Can't give item because it's not an inventory item.	
+[00:31:18]: Unconnected ping from 192.168.2.77|50883
+[00:31:20]: giving 	119174 - rabbithouse	
+[00:31:20]: Warning: Can't give item because it's not an inventory item.	
+[00:31:27]: giving 	119203 - rabbithouse	
+[00:31:27]: Warning: Can't give item because it's not an inventory item.	
+[00:31:37]: giving 	119240 - rabbithouse	
+[00:31:37]: Warning: Can't give item because it's not an inventory item.	
+[00:31:44]: giving 	119272 - rabbithouse	
+[00:31:44]: Warning: Can't give item because it's not an inventory item.	
+[00:31:50]: giving 	119299 - rabbithouse	
+[00:31:50]: Warning: Can't give item because it's not an inventory item.	
+[00:31:57]: giving 	119314 - rabbithouse	
+[00:31:57]: Warning: Can't give item because it's not an inventory item.	
+[00:32:02]: giving 	119349 - rabbithouse	
+[00:32:02]: Warning: Can't give item because it's not an inventory item.	
+[00:32:14]: Unconnected ping from 192.168.2.112|54035
+[00:32:23]: giving 	119406 - rabbithouse	
+[00:32:23]: Warning: Can't give item because it's not an inventory item.	
+[00:32:25]: Unconnected ping from 192.168.2.45|61272
+[00:32:27]: giving 	119418 - rabbithouse	
+[00:32:27]: Warning: Can't give item because it's not an inventory item.	
+[00:32:29]: Unconnected ping from 192.168.2.59|59820
+[00:32:37]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:32:37]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000130
+[00:32:38]: Serializing world: session/64685B2C07C03805/0000000130
+[00:32:40]: giving 	119495 - rabbithouse	
+[00:32:40]: Warning: Can't give item because it's not an inventory item.	
+[00:32:49]: giving 	119526 - rabbithouse	
+[00:32:49]: Warning: Can't give item because it's not an inventory item.	
+[00:32:53]: Unconnected ping from 192.168.2.39|63417
+[00:32:56]: Unconnected ping from 192.168.2.65|53929
+[00:32:57]: giving 	119542 - rabbithouse	
+[00:32:57]: Warning: Can't give item because it's not an inventory item.	
+[00:33:06]: giving 	119558 - rabbithouse	
+[00:33:06]: Warning: Can't give item because it's not an inventory item.	
+[00:33:11]: giving 	119571 - rabbithouse	
+[00:33:11]: Warning: Can't give item because it's not an inventory item.	
+[00:34:33]: Unconnected ping from 192.168.2.15|64732
+[00:35:12]: Unconnected ping from 192.168.2.31|56254
+[00:35:32]: Unconnected ping from 192.168.2.31|56254
+[00:36:09]: Unconnected ping from 192.168.2.25|62785
+[00:37:47]: Unconnected ping from 192.168.2.2|63053
+[00:39:36]: PREFAB SWAP TRIGGER:	half	
+[00:40:26]: giving 	121402 - lureplantbulb	
+[00:40:26]: giving 	121410 - lureplantbulb	
+[00:40:38]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:40:38]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000131
+[00:40:38]: Serializing world: session/64685B2C07C03805/0000000131
+[00:40:58]: Unconnected ping from 192.168.2.39|57631
+[00:41:13]: Unconnected ping from 192.168.2.60|57218
+[00:41:16]: Unconnected ping from 192.168.2.30|55277
+[00:42:36]: giving 	121751 - rabbithouse	
+[00:42:36]: Warning: Can't give item because it's not an inventory item.	
+[00:42:40]: giving 	121759 - rabbithouse	
+[00:42:40]: Warning: Can't give item because it's not an inventory item.	
+[00:42:44]: giving 	121769 - rabbithouse	
+[00:42:44]: Warning: Can't give item because it's not an inventory item.	
+[00:42:51]: giving 	121780 - rabbithouse	
+[00:42:51]: Warning: Can't give item because it's not an inventory item.	
+[00:42:54]: giving 	121792 - rabbithouse	
+[00:42:54]: Warning: Can't give item because it's not an inventory item.	
+[00:42:58]: giving 	121800 - rabbithouse	
+[00:42:58]: Warning: Can't give item because it's not an inventory item.	
+[00:43:03]: giving 	121809 - rabbithouse	
+[00:43:03]: Warning: Can't give item because it's not an inventory item.	
+[00:43:06]: giving 	121819 - rabbithouse	
+[00:43:06]: Warning: Can't give item because it's not an inventory item.	
+[00:43:10]: Unconnected ping from 192.168.2.13|62138
+[00:43:11]: giving 	121829 - rabbithouse	
+[00:43:11]: Warning: Can't give item because it's not an inventory item.	
+[00:43:12]: Unconnected ping from 192.168.2.13|62138
+[00:43:17]: giving 	121840 - rabbithouse	
+[00:43:17]: Warning: Can't give item because it's not an inventory item.	
+[00:43:22]: giving 	121852 - rabbithouse	
+[00:43:22]: Warning: Can't give item because it's not an inventory item.	
+[00:43:49]: Unconnected ping from 192.168.2.6|50829
+[00:46:19]: Unconnected ping from 192.168.2.5|59852
+[00:46:21]: Unconnected ping from 192.168.2.5|59852
+[00:47:42]: Unconnected ping from 192.168.2.5|57787
+[00:47:58]: Unconnected ping from 192.168.2.60|60672
+[00:48:02]: Unconnected ping from 192.168.2.10|49643
+[00:48:38]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:48:38]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000132
+[00:48:38]: Serializing world: session/64685B2C07C03805/0000000132
+[00:49:32]: Unconnected ping from 192.168.2.29|53504
+[00:52:49]: Unconnected ping from 192.168.2.86|57684
+[00:55:48]: Unconnected ping from 192.168.2.19|60090
+[00:56:08]: Unconnected ping from 192.168.2.19|60090
+[00:56:39]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:56:39]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000133
+[00:56:39]: Serializing world: session/64685B2C07C03805/0000000133
+[00:56:43]: Unconnected ping from 192.168.2.10|64649
+[00:57:06]: Unconnected ping from 192.168.2.14|59456
+[00:57:45]: Unconnected ping from 192.168.2.13|63537
+[00:57:58]: Unconnected ping from 192.168.2.1|56756
+[00:58:05]: Unconnected ping from 192.168.2.13|63537
+[00:58:43]: Unconnected ping from 192.168.2.39|62212
+[01:00:21]: giving 	126487 - beefalowool	
+[01:00:54]: Unconnected ping from 192.168.2.32|58561
+[01:00:56]: giving 	126535 - beefalo	
+[01:00:56]: Warning: Can't give item because it's not an inventory item.	
+[01:01:04]: giving 	126546 - beefalo	
+[01:01:04]: Warning: Can't give item because it's not an inventory item.	
+[01:01:04]: giving 	126547 - beefalo	
+[01:01:04]: Warning: Can't give item because it's not an inventory item.	
+[01:01:04]: giving 	126548 - beefalo	
+[01:01:04]: Warning: Can't give item because it's not an inventory item.	
+[01:01:04]: giving 	126549 - beefalo	
+[01:01:04]: Warning: Can't give item because it's not an inventory item.	
+[01:01:04]: giving 	126550 - beefalo	
+[01:01:04]: Warning: Can't give item because it's not an inventory item.	
+[01:01:04]: giving 	126551 - beefalo	
+[01:01:04]: Warning: Can't give item because it's not an inventory item.	
+[01:01:04]: giving 	126552 - beefalo	
+[01:01:04]: Warning: Can't give item because it's not an inventory item.	
+[01:01:04]: giving 	126553 - beefalo	
+[01:01:04]: Warning: Can't give item because it's not an inventory item.	
+[01:01:04]: giving 	126554 - beefalo	
+[01:01:04]: Warning: Can't give item because it's not an inventory item.	
+[01:01:04]: giving 	126555 - beefalo	
+[01:01:04]: Warning: Can't give item because it's not an inventory item.	
+[01:01:16]: giving 	126577 - beefalo	
+[01:01:16]: Warning: Can't give item because it's not an inventory item.	
+[01:01:16]: giving 	126578 - beefalo	
+[01:01:16]: Warning: Can't give item because it's not an inventory item.	
+[01:01:16]: giving 	126579 - beefalo	
+[01:01:16]: Warning: Can't give item because it's not an inventory item.	
+[01:01:16]: giving 	126580 - beefalo	
+[01:01:16]: Warning: Can't give item because it's not an inventory item.	
+[01:01:16]: giving 	126581 - beefalo	
+[01:01:16]: Warning: Can't give item because it's not an inventory item.	
+[01:01:16]: giving 	126582 - beefalo	
+[01:01:16]: Warning: Can't give item because it's not an inventory item.	
+[01:01:16]: giving 	126583 - beefalo	
+[01:01:16]: Warning: Can't give item because it's not an inventory item.	
+[01:01:16]: giving 	126584 - beefalo	
+[01:01:16]: Warning: Can't give item because it's not an inventory item.	
+[01:01:16]: giving 	126585 - beefalo	
+[01:01:16]: Warning: Can't give item because it's not an inventory item.	
+[01:01:16]: giving 	126586 - beefalo	
+[01:01:16]: Warning: Can't give item because it's not an inventory item.	
+[01:01:28]: Unconnected ping from 192.168.2.5|62719
+[01:01:29]: giving 	126598 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126599 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126600 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126601 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126602 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126603 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126604 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126605 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126606 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126607 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126608 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126609 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126610 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126611 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126612 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126613 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126614 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126615 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126616 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126617 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126618 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126619 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126620 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126621 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126622 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126623 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126624 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126625 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126626 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126627 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126628 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126629 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126630 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126631 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126632 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126633 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126634 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126635 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126636 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126637 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126638 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126639 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126640 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126641 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126642 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126643 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126644 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126645 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126646 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126647 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126648 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126649 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126650 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126651 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126652 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126653 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126654 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126655 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126656 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126657 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126658 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126659 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126660 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126661 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126662 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126663 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126664 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126665 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126666 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126667 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126668 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126669 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126670 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126671 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126672 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126673 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126674 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126675 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126676 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126677 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126678 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126679 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126680 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126681 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126682 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126683 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126684 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126685 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126686 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126687 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126688 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126689 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126690 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126691 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126692 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126693 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126694 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126695 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126696 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:29]: giving 	126697 - beefalo	
+[01:01:29]: Warning: Can't give item because it's not an inventory item.	
+[01:01:31]: Unconnected ping from 192.168.2.5|62719
+[01:01:33]: Unconnected ping from 192.168.2.30|55879
+[01:01:33]: Unconnected ping from 192.168.2.5|62719
+[01:01:58]: Unconnected ping from 192.168.2.133|59689
+[01:02:01]: Unconnected ping from 192.168.2.133|59689
+[01:02:19]: giving 	126748 - deerclops	
+[01:02:19]: Warning: Can't give item because it's not an inventory item.	
+[01:03:08]: PREFAB SWAP TRIGGER:	threequarter	
+[01:03:15]: Unconnected ping from 192.168.2.5|62719
+[01:03:21]: Unconnected ping from 192.168.2.99|61389
+[01:04:03]: Unconnected ping from 192.168.2.14|59793
+[01:04:06]: Unconnected ping from 192.168.2.5|62719
+[01:04:08]: Unconnected ping from 192.168.2.5|62719
+[01:04:30]: Unconnected ping from 192.168.2.13|60588
+[01:04:33]: Unconnected ping from 192.168.2.16|54729
+[01:04:40]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[01:04:40]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000134
+[01:04:40]: Serializing world: session/64685B2C07C03805/0000000134
+[01:05:16]: Unconnected ping from 192.168.2.31|59810
+[01:05:50]: Unconnected ping from 192.168.2.153|58660
+[01:06:18]: Unconnected ping from 192.168.2.153|58660
+[01:06:20]: Unconnected ping from 192.168.2.153|58660
+[01:08:47]: giving 	128270 - wall_stone_item	
+[01:08:47]: giving 	128278 - wall_stone_item	
+[01:08:47]: giving 	128280 - wall_stone_item	
+[01:08:47]: giving 	128282 - wall_stone_item	
+[01:08:47]: giving 	128284 - wall_stone_item	
+[01:08:47]: giving 	128286 - wall_stone_item	
+[01:08:47]: giving 	128288 - wall_stone_item	
+[01:08:47]: giving 	128290 - wall_stone_item	
+[01:08:47]: giving 	128292 - wall_stone_item	
+[01:08:47]: giving 	128294 - wall_stone_item	
+[01:08:47]: giving 	128296 - wall_stone_item	
+[01:08:47]: giving 	128298 - wall_stone_item	
+[01:08:47]: giving 	128300 - wall_stone_item	
+[01:08:47]: giving 	128302 - wall_stone_item	
+[01:08:47]: giving 	128304 - wall_stone_item	
+[01:08:47]: giving 	128306 - wall_stone_item	
+[01:08:47]: giving 	128308 - wall_stone_item	
+[01:08:47]: giving 	128310 - wall_stone_item	
+[01:08:47]: giving 	128312 - wall_stone_item	
+[01:08:47]: giving 	128314 - wall_stone_item	
+[01:09:25]: Unconnected ping from 192.168.2.44|55373
+[01:10:11]: giving 	128433 - horn	
+[01:10:56]: Unconnected ping from 192.168.2.44|55373
+[01:11:27]: Unconnected ping from 192.168.2.44|55373
+[01:12:02]: Unconnected ping from 192.168.2.44|55373
+[01:12:40]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[01:12:40]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000135
+[01:12:40]: Serializing world: session/64685B2C07C03805/0000000135
+[01:13:08]: Unconnected ping from 192.168.2.6|64503
+[01:13:34]: Unconnected ping from 192.168.2.80|61604
+[01:14:20]: Unconnected ping from 192.168.2.24|57969
+[01:14:25]: Unconnected ping from 192.168.2.24|57969
+[01:15:22]: Unconnected ping from 192.168.2.153|52285
+[01:15:25]: Unconnected ping from 192.168.2.153|52285
+[01:17:44]: Unconnected ping from 192.168.2.6|57414
+[01:17:46]: Unconnected ping from 192.168.2.6|57414
+[01:19:22]: Unconnected ping from 192.168.2.153|62420
+[01:19:37]: Unconnected ping from 192.168.2.153|62422
+[01:19:53]: Unconnected ping from 192.168.2.6|61386
+[01:19:57]: Unconnected ping from 192.168.2.6|61386
+[01:20:01]: Unconnected ping from 192.168.2.6|61386
+[01:20:02]: Unconnected ping from 192.168.2.6|61386
+[01:20:03]: Unconnected ping from 192.168.2.6|61386
+[01:20:07]: Unconnected ping from 192.168.2.2|55627
+[01:20:09]: Unconnected ping from 192.168.2.6|61386
+[01:20:12]: Unconnected ping from 192.168.2.6|61386
+[01:20:20]: Unconnected ping from 192.168.2.2|55627
+[01:20:33]: Unconnected ping from 192.168.2.11|57863
+[01:20:34]: Unconnected ping from 192.168.2.11|57863
+[01:20:39]: PREFAB SWAP TRIGGER:	winter	
+[01:20:41]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[01:20:41]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000136
+[01:20:41]: Serializing world: session/64685B2C07C03805/0000000136
+[01:22:10]: Unconnected ping from 192.168.2.11|57863
+[01:22:12]: Unconnected ping from 192.168.2.11|57863
+[01:22:13]: Unconnected ping from 192.168.2.11|57863
+[01:22:14]: Unconnected ping from 192.168.2.11|57863
+[01:22:14]: giving 	130003 - winterhat	
+[01:22:19]: Unconnected ping from 192.168.2.11|57863
+[01:22:19]: Unconnected ping from 192.168.2.11|57863
+[01:22:28]: Unconnected ping from 192.168.2.153|54057
+[01:23:06]: Unconnected ping from 192.168.2.153|54057
+[01:23:08]: Unconnected ping from 192.168.2.153|54057
+[01:23:09]: Unconnected ping from 192.168.2.153|54057
+[01:24:12]: Unconnected ping from 192.168.2.6|52164
+[01:24:14]: Unconnected ping from 192.168.2.6|52164
+[01:24:17]: Unconnected ping from 192.168.2.6|52164
+[01:24:19]: Unconnected ping from 192.168.2.6|52164
+[01:24:21]: Unconnected ping from 192.168.2.6|52164
+[01:25:11]: Unconnected ping from 192.168.2.153|52266
+[01:25:14]: Unconnected ping from 192.168.2.153|52266
+[01:25:42]: giving 	133837 - trunkvest_winter	
+[01:26:40]: PREFAB SWAP TRIGGER:	full	
+[01:26:57]: Unconnected ping from 192.168.2.11|64325
+[01:27:40]: [string "TheInput:GetWorldEntityUnderMouse():Remove(..."]:1: attempt to index a nil value
+[01:27:41]: [string "TheInput:GetWorldEntityUnderMouse():Remove(..."]:1: attempt to index a nil value
+[01:27:43]: [string "TheInput:GetWorldEntityUnderMouse():Remove(..."]:1: attempt to index a nil value
+[01:27:44]: [string "TheInput:GetWorldEntityUnderMouse():Remove(..."]:1: attempt to index a nil value
+[01:27:46]: [string "TheInput:GetWorldEntityUnderMouse():Remove(..."]:1: attempt to index a nil value
+[01:27:50]: [string "TheInput:GetWorldEntityUnderMouse():Remove(..."]:1: attempt to index a nil value
+[01:27:57]: [string "TheInput:GetWorldEntityUnderMouse():Remove(..."]:1: attempt to index a nil value
+[01:27:59]: [string "TheInput:GetWorldEntityUnderMouse():Remove(..."]:1: attempt to index a nil value
+[01:28:01]: [string "TheInput:GetWorldEntityUnderMouse():Remove(..."]:1: attempt to index a nil value
+[01:28:19]: [string "TheInput:GetWorldEntityUnderMouse():Remove(..."]:1: attempt to index a nil value
+[01:28:41]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[01:28:41]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000137
+[01:28:41]: Serializing world: session/64685B2C07C03805/0000000137
+[01:29:18]: DoRestart:	true	
+[01:29:19]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[01:29:19]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000138
+[01:29:19]: Serializing world: session/64685B2C07C03805/0000000138
+[01:29:19]: Truncating to snapshot #138...
+[01:29:19]:  - session/64685B2C07C03805/0000000121
+[01:29:19]:  - session/64685B2C07C03805/0000000122
+[01:29:19]:  - session/64685B2C07C03805/0000000123
+[01:29:19]:  - session/64685B2C07C03805/0000000124
+[01:29:19]:  - session/64685B2C07C03805/0000000125
+[01:29:19]:  - session/64685B2C07C03805/0000000126
+[01:29:19]:  - session/64685B2C07C03805/0000000127
+[01:29:19]:  - session/64685B2C07C03805/0000000128
+[01:29:19]:  - session/64685B2C07C03805/0000000129
+[01:29:19]:  - session/64685B2C07C03805/0000000130
+[01:29:19]:  - session/64685B2C07C03805/0000000131
+[01:29:19]:  - session/64685B2C07C03805/0000000132
+[01:29:19]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000132
+[01:29:19]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000131
+[01:29:19]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000130
+[01:29:19]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000129
+[01:29:19]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000128
+[01:29:19]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000127
+[01:29:19]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000126
+[01:29:19]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000125
+[01:29:19]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000124
+[01:29:19]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000123
+[01:29:19]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000122
+[01:29:19]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000121
+[01:29:19]:    24 file(s) removed
+[01:29:19]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[01:29:19]: unloading prefabs for mod MOD_k02-376333686	
+[01:29:19]: unloading prefabs for mod MOD_k01-367546858	
+[01:29:20]: Collecting garbage...
+[01:29:20]: lua_gc took 0.21 seconds
+[01:29:20]: ~ShardLuaProxy()
+[01:29:20]: ~ItemServerLuaProxy()
+[01:29:20]: ~InventoryLuaProxy()
+[01:29:20]: ~NetworkLuaProxy()
+[01:29:20]: ~SimLuaProxy()
+[01:29:20]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[01:29:20]: lua_close took 0.31 seconds
+[01:29:20]: ReleaseAll
+[01:29:20]: ReleaseAll Finished
+[01:29:20]: cGame::StartPlaying
+[01:29:20]: LOADING LUA
+[01:29:20]: DoLuaFile scripts/main.lua
+[01:29:20]: DoLuaFile loading buffer scripts/main.lua
+[01:29:20]: running main.lua
+	
+[01:29:20]: loaded modindex	
+[01:29:20]: WARNING: icon paths for mod d57-409753995 (d57莉莉姆) are not valid. Got icon_atlas="modicon.xml" and icon="modicon.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[01:29:20]: ModIndex: Beginning normal load sequence.
+	
+[01:29:20]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[01:29:20]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[01:29:20]: Could not load mod_config_data/modconfiguration_k01-367546858	
+[01:29:20]: Loading mod: k01-367546858 (k01中文MOD) Version:2.0 rc4	
+[01:29:20]: Could not load mod_config_data/modconfiguration_k02-376333686	
+[01:29:20]: Loading mod: k02-376333686 (k02季节时钟) Version:1.6.6	
+[01:29:20]: Mod: k02-376333686 (k02季节时钟)	Loading modworldgenmain.lua	
+[01:29:20]: Mod: k02-376333686 (k02季节时钟)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:29:20]: Mod: k02-376333686 (k02季节时钟)	Loading modmain.lua	
+[01:29:20]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[01:29:20]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[01:29:21]: Mod: k01-367546858 (k01中文MOD)	Loading modworldgenmain.lua	
+[01:29:21]: Mod: k01-367546858 (k01中文MOD)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:29:21]: Mod: k01-367546858 (k01中文MOD)	Loading modmain.lua	
+[01:29:21]: Translator:LoadPOFile - loading file: ../mods/k01-367546858/DST_chs.po	
+[01:29:21]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[01:29:21]: LOADING LUA SUCCESS
+[01:29:21]: PlayerDeaths loaded morgue	2479	
+[01:29:21]: PlayerHistory loaded player_history	425	
+[01:29:21]: bloom_enabled	false	
+[01:29:21]: loaded saveindex	
+[01:29:21]: OnFilesLoaded()	
+[01:29:21]: OnUpdatePurchaseStateComplete	
+[01:29:21]: 	Unload BE	
+[01:29:21]: 	Unload BE done	
+[01:29:21]: Could not unload undefined prefab 0xb0a79a1 (twiggy_nut)
+[01:29:21]: Could not unload undefined prefab 0xdaf8d5d (disease_fx_small)
+[01:29:21]: Could not unload undefined prefab 0xfb37cd5 (disease_fx)
+[01:29:21]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[01:29:21]: Could not unload undefined prefab 0xdaf8d5d (disease_fx_small)
+[01:29:21]: Could not unload undefined prefab 0x184178b (meat)
+[01:29:21]: Could not unload undefined prefab 0x23143240 (monstermeat_dried)
+[01:29:21]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[01:29:21]: Could not unload undefined prefab 0x71127e3 (carrot_cooked)
+[01:29:21]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[01:29:21]: Could not unload undefined prefab 0x184178b (meat)
+[01:29:21]: Could not unload undefined prefab 0x359da624 (log)
+[01:29:21]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[01:29:21]: Could not unload undefined prefab 0x29d8efdb (red_leaves_chop)
+[01:29:21]: Could not unload undefined prefab 0x39590c78 (orange_leaves_chop)
+[01:29:21]: Could not unload undefined prefab 0x2d1c40c (deciduous_root)
+[01:29:21]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[01:29:21]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[01:29:21]: Could not unload undefined prefab 0x235a9a90 (birchnutdrake)
+[01:29:21]: Could not unload undefined prefab 0x184178b (meat)
+[01:29:21]: Could not unload undefined prefab 0x359da624 (log)
+[01:29:21]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[01:29:21]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[01:29:21]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[01:29:21]: Could not unload undefined prefab 0x3036fc96 (ash)
+[01:29:21]: Could not unload undefined prefab 0x1a35332f (spore_medium)
+[01:29:21]: Could not unload undefined prefab 0x3158ce85 (brokenwall_stone)
+[01:29:21]: Could not unload undefined prefab 0x8119781a (cookedmandrake)
+[01:29:21]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[01:29:21]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[01:29:21]: Could not unload undefined prefab 0xa694a25e (mandrake_planted)
+[01:29:21]: Could not unload undefined prefab 0x359da624 (log)
+[01:29:21]: Could not unload undefined prefab 0x112002ba (twiggy_nut_sapling)
+[01:29:21]: Could not unload undefined prefab 0x184178b (meat)
+[01:29:21]: Could not unload undefined prefab 0x359da624 (log)
+[01:29:21]: Could not unload undefined prefab 0x1078732c (character_fire)
+[01:29:21]: Could not unload undefined prefab 0x184178b (meat)
+[01:29:21]: Could not unload undefined prefab 0x359da624 (log)
+[01:29:21]: Could not unload undefined prefab 0x1078732c (character_fire)
+[01:29:21]: Could not unload undefined prefab 0x78d69cdc (rock_petrified_tree_short)
+[01:29:21]: Could not unload undefined prefab 0x4f122f8c (rock_petrified_tree_med)
+[01:29:21]: Could not unload undefined prefab 0x9ce1eaee (rocks)
+[01:29:21]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[01:29:21]: Could not unload undefined prefab 0x50155047 (rock_petrified_tree_old)
+[01:29:21]: Could not unload undefined prefab 0xaec874c8 (disease_puff)
+[01:29:21]: Could not unload undefined prefab 0xdaf8d5d (disease_fx_small)
+[01:29:21]: Could not unload undefined prefab 0xfb37cd5 (disease_fx)
+[01:29:21]: Could not unload undefined prefab 0x1c124037 (disease_fx_tall)
+[01:29:21]: Could not unload undefined prefab 0x359da624 (log)
+[01:29:21]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[01:29:21]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[01:29:21]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[01:29:21]: Could not unload undefined prefab 0x3036fc96 (ash)
+[01:29:21]: Could not unload undefined prefab 0xed18eed (spore_small)
+[01:29:21]: Could not unload undefined prefab 0x8539b55b (mushtree_small_burntfx)
+[01:29:21]: Could not unload undefined prefab 0x994e32df (mushtree_small_bloom_burntfx)
+[01:29:21]: Could not unload undefined prefab 0x359da624 (log)
+[01:29:21]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[01:29:21]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[01:29:21]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[01:29:21]: Could not unload undefined prefab 0x3036fc96 (ash)
+[01:29:21]: Could not unload undefined prefab 0x5286daa7 (spore_tall)
+[01:29:21]: Could not unload undefined prefab 0x9db421e9 (mushtree_tall_burntfx)
+[01:29:21]: Could not unload undefined prefab 0x4336ea6d (mushtree_tall_bloom_burntfx)
+[01:29:22]: Mod: k02-376333686 (k02季节时钟)	Registering prefabs	
+[01:29:22]: Mod: k02-376333686 (k02季节时钟)	  Registering default mod prefab	
+[01:29:22]: Mod: k01-367546858 (k01中文MOD)	Registering prefabs	
+[01:29:22]: Mod: k01-367546858 (k01中文MOD)	  Registering default mod prefab	
+[01:29:22]: 	Load FE	
+[01:29:23]: 	Load FE: done	
+[01:29:23]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[01:29:23]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[01:29:23]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[01:29:23]: SimLuaProxy::QueryServer()
+[01:29:23]: ModIndex: Load sequence finished successfully.	
+[01:29:23]: Reset() returning
+[01:29:26]: unloading prefabs for mod MOD_k02-376333686	
+[01:29:26]: unloading prefabs for mod MOD_k01-367546858	
+[01:29:26]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[01:29:26]: Collecting garbage...
+[01:29:26]: lua_gc took 0.02 seconds
+[01:29:26]: ~ShardLuaProxy()
+[01:29:26]: ~ItemServerLuaProxy()
+[01:29:26]: ~InventoryLuaProxy()
+[01:29:26]: ~NetworkLuaProxy()
+[01:29:26]: ~SimLuaProxy()
+[01:29:26]: Cancelling LuaQueryCallback handle [42]
+[01:29:26]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[01:29:26]: lua_close took 0.03 seconds
+[01:29:26]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[01:29:26]: [Steam] Auth ticket cancelled
+[01:29:26]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:29:26]: anim/spider_egg_sac.zip - 1
+[01:29:26]: anim/disease_fx.zip - 2
+[01:29:26]: anim/wall.zip - 1
+[01:29:26]: anim/beefalo_actions.zip - 1
+[01:29:26]: anim/batwing.zip - 1
+[01:29:26]: anim/meat.zip - 1
+[01:29:26]: anim/beefalo_fx.zip - 1
+[01:29:26]: anim/horn.zip - 1
+[01:29:26]: anim/eyeplant_trap.zip - 1
+[01:29:26]: anim/beefalo_personality_ornery.zip - 1
+[01:29:26]: anim/meat_human.zip - 1
+[01:29:26]: anim/beefalo_domesticated.zip - 1
+[01:29:26]: anim/spoiled_food.zip - 1
+[01:29:26]: anim/beefalo_wool.zip - 1
+[01:29:26]: anim/log.zip - 1
+[01:29:26]: anim/smoke_puff_small.zip - 1
+[01:29:26]: anim/eyeplant_bulb.zip - 1
+[01:29:26]: anim/fire_large_character.zip - 1
+[01:29:26]: anim/meat_small.zip - 1
+[01:29:26]: anim/beefalo_personality_docile.zip - 1
+[01:29:26]: anim/beefalo_actions_quirky.zip - 1
+[01:29:26]: anim/beefalo_baby_build.zip - 1
+[01:29:26]: anim/meat_rack_food.zip - 1
+[01:29:26]: anim/plant_meat.zip - 1
+[01:29:26]: anim/beefalo_build.zip - 1
+[01:29:26]: anim/beefalo_actions_domestic.zip - 1
+[01:29:26]: anim/drumstick.zip - 1
+[01:29:26]: anim/wall_stone.zip - 1
+[01:29:26]: anim/mushrooms.zip - 3
+[01:29:26]: anim/mandrake.zip - 1
+[01:29:26]: anim/beefalo_basic.zip - 1
+[01:29:26]: anim/rabbit_house.zip - 1
+[01:29:26]: anim/ash.zip - 1
+[01:29:26]: anim/beefalo_shaved_build.zip - 1
+[01:29:26]: anim/beefalo_personality_pudgy.zip - 1
+[01:29:26]: anim/meat_monster.zip - 1
+[01:29:26]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:29:26]: shaders/ui_yuv.ksh - 1
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:29:26]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:29:26]: anim/fire_large_character.zip:fire_large_character--atlas-0.tex - 1
+[01:29:26]: anim/beefalo_build.zip:beefalo_build--atlas-0.tex - 1
+[01:29:26]: anim/beefalo_personality_ornery.zip:beefalo_personality_ornery--atlas-0.tex - 1
+[01:29:26]: anim/rabbit_house.zip:rabbit_house--atlas-0.tex - 1
+[01:29:26]: anim/meat_rack_food.zip:meat_rack_food--atlas-0.tex - 1
+[01:29:26]: anim/eyeplant_bulb.zip:eyeplant_bulb--atlas-0.tex - 1
+[01:29:26]: anim/wall_stone.zip:wall_stone--atlas-0.tex - 1
+[01:29:26]: anim/beefalo_baby_build.zip:beefalo_baby_build--atlas-0.tex - 1
+[01:29:26]: anim/ash.zip:ash--atlas-0.tex - 1
+[01:29:26]: anim/eyeplant_trap.zip:eyeplant_trap--atlas-0.tex - 1
+[01:29:26]: anim/fire_large_character.zip:fire_large_character--atlas-1.tex - 1
+[01:29:26]: anim/beefalo_shaved_build.zip:beefalo_shaved_build--atlas-0.tex - 1
+[01:29:26]: anim/beefalo_domesticated.zip:beefalo_domesticated--atlas-0.tex - 1
+[01:29:26]: anim/beefalo_personality_pudgy.zip:beefalo_personality_pudgy--atlas-0.tex - 1
+[01:29:26]: anim/disease_fx.zip:disease_fx--atlas-0.tex - 1
+[01:29:26]: anim/meat_human.zip:meat_human--atlas-0.tex - 1
+[01:29:26]: anim/meat_small.zip:meat_small--atlas-0.tex - 1
+[01:29:26]: anim/beefalo_personality_docile.zip:beefalo_personality_docile--atlas-0.tex - 1
+[01:29:26]: anim/beefalo_fx.zip:beefalo_fx--atlas-0.tex - 1
+[01:29:26]: anim/drumstick.zip:drumstick--atlas-0.tex - 1
+[01:29:26]: anim/beefalo_wool.zip:beefalo_wool--atlas-0.tex - 1
+[01:29:26]: anim/meat.zip:meat--atlas-0.tex - 1
+[01:29:26]: anim/batwing.zip:batwing--atlas-0.tex - 1
+[01:29:26]: anim/mushrooms.zip:mushrooms--atlas-0.tex - 1
+[01:29:26]: anim/log.zip:log--atlas-0.tex - 1
+[01:29:26]: anim/horn.zip:horn--atlas-0.tex - 1
+[01:29:26]: anim/smoke_puff_small.zip:smoke_puff_small--atlas-0.tex - 1
+[01:29:26]: anim/plant_meat.zip:plant_meat--atlas-0.tex - 1
+[01:29:26]: anim/spider_egg_sac.zip:spider_egg_sac--atlas-0.tex - 1
+[01:29:26]: anim/spoiled_food.zip:spoiled_food--atlas-0.tex - 1
+[01:29:26]: anim/mandrake.zip:mandrake--atlas-0.tex - 1
+[01:29:26]: anim/batwing.zip:batwing--atlas-1.tex - 1
+[01:29:26]: anim/meat_monster.zip:meat_monster--atlas-0.tex - 1
+[01:29:26]: anim/horn.zip:horn--atlas-1.tex - 1
+[01:29:27]: CurlRequestManager::ClientThread::Main() complete
+[01:29:27]: HttpClient2 discarded 0 callbacks.
+[01:29:27]: Shutting down

@@ -1,0 +1,539 @@
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 181387
+[00:00:00]: Current time: Wed Jan 04 21:19:20 2017
+
+[00:00:00]: Don't Starve Together: 181387 WIN32_STEAM
+[00:00:00]: Build Date: 733
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Initializing Steam
+[00:00:00]: Steam AppBuildID: 213
+[00:00:00]: Steam BetaName(Branch): [Game_Beta]
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (20668)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:5.02
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application D:\
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: could not load ping_cache
+[00:00:00]: Offline user ID: OU_76561198224511930
+[00:00:00]: THREAD - started 'ConsoleInput' (41576)
+[00:00:00]: SteamID: 76561198224511930
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 1317,736 - 5/6/5 - -1/-1/-1 - 0
+[00:00:01]: CreateEGLContext: 12 configs found
+[00:00:01]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:01]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:01]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:01]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:01]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:01]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:01]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:01]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:01]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:01]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:01]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:01]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:01]: RestoreWindowPosition
+[00:00:01]:    Saved Client Pos (0 x 31)
+[00:00:01]:    Adjusted Window Pos (-8 x 0)
+[00:00:01]: EnsureWindowOnScreen
+[00:00:01]:    All good.
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: THREAD - started 'WindowsInputManager' (19776)
+[00:00:01]: GL_VENDOR: Google Inc.
+[00:00:01]: GL_RENDERER: ANGLE (NVIDIA GeForce 610M)
+[00:00:01]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:01]: OpenGL extensions (19, 19):
+[00:00:01]: GL_ANGLE_depth_texture
+[00:00:01]: GL_ANGLE_framebuffer_blit
+[00:00:01]: GL_ANGLE_framebuffer_multisample
+[00:00:01]: GL_ANGLE_instanced_arrays
+[00:00:01]: GL_ANGLE_pack_reverse_row_order
+[00:00:01]: GL_ANGLE_texture_compression_dxt3
+[00:00:01]: GL_ANGLE_texture_compression_dxt5
+[00:00:01]: GL_ANGLE_texture_usage
+[00:00:01]: GL_ANGLE_translated_shader_source
+[00:00:01]: GL_EXT_read_format_bgra
+[00:00:01]: GL_EXT_robustness
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_format_BGRA8888
+[00:00:01]: GL_EXT_texture_storage
+[00:00:01]: GL_OES_get_program_binary
+[00:00:01]: GL_OES_packed_depth_stencil
+[00:00:01]: GL_OES_rgb8_rgba8
+[00:00:01]: GL_OES_standard_derivatives
+[00:00:01]: GL_OES_texture_npot
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:01]: GL_MAX_VARYING_VECTORS = 10
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f1
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:02]: AnimManager initialize: Okay
+[00:00:02]: Buffers initialize: Okay
+[00:00:02]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:02]: GameSpecific initialize: Okay
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: WARNING: icon paths for mod d57-409753995 (d57莉莉姆) are not valid. Got icon_atlas="modicon.xml" and icon="modicon.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[00:00:03]: ModIndex: Beginning normal load sequence.
+	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:03]: Could not load mod_config_data/modconfiguration_k01-367546858	
+[00:00:03]: Loading mod: k01-367546858 (k01中文MOD) Version:2.0 rc4	
+[00:00:03]: Could not load mod_config_data/modconfiguration_k02-376333686	
+[00:00:03]: Loading mod: k02-376333686 (k02季节时钟) Version:1.6.6	
+[00:00:03]: Mod: k02-376333686 (k02季节时钟)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: k02-376333686 (k02季节时钟)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: k02-376333686 (k02季节时钟)	Loading modmain.lua	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:00:03]: Mod: k01-367546858 (k01中文MOD)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: k01-367546858 (k01中文MOD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: k01-367546858 (k01中文MOD)	Loading modmain.lua	
+[00:00:03]: Translator:LoadPOFile - loading file: ../mods/k01-367546858/DST_chs.po	
+[00:00:03]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: PlayerDeaths loaded morgue	2479	
+[00:00:05]: PlayerHistory loaded player_history	425	
+[00:00:05]: bloom_enabled	false	
+[00:00:05]: loaded saveindex	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:07]: Mod: k02-376333686 (k02季节时钟)	Registering prefabs	
+[00:00:07]: Mod: k02-376333686 (k02季节时钟)	  Registering default mod prefab	
+[00:00:07]: Mod: k01-367546858 (k01中文MOD)	Registering prefabs	
+[00:00:07]: Mod: k01-367546858 (k01中文MOD)	  Registering default mod prefab	
+[00:00:07]: 	Load FE	
+[00:00:08]: 	Load FE: done	
+[00:00:08]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:08]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:08]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:08]: SimLuaProxy::QueryServer()
+[00:00:08]: ModIndex: Load sequence finished successfully.	
+[00:00:08]: Reset() returning
+[00:01:10]: [Steam] Auth Session Ticket requested...
+[00:01:11]: SimLuaProxy::QueryServer()
+[00:01:13]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"external", "limit": 20}
+[00:01:13]: Frontend-Unloading mod 'all'.	
+[00:01:15]: ../mods/e02-373480109/Coordinate.tex is 120x104 but compressed textures must have power of 2 dimensions.
+[00:01:16]: CURL ERROR: Connection timed out after 5000 milliseconds
+[00:01:33]: Network tick rate: U=15(2), D=0
+[00:01:33]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:33]: About to start a server with the following settings:
+[00:01:33]:   Dedicated: false
+[00:01:33]:   Online: false
+[00:01:33]:   Passworded: true
+[00:01:33]:   ServerPort: 10999
+[00:01:33]:   SteamAuthPort: 8766
+[00:01:33]:   SteamMasterServerPort: 27016
+[00:01:33]:   ClanID: false
+[00:01:33]:   ClanOnly: false
+[00:01:33]:   ClanAdmin: false
+[00:01:33]:   LanOnly: true
+[00:01:33]:   FriendsOnly: false
+[00:01:33]:   EnableAutosaver: true
+[00:01:33]:   PVP: false
+[00:01:33]:   MaxPlayers: 6
+[00:01:33]:   GameMode: survival
+[00:01:33]:   OverridenDNS: 
+[00:01:33]:   PauseWhenEmpty: true
+[00:01:33]:   VoteEnabled: false
+[00:01:33]:   InternetBroadcasting: true
+[00:01:33]:   Intent: cooperative
+[00:01:33]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:01:33]: Lan Server Started on port: 10999
+[00:01:35]: unloading prefabs for mod MOD_k02-376333686	
+[00:01:35]: unloading prefabs for mod MOD_k01-367546858	
+[00:01:35]: Collecting garbage...
+[00:01:35]: lua_gc took 0.03 seconds
+[00:01:35]: ~ShardLuaProxy()
+[00:01:35]: ~ItemServerLuaProxy()
+[00:01:35]: ~InventoryLuaProxy()
+[00:01:35]: ~NetworkLuaProxy()
+[00:01:35]: ~SimLuaProxy()
+[00:01:35]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:35]: lua_close took 0.04 seconds
+[00:01:35]: ReleaseAll
+[00:01:35]: ReleaseAll Finished
+[00:01:35]: cGame::StartPlaying
+[00:01:35]: LOADING LUA
+[00:01:35]: DoLuaFile scripts/main.lua
+[00:01:35]: DoLuaFile loading buffer scripts/main.lua
+[00:01:35]: running main.lua
+	
+[00:01:35]: loaded modindex	
+[00:01:35]: WARNING: icon paths for mod d57-409753995 (d57莉莉姆) are not valid. Got icon_atlas="modicon.xml" and icon="modicon.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[00:01:35]: ModIndex: Beginning normal load sequence.
+	
+[00:01:36]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:01:36]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:01:36]: Could not load mod_config_data/modconfiguration_k01-367546858	
+[00:01:36]: Loading mod: k01-367546858 (k01中文MOD) Version:2.0 rc4	
+[00:01:36]: Could not load mod_config_data/modconfiguration_k02-376333686	
+[00:01:36]: Loading mod: k02-376333686 (k02季节时钟) Version:1.6.6	
+[00:01:36]: Mod: k02-376333686 (k02季节时钟)	Loading modworldgenmain.lua	
+[00:01:36]: Mod: k02-376333686 (k02季节时钟)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:36]: Mod: k02-376333686 (k02季节时钟)	Loading modmain.lua	
+[00:01:36]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:01:36]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:01:36]: Mod: k01-367546858 (k01中文MOD)	Loading modworldgenmain.lua	
+[00:01:36]: Mod: k01-367546858 (k01中文MOD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:36]: Mod: k01-367546858 (k01中文MOD)	Loading modmain.lua	
+[00:01:36]: Translator:LoadPOFile - loading file: ../mods/k01-367546858/DST_chs.po	
+[00:01:36]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[00:01:36]: LOADING LUA SUCCESS
+[00:01:36]: PlayerDeaths loaded morgue	2479	
+[00:01:36]: PlayerHistory loaded player_history	425	
+[00:01:36]: bloom_enabled	false	
+[00:01:36]: loaded saveindex	
+[00:01:36]: OnFilesLoaded()	
+[00:01:36]: OnUpdatePurchaseStateComplete	
+[00:01:36]: 	Unload FE	
+[00:01:36]: 	Unload FE done	
+[00:01:37]: Mod: k02-376333686 (k02季节时钟)	Registering prefabs	
+[00:01:37]: Mod: k02-376333686 (k02季节时钟)	  Registering default mod prefab	
+[00:01:37]: Mod: k01-367546858 (k01中文MOD)	Registering prefabs	
+[00:01:37]: Mod: k01-367546858 (k01中文MOD)	  Registering default mod prefab	
+[00:01:37]: 	LOAD BE	
+[00:01:39]: 	LOAD BE: done	
+[00:01:39]: Loading world: session/64685B2C07C03805/0000000154	
+[00:01:40]: Save file is at version 3	
+[00:01:40]: Begin Session: 64685B2C07C03805
+[00:01:40]: saving to server_temp/server_save	
+[00:01:40]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:01:41]: Loading Nav Grid	
+[00:01:41]: setting 	summerlength	15	
+[00:01:41]: setting 	isnightmaredawn	false	
+[00:01:41]: setting 	elapseddaysinseason	10	
+[00:01:41]: setting 	isfullmoon	false	
+[00:01:41]: setting 	moisture	1672.5772705078	
+[00:01:41]: setting 	cavephase	day	
+[00:01:41]: setting 	isnightmarewild	false	
+[00:01:41]: setting 	moonphase	quarter	
+[00:01:41]: setting 	precipitationrate	0	
+[00:01:41]: setting 	iswet	false	
+[00:01:41]: setting 	winterlength	15	
+[00:01:41]: setting 	temperature	-22.002262884161	
+[00:01:41]: setting 	isnightmarewarn	false	
+[00:01:41]: setting 	iswinter	true	
+[00:01:41]: setting 	moistureceil	2642.3803710938	
+[00:01:41]: setting 	isday	true	
+[00:01:41]: setting 	israining	false	
+[00:01:41]: setting 	remainingdaysinseason	5	
+[00:01:41]: setting 	precipitation	none	
+[00:01:41]: setting 	wetness	0	
+[00:01:41]: setting 	isnightmarecalm	false	
+[00:01:41]: setting 	timeinphase	0.056516520182292	
+[00:01:41]: setting 	isdusk	false	
+[00:01:41]: setting 	iscavedusk	false	
+[00:01:41]: setting 	isautumn	false	
+[00:01:41]: setting 	issnowing	false	
+[00:01:41]: setting 	iscaveday	true	
+[00:01:41]: setting 	phase	day	
+[00:01:41]: setting 	snowlevel	1	
+[00:01:41]: setting 	issnowcovered	true	
+[00:01:41]: setting 	autumnlength	20	
+[00:01:41]: setting 	pop	0.42045133240446	
+[00:01:41]: setting 	nightmaretime	0	
+[00:01:41]: setting 	springlength	20	
+[00:01:41]: setting 	isspring	false	
+[00:01:41]: setting 	nightmarephase	none	
+[00:01:41]: setting 	season	winter	
+[00:01:41]: setting 	time	0.017661412556966	
+[00:01:41]: setting 	iscavenight	false	
+[00:01:41]: setting 	cycles	100	
+[00:01:41]: setting 	isnight	false	
+[00:01:41]: setting 	nightmaretimeinphase	0	
+[00:01:41]: setting 	issummer	false	
+[00:01:48]: Reconstructing topology	
+[00:01:48]: 	...Sorting points	
+[00:01:48]: 	...Sorting edges	
+[00:01:48]: 	...Connecting nodes	
+[00:01:48]: 	...Validating connections	
+[00:01:48]: 	...Housekeeping	
+[00:01:48]: 	...Done!	
+[00:01:48]: 1 uploads added to server. From server_temp
+[00:01:48]: Telling Client our new session identifier: 64685B2C07C03805
+[00:01:48]: ModIndex: Load sequence finished successfully.	
+[00:01:48]: Reset() returning
+[00:01:49]: Unconnected ping from 192.168.2.80|59556
+[00:01:49]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:01:49]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:01:49]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:01:49]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:01:49]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:01:49]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:01:49]: Attempting to send resume request
+[00:01:49]: Resuming user: session/64685B2C07C03805/OU_76561198224511930_/0000000154
+[00:01:49]: Spawning player at: [Load] (-319.67, -0.00, 102.08)	
+[00:01:49]: ReceiveResumeNotification
+[00:01:49]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:01:49]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:01:49]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:01:49]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:01:49]: Loading minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:01:49]: Deserializing cached icon data: 4859
+[00:01:49]: Deserializing tile data (425 x 425)
+[00:01:49]: Unconnected ping from 192.168.2.27|54724
+[00:01:50]: Unconnected ping from 192.168.2.154|64902
+[00:01:52]: Unconnected ping from 192.168.2.27|54724
+[00:02:02]: Unconnected ping from 192.168.2.79|4098
+[00:02:11]: Unconnected ping from 192.168.2.53|57651
+[00:02:22]: Unconnected ping from 192.168.2.53|57651
+[00:02:27]: Unconnected ping from 192.168.2.33|50857
+[00:02:34]: Unconnected ping from 192.168.2.24|54109
+[00:02:40]: Unconnected ping from 192.168.2.218|61440
+[00:02:51]: Unconnected ping from 192.168.2.69|62414
+[00:02:53]: Unconnected ping from 192.168.2.99|62513
+[00:03:02]: Unconnected ping from 192.168.2.185|63268
+[00:03:20]: Unconnected ping from 192.168.2.147|50536
+[00:03:24]: Unconnected ping from 192.168.2.64|50533
+[00:03:27]: Unconnected ping from 192.168.2.188|55640
+[00:03:28]: Unconnected ping from 192.168.2.188|55640
+[00:03:30]: Unconnected ping from 192.168.2.72|54000
+[00:03:31]: Unconnected ping from 192.168.2.202|59314
+[00:03:31]: Unconnected ping from 192.168.2.64|50533
+[00:03:32]: Unconnected ping from 192.168.2.72|54000
+[00:03:37]: Unconnected ping from 192.168.2.51|58199
+[00:03:43]: Unconnected ping from 192.168.2.72|54000
+[00:03:44]: Unconnected ping from 192.168.2.72|54000
+[00:03:47]: Unconnected ping from 192.168.2.174|56214
+[00:03:47]: Unconnected ping from 192.168.2.188|55640
+[00:03:54]: Unconnected ping from 192.168.2.62|63678
+[00:03:56]: Unconnected ping from 192.168.2.99|59189
+[00:03:57]: Unconnected ping from 192.168.2.174|56214
+[00:04:02]: DoRestart:	true	
+[00:04:03]: Unconnected ping from 192.168.2.188|55640
+[00:04:03]: Serializing minimap: session/64685B2C07C03805/OU_76561198224511930_/minimap
+[00:04:03]: Serializing user: session/64685B2C07C03805/OU_76561198224511930_/0000000155
+[00:04:04]: Serializing world: session/64685B2C07C03805/0000000155
+[00:04:04]: Truncating to snapshot #155...
+[00:04:04]:  - session/64685B2C07C03805/0000000149
+[00:04:04]:  - session/64685B2C07C03805/OU_76561198224511930_/0000000149
+[00:04:04]:    2 file(s) removed
+[00:04:04]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:04:04]: unloading prefabs for mod MOD_k02-376333686	
+[00:04:04]: unloading prefabs for mod MOD_k01-367546858	
+[00:04:04]: Collecting garbage...
+[00:04:04]: lua_gc took 0.14 seconds
+[00:04:04]: ~ShardLuaProxy()
+[00:04:04]: ~ItemServerLuaProxy()
+[00:04:04]: ~InventoryLuaProxy()
+[00:04:04]: ~NetworkLuaProxy()
+[00:04:04]: ~SimLuaProxy()
+[00:04:04]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:04:04]: lua_close took 0.28 seconds
+[00:04:04]: ReleaseAll
+[00:04:04]: ReleaseAll Finished
+[00:04:04]: cGame::StartPlaying
+[00:04:04]: LOADING LUA
+[00:04:04]: DoLuaFile scripts/main.lua
+[00:04:04]: DoLuaFile loading buffer scripts/main.lua
+[00:04:04]: running main.lua
+	
+[00:04:04]: loaded modindex	
+[00:04:04]: WARNING: icon paths for mod d57-409753995 (d57莉莉姆) are not valid. Got icon_atlas="modicon.xml" and icon="modicon.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[00:04:05]: ModIndex: Beginning normal load sequence.
+	
+[00:04:05]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:04:05]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:04:05]: Could not load mod_config_data/modconfiguration_k01-367546858	
+[00:04:05]: Loading mod: k01-367546858 (k01中文MOD) Version:2.0 rc4	
+[00:04:05]: Could not load mod_config_data/modconfiguration_k02-376333686	
+[00:04:05]: Loading mod: k02-376333686 (k02季节时钟) Version:1.6.6	
+[00:04:05]: Mod: k02-376333686 (k02季节时钟)	Loading modworldgenmain.lua	
+[00:04:05]: Mod: k02-376333686 (k02季节时钟)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:05]: Mod: k02-376333686 (k02季节时钟)	Loading modmain.lua	
+[00:04:05]: ModIndex:GetModsToLoad inserting moddir, 	k01-367546858	
+[00:04:05]: ModIndex:GetModsToLoad inserting moddir, 	k02-376333686	
+[00:04:05]: Mod: k01-367546858 (k01中文MOD)	Loading modworldgenmain.lua	
+[00:04:05]: Mod: k01-367546858 (k01中文MOD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:05]: Mod: k01-367546858 (k01中文MOD)	Loading modmain.lua	
+[00:04:05]: Translator:LoadPOFile - loading file: ../mods/k01-367546858/DST_chs.po	
+[00:04:05]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[00:04:05]: LOADING LUA SUCCESS
+[00:04:05]: PlayerDeaths loaded morgue	2479	
+[00:04:05]: PlayerHistory loaded player_history	425	
+[00:04:05]: bloom_enabled	false	
+[00:04:05]: loaded saveindex	
+[00:04:05]: OnFilesLoaded()	
+[00:04:05]: OnUpdatePurchaseStateComplete	
+[00:04:05]: 	Unload BE	
+[00:04:05]: 	Unload BE done	
+[00:04:05]: Could not unload undefined prefab 0xb0a79a1 (twiggy_nut)
+[00:04:05]: Could not unload undefined prefab 0xdaf8d5d (disease_fx_small)
+[00:04:05]: Could not unload undefined prefab 0xfb37cd5 (disease_fx)
+[00:04:05]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[00:04:05]: Could not unload undefined prefab 0xdaf8d5d (disease_fx_small)
+[00:04:05]: Could not unload undefined prefab 0x359da624 (log)
+[00:04:05]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[00:04:05]: Could not unload undefined prefab 0x29d8efdb (red_leaves_chop)
+[00:04:05]: Could not unload undefined prefab 0x39590c78 (orange_leaves_chop)
+[00:04:05]: Could not unload undefined prefab 0x2d1c40c (deciduous_root)
+[00:04:05]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[00:04:05]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[00:04:05]: Could not unload undefined prefab 0x235a9a90 (birchnutdrake)
+[00:04:05]: Could not unload undefined prefab 0x184178b (meat)
+[00:04:05]: Could not unload undefined prefab 0x359da624 (log)
+[00:04:05]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[00:04:05]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[00:04:05]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[00:04:05]: Could not unload undefined prefab 0x3036fc96 (ash)
+[00:04:05]: Could not unload undefined prefab 0x1a35332f (spore_medium)
+[00:04:05]: Could not unload undefined prefab 0x8119781a (cookedmandrake)
+[00:04:05]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[00:04:05]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[00:04:05]: Could not unload undefined prefab 0xa694a25e (mandrake_planted)
+[00:04:05]: Could not unload undefined prefab 0x359da624 (log)
+[00:04:05]: Could not unload undefined prefab 0x112002ba (twiggy_nut_sapling)
+[00:04:05]: Could not unload undefined prefab 0x184178b (meat)
+[00:04:05]: Could not unload undefined prefab 0x359da624 (log)
+[00:04:05]: Could not unload undefined prefab 0x1078732c (character_fire)
+[00:04:05]: Could not unload undefined prefab 0x184178b (meat)
+[00:04:05]: Could not unload undefined prefab 0x359da624 (log)
+[00:04:05]: Could not unload undefined prefab 0x1078732c (character_fire)
+[00:04:05]: Could not unload undefined prefab 0x78d69cdc (rock_petrified_tree_short)
+[00:04:05]: Could not unload undefined prefab 0x4f122f8c (rock_petrified_tree_med)
+[00:04:05]: Could not unload undefined prefab 0x9ce1eaee (rocks)
+[00:04:05]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[00:04:05]: Could not unload undefined prefab 0x50155047 (rock_petrified_tree_old)
+[00:04:05]: Could not unload undefined prefab 0xaec874c8 (disease_puff)
+[00:04:05]: Could not unload undefined prefab 0xdaf8d5d (disease_fx_small)
+[00:04:05]: Could not unload undefined prefab 0xfb37cd5 (disease_fx)
+[00:04:05]: Could not unload undefined prefab 0x1c124037 (disease_fx_tall)
+[00:04:05]: Could not unload undefined prefab 0x359da624 (log)
+[00:04:05]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[00:04:05]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[00:04:05]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[00:04:05]: Could not unload undefined prefab 0x3036fc96 (ash)
+[00:04:05]: Could not unload undefined prefab 0xed18eed (spore_small)
+[00:04:05]: Could not unload undefined prefab 0x8539b55b (mushtree_small_burntfx)
+[00:04:05]: Could not unload undefined prefab 0x994e32df (mushtree_small_bloom_burntfx)
+[00:04:05]: Could not unload undefined prefab 0x359da624 (log)
+[00:04:05]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[00:04:05]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[00:04:05]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[00:04:05]: Could not unload undefined prefab 0x3036fc96 (ash)
+[00:04:05]: Could not unload undefined prefab 0x5286daa7 (spore_tall)
+[00:04:05]: Could not unload undefined prefab 0x9db421e9 (mushtree_tall_burntfx)
+[00:04:05]: Could not unload undefined prefab 0x4336ea6d (mushtree_tall_bloom_burntfx)
+[00:04:06]: Mod: k02-376333686 (k02季节时钟)	Registering prefabs	
+[00:04:06]: Mod: k02-376333686 (k02季节时钟)	  Registering default mod prefab	
+[00:04:06]: Mod: k01-367546858 (k01中文MOD)	Registering prefabs	
+[00:04:06]: Mod: k01-367546858 (k01中文MOD)	  Registering default mod prefab	
+[00:04:06]: 	Load FE	
+[00:04:07]: 	Load FE: done	
+[00:04:07]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:04:07]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:04:07]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:04:07]: SimLuaProxy::QueryServer()
+[00:04:07]: ModIndex: Load sequence finished successfully.	
+[00:04:07]: Reset() returning
+[00:04:09]: unloading prefabs for mod MOD_k02-376333686	
+[00:04:09]: unloading prefabs for mod MOD_k01-367546858	
+[00:04:09]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:04:09]: Collecting garbage...
+[00:04:09]: lua_gc took 0.02 seconds
+[00:04:09]: ~ShardLuaProxy()
+[00:04:09]: ~ItemServerLuaProxy()
+[00:04:09]: ~InventoryLuaProxy()
+[00:04:09]: ~NetworkLuaProxy()
+[00:04:09]: ~SimLuaProxy()
+[00:04:09]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:04:09]: lua_close took 0.03 seconds
+[00:04:10]: SteamWorkshop::CancelDownloads clearing all unfinished downloads
+[00:04:10]: [Steam] Auth ticket cancelled
+[00:04:10]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:04:10]: anim/disease_fx.zip - 2
+[00:04:10]: anim/batwing.zip - 1
+[00:04:10]: anim/meat.zip - 1
+[00:04:10]: anim/meat_human.zip - 1
+[00:04:10]: anim/spoiled_food.zip - 1
+[00:04:10]: anim/log.zip - 1
+[00:04:10]: anim/smoke_puff_small.zip - 1
+[00:04:10]: anim/fire_large_character.zip - 1
+[00:04:10]: anim/meat_small.zip - 1
+[00:04:10]: anim/meat_rack_food.zip - 1
+[00:04:10]: anim/plant_meat.zip - 1
+[00:04:10]: anim/drumstick.zip - 1
+[00:04:10]: anim/mushrooms.zip - 3
+[00:04:10]: anim/mandrake.zip - 1
+[00:04:10]: anim/ash.zip - 1
+[00:04:10]: anim/meat_monster.zip - 1
+[00:04:10]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:04:10]: shaders/ui_yuv.ksh - 1
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:04:10]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:04:10]: anim/fire_large_character.zip:fire_large_character--atlas-0.tex - 1
+[00:04:10]: anim/meat_rack_food.zip:meat_rack_food--atlas-0.tex - 1
+[00:04:10]: anim/ash.zip:ash--atlas-0.tex - 1
+[00:04:10]: anim/fire_large_character.zip:fire_large_character--atlas-1.tex - 1
+[00:04:10]: anim/disease_fx.zip:disease_fx--atlas-0.tex - 1
+[00:04:10]: anim/meat_human.zip:meat_human--atlas-0.tex - 1
+[00:04:10]: anim/meat_small.zip:meat_small--atlas-0.tex - 1
+[00:04:10]: anim/drumstick.zip:drumstick--atlas-0.tex - 1
+[00:04:10]: anim/meat.zip:meat--atlas-0.tex - 1
+[00:04:10]: anim/batwing.zip:batwing--atlas-0.tex - 1
+[00:04:10]: anim/mushrooms.zip:mushrooms--atlas-0.tex - 1
+[00:04:10]: anim/log.zip:log--atlas-0.tex - 1
+[00:04:10]: anim/smoke_puff_small.zip:smoke_puff_small--atlas-0.tex - 1
+[00:04:10]: anim/plant_meat.zip:plant_meat--atlas-0.tex - 1
+[00:04:10]: anim/spoiled_food.zip:spoiled_food--atlas-0.tex - 1
+[00:04:10]: anim/mandrake.zip:mandrake--atlas-0.tex - 1
+[00:04:10]: anim/batwing.zip:batwing--atlas-1.tex - 1
+[00:04:10]: anim/meat_monster.zip:meat_monster--atlas-0.tex - 1
+[00:04:10]: CurlRequestManager::ClientThread::Main() complete
+[00:04:10]: HttpClient2 discarded 0 callbacks.
+[00:04:10]: Shutting down
